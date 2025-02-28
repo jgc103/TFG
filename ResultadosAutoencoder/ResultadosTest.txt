@@ -1,0 +1,2418 @@
+
+
+C:\Users\Jorge\Desktop\Universidad\TFG\Codigo\ADHD\.venv\Scripts\python.exe C:\Users\Jorge\Desktop\Universidad\TFG\Codigo\ADHD\ADHDPrueba2.py 
+2025-02-22 18:56:08.217572: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-02-22 18:56:14.296686: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Leyendo el archivo: KKI_1019436.txt
+Grafo KKI_1019436.txt procesado correctamente.
+Leyendo el archivo: KKI_1535233.txt
+Grafo KKI_1535233.txt procesado correctamente.
+Leyendo el archivo: KKI_1594156.txt
+Grafo KKI_1594156.txt procesado correctamente.
+Leyendo el archivo: KKI_1623716.txt
+Grafo KKI_1623716.txt procesado correctamente.
+Leyendo el archivo: KKI_1638334.txt
+Grafo KKI_1638334.txt procesado correctamente.
+Leyendo el archivo: KKI_1873761.txt
+Grafo KKI_1873761.txt procesado correctamente.
+Leyendo el archivo: KKI_2081148.txt
+Grafo KKI_2081148.txt procesado correctamente.
+Leyendo el archivo: KKI_2104012.txt
+Grafo KKI_2104012.txt procesado correctamente.
+Leyendo el archivo: KKI_2768273.txt
+Grafo KKI_2768273.txt procesado correctamente.
+Leyendo el archivo: KKI_2822304.txt
+Grafo KKI_2822304.txt procesado correctamente.
+Leyendo el archivo: KKI_3170319.txt
+Grafo KKI_3170319.txt procesado correctamente.
+Leyendo el archivo: KKI_3884955.txt
+Grafo KKI_3884955.txt procesado correctamente.
+Leyendo el archivo: KKI_3972472.txt
+Grafo KKI_3972472.txt procesado correctamente.
+Leyendo el archivo: KKI_3972956.txt
+Grafo KKI_3972956.txt procesado correctamente.
+Leyendo el archivo: KKI_4104523.txt
+Grafo KKI_4104523.txt procesado correctamente.
+Leyendo el archivo: KKI_4154182.txt
+Grafo KKI_4154182.txt procesado correctamente.
+Leyendo el archivo: KKI_4275075.txt
+Grafo KKI_4275075.txt procesado correctamente.
+Leyendo el archivo: KKI_7129258.txt
+Grafo KKI_7129258.txt procesado correctamente.
+Leyendo el archivo: KKI_8083695.txt
+Grafo KKI_8083695.txt procesado correctamente.
+Leyendo el archivo: KKI_8628223.txt
+Grafo KKI_8628223.txt procesado correctamente.
+Leyendo el archivo: NeuroIMAGE_1125505.txt
+Grafo NeuroIMAGE_1125505.txt procesado correctamente.
+Leyendo el archivo: NeuroIMAGE_1312097.txt
+Grafo NeuroIMAGE_1312097.txt procesado correctamente.
+Leyendo el archivo: NeuroIMAGE_1538046.txt
+Grafo NeuroIMAGE_1538046.txt procesado correctamente.
+Leyendo el archivo: NeuroIMAGE_2574674.txt
+Grafo NeuroIMAGE_2574674.txt procesado correctamente.
+Leyendo el archivo: NeuroIMAGE_2756846.txt
+Grafo NeuroIMAGE_2756846.txt procesado correctamente.
+Leyendo el archivo: NeuroIMAGE_3007585.txt
+Grafo NeuroIMAGE_3007585.txt procesado correctamente.
+Leyendo el archivo: NeuroIMAGE_3190461.txt
+Grafo NeuroIMAGE_3190461.txt procesado correctamente.
+Leyendo el archivo: NeuroIMAGE_3304956.txt
+Grafo NeuroIMAGE_3304956.txt procesado correctamente.
+Leyendo el archivo: NeuroIMAGE_3322144.txt
+Grafo NeuroIMAGE_3322144.txt procesado correctamente.
+Leyendo el archivo: NeuroIMAGE_3449233.txt
+Grafo NeuroIMAGE_3449233.txt procesado correctamente.
+Leyendo el archivo: NeuroIMAGE_3566449.txt
+Grafo NeuroIMAGE_3566449.txt procesado correctamente.
+Leyendo el archivo: NeuroIMAGE_3858891.txt
+Grafo NeuroIMAGE_3858891.txt procesado correctamente.
+Leyendo el archivo: NeuroIMAGE_3888614.txt
+Grafo NeuroIMAGE_3888614.txt procesado correctamente.
+Leyendo el archivo: NeuroIMAGE_3941358.txt
+Grafo NeuroIMAGE_3941358.txt procesado correctamente.
+Leyendo el archivo: NeuroIMAGE_3959823.txt
+Grafo NeuroIMAGE_3959823.txt procesado correctamente.
+Leyendo el archivo: NeuroIMAGE_3980079.txt
+Grafo NeuroIMAGE_3980079.txt procesado correctamente.
+Leyendo el archivo: NeuroIMAGE_4134561.txt
+Grafo NeuroIMAGE_4134561.txt procesado correctamente.
+Leyendo el archivo: NeuroIMAGE_6115230.txt
+Grafo NeuroIMAGE_6115230.txt procesado correctamente.
+Leyendo el archivo: NeuroIMAGE_7446626.txt
+Grafo NeuroIMAGE_7446626.txt procesado correctamente.
+Leyendo el archivo: NeuroIMAGE_7504392.txt
+Grafo NeuroIMAGE_7504392.txt procesado correctamente.
+Leyendo el archivo: NeuroIMAGE_8409791.txt
+Grafo NeuroIMAGE_8409791.txt procesado correctamente.
+Leyendo el archivo: NeuroIMAGE_8991934.txt
+Grafo NeuroIMAGE_8991934.txt procesado correctamente.
+Leyendo el archivo: NYU_0010004.txt
+Grafo NYU_0010004.txt procesado correctamente.
+Leyendo el archivo: NYU_0010010.txt
+Grafo NYU_0010010.txt procesado correctamente.
+Leyendo el archivo: NYU_0010020.txt
+Grafo NYU_0010020.txt procesado correctamente.
+Leyendo el archivo: NYU_0010021.txt
+Grafo NYU_0010021.txt procesado correctamente.
+Leyendo el archivo: NYU_0010023.txt
+Grafo NYU_0010023.txt procesado correctamente.
+Leyendo el archivo: NYU_0010024.txt
+Grafo NYU_0010024.txt procesado correctamente.
+Leyendo el archivo: NYU_0010028.txt
+Grafo NYU_0010028.txt procesado correctamente.
+Leyendo el archivo: NYU_0010029.txt
+Grafo NYU_0010029.txt procesado correctamente.
+Leyendo el archivo: NYU_0010031.txt
+Grafo NYU_0010031.txt procesado correctamente.
+Leyendo el archivo: NYU_0010032.txt
+Grafo NYU_0010032.txt procesado correctamente.
+Leyendo el archivo: NYU_0010034.txt
+Grafo NYU_0010034.txt procesado correctamente.
+Leyendo el archivo: NYU_0010035.txt
+Grafo NYU_0010035.txt procesado correctamente.
+Leyendo el archivo: NYU_0010037.txt
+Grafo NYU_0010037.txt procesado correctamente.
+Leyendo el archivo: NYU_0010040.txt
+Grafo NYU_0010040.txt procesado correctamente.
+Leyendo el archivo: NYU_0010043.txt
+Grafo NYU_0010043.txt procesado correctamente.
+Leyendo el archivo: NYU_0010044.txt
+Grafo NYU_0010044.txt procesado correctamente.
+Leyendo el archivo: NYU_0010045.txt
+Grafo NYU_0010045.txt procesado correctamente.
+Leyendo el archivo: NYU_0010052.txt
+Grafo NYU_0010052.txt procesado correctamente.
+Leyendo el archivo: NYU_0010053.txt
+Grafo NYU_0010053.txt procesado correctamente.
+Leyendo el archivo: NYU_0010054.txt
+Grafo NYU_0010054.txt procesado correctamente.
+Leyendo el archivo: NYU_0010057.txt
+Grafo NYU_0010057.txt procesado correctamente.
+Leyendo el archivo: NYU_0010058.txt
+Grafo NYU_0010058.txt procesado correctamente.
+Leyendo el archivo: NYU_0010059.txt
+Grafo NYU_0010059.txt procesado correctamente.
+Leyendo el archivo: NYU_0010065.txt
+Grafo NYU_0010065.txt procesado correctamente.
+Leyendo el archivo: NYU_0010068.txt
+Grafo NYU_0010068.txt procesado correctamente.
+Leyendo el archivo: NYU_0010072.txt
+Grafo NYU_0010072.txt procesado correctamente.
+Leyendo el archivo: NYU_0010073.txt
+Grafo NYU_0010073.txt procesado correctamente.
+Leyendo el archivo: NYU_0010079.txt
+Grafo NYU_0010079.txt procesado correctamente.
+Leyendo el archivo: NYU_0010081.txt
+Grafo NYU_0010081.txt procesado correctamente.
+Leyendo el archivo: NYU_0010083.txt
+Grafo NYU_0010083.txt procesado correctamente.
+Leyendo el archivo: NYU_0010084.txt
+Grafo NYU_0010084.txt procesado correctamente.
+Leyendo el archivo: NYU_0010085.txt
+Grafo NYU_0010085.txt procesado correctamente.
+Leyendo el archivo: NYU_0010087.txt
+Grafo NYU_0010087.txt procesado correctamente.
+Leyendo el archivo: NYU_0010088.txt
+Grafo NYU_0010088.txt procesado correctamente.
+Leyendo el archivo: NYU_0010089.txt
+Grafo NYU_0010089.txt procesado correctamente.
+Leyendo el archivo: NYU_0010090.txt
+Grafo NYU_0010090.txt procesado correctamente.
+Leyendo el archivo: NYU_0010091.txt
+Grafo NYU_0010091.txt procesado correctamente.
+Leyendo el archivo: NYU_0010092.txt
+Grafo NYU_0010092.txt procesado correctamente.
+Leyendo el archivo: NYU_0010095.txt
+Grafo NYU_0010095.txt procesado correctamente.
+Leyendo el archivo: NYU_0010097.txt
+Grafo NYU_0010097.txt procesado correctamente.
+Leyendo el archivo: NYU_0010099.txt
+Grafo NYU_0010099.txt procesado correctamente.
+Leyendo el archivo: NYU_0010100.txt
+Grafo NYU_0010100.txt procesado correctamente.
+Leyendo el archivo: NYU_0010102.txt
+Grafo NYU_0010102.txt procesado correctamente.
+Leyendo el archivo: NYU_0010104.txt
+Grafo NYU_0010104.txt procesado correctamente.
+Leyendo el archivo: NYU_0010108.txt
+Grafo NYU_0010108.txt procesado correctamente.
+Leyendo el archivo: NYU_0010113.txt
+Grafo NYU_0010113.txt procesado correctamente.
+Leyendo el archivo: NYU_0010114.txt
+Grafo NYU_0010114.txt procesado correctamente.
+Leyendo el archivo: NYU_0010116.txt
+Grafo NYU_0010116.txt procesado correctamente.
+Leyendo el archivo: NYU_0010118.txt
+Grafo NYU_0010118.txt procesado correctamente.
+Leyendo el archivo: NYU_0010120.txt
+Grafo NYU_0010120.txt procesado correctamente.
+Leyendo el archivo: NYU_0010122.txt
+Grafo NYU_0010122.txt procesado correctamente.
+Leyendo el archivo: NYU_0010124.txt
+Grafo NYU_0010124.txt procesado correctamente.
+Leyendo el archivo: NYU_0010126.txt
+Grafo NYU_0010126.txt procesado correctamente.
+Leyendo el archivo: NYU_0010129.txt
+Grafo NYU_0010129.txt procesado correctamente.
+Leyendo el archivo: NYU_1057962.txt
+Grafo NYU_1057962.txt procesado correctamente.
+Leyendo el archivo: NYU_1099481.txt
+Grafo NYU_1099481.txt procesado correctamente.
+Leyendo el archivo: NYU_1187766.txt
+Grafo NYU_1187766.txt procesado correctamente.
+Leyendo el archivo: NYU_1320247.txt
+Grafo NYU_1320247.txt procesado correctamente.
+Leyendo el archivo: NYU_1359325.txt
+Grafo NYU_1359325.txt procesado correctamente.
+Leyendo el archivo: NYU_1511464.txt
+Grafo NYU_1511464.txt procesado correctamente.
+Leyendo el archivo: NYU_1737393.txt
+Grafo NYU_1737393.txt procesado correctamente.
+Leyendo el archivo: NYU_1780174.txt
+Grafo NYU_1780174.txt procesado correctamente.
+Leyendo el archivo: NYU_1854959.txt
+Grafo NYU_1854959.txt procesado correctamente.
+Leyendo el archivo: NYU_1918630.txt
+Grafo NYU_1918630.txt procesado correctamente.
+Leyendo el archivo: NYU_1934623.txt
+Grafo NYU_1934623.txt procesado correctamente.
+Leyendo el archivo: NYU_2054438.txt
+Grafo NYU_2054438.txt procesado correctamente.
+Leyendo el archivo: NYU_2107638.txt
+Grafo NYU_2107638.txt procesado correctamente.
+Leyendo el archivo: NYU_2230510.txt
+Grafo NYU_2230510.txt procesado correctamente.
+Leyendo el archivo: NYU_2306976.txt
+Grafo NYU_2306976.txt procesado correctamente.
+Leyendo el archivo: NYU_2730704.txt
+Grafo NYU_2730704.txt procesado correctamente.
+Leyendo el archivo: NYU_2735617.txt
+Grafo NYU_2735617.txt procesado correctamente.
+Leyendo el archivo: NYU_2741068.txt
+Grafo NYU_2741068.txt procesado correctamente.
+Leyendo el archivo: NYU_2821683.txt
+Grafo NYU_2821683.txt procesado correctamente.
+Leyendo el archivo: NYU_2854839.txt
+Grafo NYU_2854839.txt procesado correctamente.
+Leyendo el archivo: NYU_2907383.txt
+Grafo NYU_2907383.txt procesado correctamente.
+Leyendo el archivo: NYU_2950672.txt
+Grafo NYU_2950672.txt procesado correctamente.
+Leyendo el archivo: NYU_2996531.txt
+Grafo NYU_2996531.txt procesado correctamente.
+Leyendo el archivo: NYU_3243657.txt
+Grafo NYU_3243657.txt procesado correctamente.
+Leyendo el archivo: NYU_3349205.txt
+Grafo NYU_3349205.txt procesado correctamente.
+Leyendo el archivo: NYU_3433846.txt
+Grafo NYU_3433846.txt procesado correctamente.
+Leyendo el archivo: NYU_3662296.txt
+Grafo NYU_3662296.txt procesado correctamente.
+Leyendo el archivo: NYU_3679455.txt
+Grafo NYU_3679455.txt procesado correctamente.
+Leyendo el archivo: NYU_3845761.txt
+Grafo NYU_3845761.txt procesado correctamente.
+Leyendo el archivo: NYU_4154672.txt
+Grafo NYU_4154672.txt procesado correctamente.
+Leyendo el archivo: NYU_4164316.txt
+Grafo NYU_4164316.txt procesado correctamente.
+Leyendo el archivo: NYU_5971050.txt
+Grafo NYU_5971050.txt procesado correctamente.
+Leyendo el archivo: NYU_8415034.txt
+Grafo NYU_8415034.txt procesado correctamente.
+Leyendo el archivo: NYU_8697774.txt
+Grafo NYU_8697774.txt procesado correctamente.
+Leyendo el archivo: NYU_8834383.txt
+Grafo NYU_8834383.txt procesado correctamente.
+Leyendo el archivo: NYU_8915162.txt
+Grafo NYU_8915162.txt procesado correctamente.
+Leyendo el archivo: NYU_9750701.txt
+Grafo NYU_9750701.txt procesado correctamente.
+Leyendo el archivo: Peking_1_1133221.txt
+Grafo Peking_1_1133221.txt procesado correctamente.
+Leyendo el archivo: Peking_1_1186237.txt
+Grafo Peking_1_1186237.txt procesado correctamente.
+Leyendo el archivo: Peking_1_1240299.txt
+Grafo Peking_1_1240299.txt procesado correctamente.
+Leyendo el archivo: Peking_1_1282248.txt
+Grafo Peking_1_1282248.txt procesado correctamente.
+Leyendo el archivo: Peking_1_1561488.txt
+Grafo Peking_1_1561488.txt procesado correctamente.
+Leyendo el archivo: Peking_1_1791543.txt
+Grafo Peking_1_1791543.txt procesado correctamente.
+Leyendo el archivo: Peking_1_1947991.txt
+Grafo Peking_1_1947991.txt procesado correctamente.
+Leyendo el archivo: Peking_1_2174595.txt
+Grafo Peking_1_2174595.txt procesado correctamente.
+Leyendo el archivo: Peking_1_2196753.txt
+Grafo Peking_1_2196753.txt procesado correctamente.
+Leyendo el archivo: Peking_1_2367157.txt
+Grafo Peking_1_2367157.txt procesado correctamente.
+Leyendo el archivo: Peking_1_2697768.txt
+Grafo Peking_1_2697768.txt procesado correctamente.
+Leyendo el archivo: Peking_1_2897046.txt
+Grafo Peking_1_2897046.txt procesado correctamente.
+Leyendo el archivo: Peking_1_3390312.txt
+Grafo Peking_1_3390312.txt procesado correctamente.
+Leyendo el archivo: Peking_1_3976121.txt
+Grafo Peking_1_3976121.txt procesado correctamente.
+Leyendo el archivo: Peking_1_3983607.txt
+Grafo Peking_1_3983607.txt procesado correctamente.
+Leyendo el archivo: Peking_1_4028266.txt
+Grafo Peking_1_4028266.txt procesado correctamente.
+Leyendo el archivo: Peking_1_4091983.txt
+Grafo Peking_1_4091983.txt procesado correctamente.
+Leyendo el archivo: Peking_1_4095748.txt
+Grafo Peking_1_4095748.txt procesado correctamente.
+Leyendo el archivo: Peking_1_4334113.txt
+Grafo Peking_1_4334113.txt procesado correctamente.
+Leyendo el archivo: Peking_1_5150328.txt
+Grafo Peking_1_5150328.txt procesado correctamente.
+Leyendo el archivo: Peking_1_5193577.txt
+Grafo Peking_1_5193577.txt procesado correctamente.
+Leyendo el archivo: Peking_1_7390867.txt
+Grafo Peking_1_7390867.txt procesado correctamente.
+Leyendo el archivo: Peking_1_9210521.txt
+Grafo Peking_1_9210521.txt procesado correctamente.
+Leyendo el archivo: Peking_2_1117299.txt
+Grafo Peking_2_1117299.txt procesado correctamente.
+Leyendo el archivo: Peking_2_1177160.txt
+Grafo Peking_2_1177160.txt procesado correctamente.
+Leyendo el archivo: Peking_2_1875013.txt
+Grafo Peking_2_1875013.txt procesado correctamente.
+Leyendo el archivo: Peking_2_3205761.txt
+Grafo Peking_2_3205761.txt procesado correctamente.
+Leyendo el archivo: Peking_2_3248920.txt
+Grafo Peking_2_3248920.txt procesado correctamente.
+Leyendo el archivo: Peking_2_3308331.txt
+Grafo Peking_2_3308331.txt procesado correctamente.
+Leyendo el archivo: Peking_2_3446674.txt
+Grafo Peking_2_3446674.txt procesado correctamente.
+Leyendo el archivo: Peking_2_3494778.txt
+Grafo Peking_2_3494778.txt procesado correctamente.
+Leyendo el archivo: Peking_2_3561920.txt
+Grafo Peking_2_3561920.txt procesado correctamente.
+Leyendo el archivo: Peking_2_3562883.txt
+Grafo Peking_2_3562883.txt procesado correctamente.
+Leyendo el archivo: Peking_2_3610134.txt
+Grafo Peking_2_3610134.txt procesado correctamente.
+Leyendo el archivo: Peking_2_3655623.txt
+Grafo Peking_2_3655623.txt procesado correctamente.
+Leyendo el archivo: Peking_2_3691107.txt
+Grafo Peking_2_3691107.txt procesado correctamente.
+Leyendo el archivo: Peking_2_3856956.txt
+Grafo Peking_2_3856956.txt procesado correctamente.
+Leyendo el archivo: Peking_2_3910672.txt
+Grafo Peking_2_3910672.txt procesado correctamente.
+Leyendo el archivo: Peking_2_3993793.txt
+Grafo Peking_2_3993793.txt procesado correctamente.
+Leyendo el archivo: Peking_2_3994098.txt
+Grafo Peking_2_3994098.txt procesado correctamente.
+Leyendo el archivo: Peking_2_4053388.txt
+Grafo Peking_2_4053388.txt procesado correctamente.
+Leyendo el archivo: Peking_2_4055710.txt
+Grafo Peking_2_4055710.txt procesado correctamente.
+Leyendo el archivo: Peking_2_4073815.txt
+Grafo Peking_2_4073815.txt procesado correctamente.
+Leyendo el archivo: Peking_2_4075719.txt
+Grafo Peking_2_4075719.txt procesado correctamente.
+Leyendo el archivo: Peking_2_4221029.txt
+Grafo Peking_2_4221029.txt procesado correctamente.
+Leyendo el archivo: Peking_2_4225073.txt
+Grafo Peking_2_4225073.txt procesado correctamente.
+Leyendo el archivo: Peking_2_4265987.txt
+Grafo Peking_2_4265987.txt procesado correctamente.
+Leyendo el archivo: Peking_2_5993008.txt
+Grafo Peking_2_5993008.txt procesado correctamente.
+Leyendo el archivo: Peking_2_6500128.txt
+Grafo Peking_2_6500128.txt procesado correctamente.
+Leyendo el archivo: Peking_2_7011503.txt
+Grafo Peking_2_7011503.txt procesado correctamente.
+Leyendo el archivo: Peking_2_7253183.txt
+Grafo Peking_2_7253183.txt procesado correctamente.
+Leyendo el archivo: Peking_2_7407032.txt
+Grafo Peking_2_7407032.txt procesado correctamente.
+Leyendo el archivo: Peking_2_7689953.txt
+Grafo Peking_2_7689953.txt procesado correctamente.
+Leyendo el archivo: Peking_2_8278680.txt
+Grafo Peking_2_8278680.txt procesado correctamente.
+Leyendo el archivo: Peking_2_9002207.txt
+Grafo Peking_2_9002207.txt procesado correctamente.
+Leyendo el archivo: Peking_2_9578631.txt
+Grafo Peking_2_9578631.txt procesado correctamente.
+Leyendo el archivo: Peking_2_9640133.txt
+Grafo Peking_2_9640133.txt procesado correctamente.
+Leyendo el archivo: KKI_1018959.txt
+Grafo KKI_1018959.txt procesado correctamente.
+Leyendo el archivo: KKI_1043241.txt
+Grafo KKI_1043241.txt procesado correctamente.
+Leyendo el archivo: KKI_1266183.txt
+Grafo KKI_1266183.txt procesado correctamente.
+Leyendo el archivo: KKI_1541812.txt
+Grafo KKI_1541812.txt procesado correctamente.
+Leyendo el archivo: KKI_1577042.txt
+Grafo KKI_1577042.txt procesado correctamente.
+Leyendo el archivo: KKI_1652369.txt
+Grafo KKI_1652369.txt procesado correctamente.
+Leyendo el archivo: KKI_1686265.txt
+Grafo KKI_1686265.txt procesado correctamente.
+Leyendo el archivo: KKI_1692275.txt
+Grafo KKI_1692275.txt procesado correctamente.
+Leyendo el archivo: KKI_1735881.txt
+Grafo KKI_1735881.txt procesado correctamente.
+Leyendo el archivo: KKI_1779922.txt
+Grafo KKI_1779922.txt procesado correctamente.
+Leyendo el archivo: KKI_1842819.txt
+Grafo KKI_1842819.txt procesado correctamente.
+Leyendo el archivo: KKI_1846346.txt
+Grafo KKI_1846346.txt procesado correctamente.
+Leyendo el archivo: KKI_1962503.txt
+Grafo KKI_1962503.txt procesado correctamente.
+Leyendo el archivo: KKI_1988015.txt
+Grafo KKI_1988015.txt procesado correctamente.
+Leyendo el archivo: KKI_1996183.txt
+Grafo KKI_1996183.txt procesado correctamente.
+Leyendo el archivo: KKI_2014113.txt
+Grafo KKI_2014113.txt procesado correctamente.
+Leyendo el archivo: KKI_2018106.txt
+Grafo KKI_2018106.txt procesado correctamente.
+Leyendo el archivo: KKI_2026113.txt
+Grafo KKI_2026113.txt procesado correctamente.
+Leyendo el archivo: KKI_2138826.txt
+Grafo KKI_2138826.txt procesado correctamente.
+Leyendo el archivo: KKI_2299519.txt
+Grafo KKI_2299519.txt procesado correctamente.
+Leyendo el archivo: KKI_2344857.txt
+Grafo KKI_2344857.txt procesado correctamente.
+Leyendo el archivo: KKI_2360428.txt
+Grafo KKI_2360428.txt procesado correctamente.
+Leyendo el archivo: KKI_2371032.txt
+Grafo KKI_2371032.txt procesado correctamente.
+Leyendo el archivo: KKI_2554127.txt
+Grafo KKI_2554127.txt procesado correctamente.
+Leyendo el archivo: KKI_2558999.txt
+Grafo KKI_2558999.txt procesado correctamente.
+Leyendo el archivo: KKI_2572285.txt
+Grafo KKI_2572285.txt procesado correctamente.
+Leyendo el archivo: KKI_2601925.txt
+Grafo KKI_2601925.txt procesado correctamente.
+Leyendo el archivo: KKI_2618929.txt
+Grafo KKI_2618929.txt procesado correctamente.
+Leyendo el archivo: KKI_2621228.txt
+Grafo KKI_2621228.txt procesado correctamente.
+Leyendo el archivo: KKI_2640795.txt
+Grafo KKI_2640795.txt procesado correctamente.
+Leyendo el archivo: KKI_2641332.txt
+Grafo KKI_2641332.txt procesado correctamente.
+Leyendo el archivo: KKI_2703289.txt
+Grafo KKI_2703289.txt procesado correctamente.
+Leyendo el archivo: KKI_2740232.txt
+Grafo KKI_2740232.txt procesado correctamente.
+Leyendo el archivo: KKI_2903997.txt
+Grafo KKI_2903997.txt procesado correctamente.
+Leyendo el archivo: KKI_2917777.txt
+Grafo KKI_2917777.txt procesado correctamente.
+Leyendo el archivo: KKI_2930625.txt
+Grafo KKI_2930625.txt procesado correctamente.
+Leyendo el archivo: KKI_3119327.txt
+Grafo KKI_3119327.txt procesado correctamente.
+Leyendo el archivo: KKI_3154996.txt
+Grafo KKI_3154996.txt procesado correctamente.
+Leyendo el archivo: KKI_3160561.txt
+Grafo KKI_3160561.txt procesado correctamente.
+Leyendo el archivo: KKI_3434578.txt
+Grafo KKI_3434578.txt procesado correctamente.
+Leyendo el archivo: KKI_3486975.txt
+Grafo KKI_3486975.txt procesado correctamente.
+Leyendo el archivo: KKI_3519022.txt
+Grafo KKI_3519022.txt procesado correctamente.
+Leyendo el archivo: KKI_3611827.txt
+Grafo KKI_3611827.txt procesado correctamente.
+Leyendo el archivo: KKI_3699991.txt
+Grafo KKI_3699991.txt procesado correctamente.
+Leyendo el archivo: KKI_3713230.txt
+Grafo KKI_3713230.txt procesado correctamente.
+Leyendo el archivo: KKI_3813783.txt
+Grafo KKI_3813783.txt procesado correctamente.
+Leyendo el archivo: KKI_3902469.txt
+Grafo KKI_3902469.txt procesado correctamente.
+Leyendo el archivo: KKI_3912996.txt
+Grafo KKI_3912996.txt procesado correctamente.
+Leyendo el archivo: KKI_3917422.txt
+Grafo KKI_3917422.txt procesado correctamente.
+Leyendo el archivo: KKI_4362730.txt
+Grafo KKI_4362730.txt procesado correctamente.
+Leyendo el archivo: KKI_4601682.txt
+Grafo KKI_4601682.txt procesado correctamente.
+Leyendo el archivo: KKI_6346605.txt
+Grafo KKI_6346605.txt procesado correctamente.
+Leyendo el archivo: KKI_7415617.txt
+Grafo KKI_7415617.txt procesado correctamente.
+Leyendo el archivo: KKI_7774305.txt
+Grafo KKI_7774305.txt procesado correctamente.
+Leyendo el archivo: KKI_8263351.txt
+Grafo KKI_8263351.txt procesado correctamente.
+Leyendo el archivo: KKI_8337695.txt
+Grafo KKI_8337695.txt procesado correctamente.
+Leyendo el archivo: KKI_8432725.txt
+Grafo KKI_8432725.txt procesado correctamente.
+Leyendo el archivo: KKI_9922944.txt
+Grafo KKI_9922944.txt procesado correctamente.
+Leyendo el archivo: NeuroIMAGE_1017176.txt
+Grafo NeuroIMAGE_1017176.txt procesado correctamente.
+Leyendo el archivo: NeuroIMAGE_1208586.txt
+Grafo NeuroIMAGE_1208586.txt procesado correctamente.
+Leyendo el archivo: NeuroIMAGE_1411495.txt
+Grafo NeuroIMAGE_1411495.txt procesado correctamente.
+Leyendo el archivo: NeuroIMAGE_1588809.txt
+Grafo NeuroIMAGE_1588809.txt procesado correctamente.
+Leyendo el archivo: NeuroIMAGE_2074737.txt
+Grafo NeuroIMAGE_2074737.txt procesado correctamente.
+Leyendo el archivo: NeuroIMAGE_2352986.txt
+Grafo NeuroIMAGE_2352986.txt procesado correctamente.
+Leyendo el archivo: NeuroIMAGE_2419464.txt
+Grafo NeuroIMAGE_2419464.txt procesado correctamente.
+Leyendo el archivo: NeuroIMAGE_2671604.txt
+Grafo NeuroIMAGE_2671604.txt procesado correctamente.
+Leyendo el archivo: NeuroIMAGE_2876903.txt
+Grafo NeuroIMAGE_2876903.txt procesado correctamente.
+Leyendo el archivo: NeuroIMAGE_2961243.txt
+Grafo NeuroIMAGE_2961243.txt procesado correctamente.
+Leyendo el archivo: NeuroIMAGE_3108222.txt
+Grafo NeuroIMAGE_3108222.txt procesado correctamente.
+Leyendo el archivo: NeuroIMAGE_3808273.txt
+Grafo NeuroIMAGE_3808273.txt procesado correctamente.
+Leyendo el archivo: NeuroIMAGE_4020830.txt
+Grafo NeuroIMAGE_4020830.txt procesado correctamente.
+Leyendo el archivo: NeuroIMAGE_4239636.txt
+Grafo NeuroIMAGE_4239636.txt procesado correctamente.
+Leyendo el archivo: NeuroIMAGE_7339173.txt
+Grafo NeuroIMAGE_7339173.txt procesado correctamente.
+Leyendo el archivo: NeuroIMAGE_8387093.txt
+Grafo NeuroIMAGE_8387093.txt procesado correctamente.
+Leyendo el archivo: NeuroIMAGE_9956994.txt
+Grafo NeuroIMAGE_9956994.txt procesado correctamente.
+Leyendo el archivo: NYU_0010001.txt
+Grafo NYU_0010001.txt procesado correctamente.
+Leyendo el archivo: NYU_0010002.txt
+Grafo NYU_0010002.txt procesado correctamente.
+Leyendo el archivo: NYU_0010006.txt
+Grafo NYU_0010006.txt procesado correctamente.
+Leyendo el archivo: NYU_0010007.txt
+Grafo NYU_0010007.txt procesado correctamente.
+Leyendo el archivo: NYU_0010008.txt
+Grafo NYU_0010008.txt procesado correctamente.
+Leyendo el archivo: NYU_0010009.txt
+Grafo NYU_0010009.txt procesado correctamente.
+Leyendo el archivo: NYU_0010011.txt
+Grafo NYU_0010011.txt procesado correctamente.
+Leyendo el archivo: NYU_0010012.txt
+Grafo NYU_0010012.txt procesado correctamente.
+Leyendo el archivo: NYU_0010013.txt
+Grafo NYU_0010013.txt procesado correctamente.
+Leyendo el archivo: NYU_0010017.txt
+Grafo NYU_0010017.txt procesado correctamente.
+Leyendo el archivo: NYU_0010019.txt
+Grafo NYU_0010019.txt procesado correctamente.
+Leyendo el archivo: NYU_0010022.txt
+Grafo NYU_0010022.txt procesado correctamente.
+Leyendo el archivo: NYU_0010026.txt
+Grafo NYU_0010026.txt procesado correctamente.
+Leyendo el archivo: NYU_0010033.txt
+Grafo NYU_0010033.txt procesado correctamente.
+Leyendo el archivo: NYU_0010036.txt
+Grafo NYU_0010036.txt procesado correctamente.
+Leyendo el archivo: NYU_0010038.txt
+Grafo NYU_0010038.txt procesado correctamente.
+Leyendo el archivo: NYU_0010039.txt
+Grafo NYU_0010039.txt procesado correctamente.
+Leyendo el archivo: NYU_0010041.txt
+Grafo NYU_0010041.txt procesado correctamente.
+Leyendo el archivo: NYU_0010042.txt
+Grafo NYU_0010042.txt procesado correctamente.
+Leyendo el archivo: NYU_0010048.txt
+Grafo NYU_0010048.txt procesado correctamente.
+Leyendo el archivo: NYU_0010049.txt
+Grafo NYU_0010049.txt procesado correctamente.
+Leyendo el archivo: NYU_0010050.txt
+Grafo NYU_0010050.txt procesado correctamente.
+Leyendo el archivo: NYU_0010051.txt
+Grafo NYU_0010051.txt procesado correctamente.
+Leyendo el archivo: NYU_0010056.txt
+Grafo NYU_0010056.txt procesado correctamente.
+Leyendo el archivo: NYU_0010062.txt
+Grafo NYU_0010062.txt procesado correctamente.
+Leyendo el archivo: NYU_0010063.txt
+Grafo NYU_0010063.txt procesado correctamente.
+Leyendo el archivo: NYU_0010064.txt
+Grafo NYU_0010064.txt procesado correctamente.
+Leyendo el archivo: NYU_0010069.txt
+Grafo NYU_0010069.txt procesado correctamente.
+Leyendo el archivo: NYU_0010070.txt
+Grafo NYU_0010070.txt procesado correctamente.
+Leyendo el archivo: NYU_0010071.txt
+Grafo NYU_0010071.txt procesado correctamente.
+Leyendo el archivo: NYU_0010075.txt
+Grafo NYU_0010075.txt procesado correctamente.
+Leyendo el archivo: NYU_0010076.txt
+Grafo NYU_0010076.txt procesado correctamente.
+Leyendo el archivo: NYU_0010078.txt
+Grafo NYU_0010078.txt procesado correctamente.
+Leyendo el archivo: NYU_0010080.txt
+Grafo NYU_0010080.txt procesado correctamente.
+Leyendo el archivo: NYU_0010082.txt
+Grafo NYU_0010082.txt procesado correctamente.
+Leyendo el archivo: NYU_0010086.txt
+Grafo NYU_0010086.txt procesado correctamente.
+Leyendo el archivo: NYU_0010093.txt
+Grafo NYU_0010093.txt procesado correctamente.
+Leyendo el archivo: NYU_0010094.txt
+Grafo NYU_0010094.txt procesado correctamente.
+Leyendo el archivo: NYU_0010101.txt
+Grafo NYU_0010101.txt procesado correctamente.
+Leyendo el archivo: NYU_0010107.txt
+Grafo NYU_0010107.txt procesado correctamente.
+Leyendo el archivo: NYU_0010110.txt
+Grafo NYU_0010110.txt procesado correctamente.
+Leyendo el archivo: NYU_0010112.txt
+Grafo NYU_0010112.txt procesado correctamente.
+Leyendo el archivo: NYU_0010115.txt
+Grafo NYU_0010115.txt procesado correctamente.
+Leyendo el archivo: NYU_0010117.txt
+Grafo NYU_0010117.txt procesado correctamente.
+Leyendo el archivo: NYU_0010121.txt
+Grafo NYU_0010121.txt procesado correctamente.
+Leyendo el archivo: NYU_0010123.txt
+Grafo NYU_0010123.txt procesado correctamente.
+Leyendo el archivo: NYU_0010125.txt
+Grafo NYU_0010125.txt procesado correctamente.
+Leyendo el archivo: NYU_0010128.txt
+Grafo NYU_0010128.txt procesado correctamente.
+Leyendo el archivo: NYU_1000804.txt
+Grafo NYU_1000804.txt procesado correctamente.
+Leyendo el archivo: NYU_1023964.txt
+Grafo NYU_1023964.txt procesado correctamente.
+Leyendo el archivo: NYU_1127915.txt
+Grafo NYU_1127915.txt procesado correctamente.
+Leyendo el archivo: NYU_1208795.txt
+Grafo NYU_1208795.txt procesado correctamente.
+Leyendo el archivo: NYU_1283494.txt
+Grafo NYU_1283494.txt procesado correctamente.
+Leyendo el archivo: NYU_1435954.txt
+Grafo NYU_1435954.txt procesado correctamente.
+Leyendo el archivo: NYU_1471736.txt
+Grafo NYU_1471736.txt procesado correctamente.
+Leyendo el archivo: NYU_1567356.txt
+Grafo NYU_1567356.txt procesado correctamente.
+Leyendo el archivo: NYU_1700637.txt
+Grafo NYU_1700637.txt procesado correctamente.
+Leyendo el archivo: NYU_1740607.txt
+Grafo NYU_1740607.txt procesado correctamente.
+Leyendo el archivo: NYU_1875084.txt
+Grafo NYU_1875084.txt procesado correctamente.
+Leyendo el archivo: NYU_1884448.txt
+Grafo NYU_1884448.txt procesado correctamente.
+Leyendo el archivo: NYU_1992284.txt
+Grafo NYU_1992284.txt procesado correctamente.
+Leyendo el archivo: NYU_1995121.txt
+Grafo NYU_1995121.txt procesado correctamente.
+Leyendo el archivo: NYU_2030383.txt
+Grafo NYU_2030383.txt procesado correctamente.
+Leyendo el archivo: NYU_2136051.txt
+Grafo NYU_2136051.txt procesado correctamente.
+Leyendo el archivo: NYU_2260910.txt
+Grafo NYU_2260910.txt procesado correctamente.
+Leyendo el archivo: NYU_2497695.txt
+Grafo NYU_2497695.txt procesado correctamente.
+Leyendo el archivo: NYU_2570769.txt
+Grafo NYU_2570769.txt procesado correctamente.
+Leyendo el archivo: NYU_2682736.txt
+Grafo NYU_2682736.txt procesado correctamente.
+Leyendo el archivo: NYU_2773205.txt
+Grafo NYU_2773205.txt procesado correctamente.
+Leyendo el archivo: NYU_2983819.txt
+Grafo NYU_2983819.txt procesado correctamente.
+Leyendo el archivo: NYU_2991307.txt
+Grafo NYU_2991307.txt procesado correctamente.
+Leyendo el archivo: NYU_3011311.txt
+Grafo NYU_3011311.txt procesado correctamente.
+Leyendo el archivo: NYU_3163200.txt
+Grafo NYU_3163200.txt procesado correctamente.
+Leyendo el archivo: NYU_3174224.txt
+Grafo NYU_3174224.txt procesado correctamente.
+Leyendo el archivo: NYU_3235580.txt
+Grafo NYU_3235580.txt procesado correctamente.
+Leyendo el archivo: NYU_3349423.txt
+Grafo NYU_3349423.txt procesado correctamente.
+Leyendo el archivo: NYU_3457975.txt
+Grafo NYU_3457975.txt procesado correctamente.
+Leyendo el archivo: NYU_3518345.txt
+Grafo NYU_3518345.txt procesado correctamente.
+Leyendo el archivo: NYU_3542588.txt
+Grafo NYU_3542588.txt procesado correctamente.
+Leyendo el archivo: NYU_3650634.txt
+Grafo NYU_3650634.txt procesado correctamente.
+Leyendo el archivo: NYU_3653737.txt
+Grafo NYU_3653737.txt procesado correctamente.
+Leyendo el archivo: NYU_4060823.txt
+Grafo NYU_4060823.txt procesado correctamente.
+Leyendo el archivo: NYU_4079254.txt
+Grafo NYU_4079254.txt procesado correctamente.
+Leyendo el archivo: NYU_4084645.txt
+Grafo NYU_4084645.txt procesado correctamente.
+Leyendo el archivo: NYU_4116166.txt
+Grafo NYU_4116166.txt procesado correctamente.
+Leyendo el archivo: NYU_4187857.txt
+Grafo NYU_4187857.txt procesado correctamente.
+Leyendo el archivo: NYU_4562206.txt
+Grafo NYU_4562206.txt procesado correctamente.
+Leyendo el archivo: NYU_4827048.txt
+Grafo NYU_4827048.txt procesado correctamente.
+Leyendo el archivo: NYU_5164727.txt
+Grafo NYU_5164727.txt procesado correctamente.
+Leyendo el archivo: NYU_6206397.txt
+Grafo NYU_6206397.txt procesado correctamente.
+Leyendo el archivo: NYU_6568351.txt
+Grafo NYU_6568351.txt procesado correctamente.
+Leyendo el archivo: NYU_8009688.txt
+Grafo NYU_8009688.txt procesado correctamente.
+Leyendo el archivo: NYU_8692452.txt
+Grafo NYU_8692452.txt procesado correctamente.
+Leyendo el archivo: NYU_9326955.txt
+Grafo NYU_9326955.txt procesado correctamente.
+Leyendo el archivo: NYU_9578663.txt
+Grafo NYU_9578663.txt procesado correctamente.
+Leyendo el archivo: NYU_9907452.txt
+Grafo NYU_9907452.txt procesado correctamente.
+Leyendo el archivo: Peking_1_1056121.txt
+Grafo Peking_1_1056121.txt procesado correctamente.
+Leyendo el archivo: Peking_1_1113498.txt
+Grafo Peking_1_1113498.txt procesado correctamente.
+Leyendo el archivo: Peking_1_1139030.txt
+Grafo Peking_1_1139030.txt procesado correctamente.
+Leyendo el archivo: Peking_1_1258069.txt
+Grafo Peking_1_1258069.txt procesado correctamente.
+Leyendo el archivo: Peking_1_1302449.txt
+Grafo Peking_1_1302449.txt procesado correctamente.
+Leyendo el archivo: Peking_1_1391181.txt
+Grafo Peking_1_1391181.txt procesado correctamente.
+Leyendo el archivo: Peking_1_1408093.txt
+Grafo Peking_1_1408093.txt procesado correctamente.
+Leyendo el archivo: Peking_1_1469171.txt
+Grafo Peking_1_1469171.txt procesado correctamente.
+Leyendo el archivo: Peking_1_1686092.txt
+Grafo Peking_1_1686092.txt procesado correctamente.
+Leyendo el archivo: Peking_1_1689948.txt
+Grafo Peking_1_1689948.txt procesado correctamente.
+Leyendo el archivo: Peking_1_1805037.txt
+Grafo Peking_1_1805037.txt procesado correctamente.
+Leyendo el archivo: Peking_1_1875711.txt
+Grafo Peking_1_1875711.txt procesado correctamente.
+Leyendo el archivo: Peking_1_1879542.txt
+Grafo Peking_1_1879542.txt procesado correctamente.
+Leyendo el archivo: Peking_1_1912810.txt
+Grafo Peking_1_1912810.txt procesado correctamente.
+Leyendo el archivo: Peking_1_2081754.txt
+Grafo Peking_1_2081754.txt procesado correctamente.
+Leyendo el archivo: Peking_1_2106109.txt
+Grafo Peking_1_2106109.txt procesado correctamente.
+Leyendo el archivo: Peking_1_2123983.txt
+Grafo Peking_1_2123983.txt procesado correctamente.
+Leyendo el archivo: Peking_1_2240562.txt
+Grafo Peking_1_2240562.txt procesado correctamente.
+Leyendo el archivo: Peking_1_2249443.txt
+Grafo Peking_1_2249443.txt procesado correctamente.
+Leyendo el archivo: Peking_1_2266806.txt
+Grafo Peking_1_2266806.txt procesado correctamente.
+Leyendo el archivo: Peking_1_2408774.txt
+Grafo Peking_1_2408774.txt procesado correctamente.
+Leyendo el archivo: Peking_1_2427408.txt
+Grafo Peking_1_2427408.txt procesado correctamente.
+Leyendo el archivo: Peking_1_2535087.txt
+Grafo Peking_1_2535087.txt procesado correctamente.
+Leyendo el archivo: Peking_1_2538839.txt
+Grafo Peking_1_2538839.txt procesado correctamente.
+Leyendo el archivo: Peking_1_2703336.txt
+Grafo Peking_1_2703336.txt procesado correctamente.
+Leyendo el archivo: Peking_1_2714224.txt
+Grafo Peking_1_2714224.txt procesado correctamente.
+Leyendo el archivo: Peking_1_2833684.txt
+Grafo Peking_1_2833684.txt procesado correctamente.
+Leyendo el archivo: Peking_1_3004580.txt
+Grafo Peking_1_3004580.txt procesado correctamente.
+Leyendo el archivo: Peking_1_3086074.txt
+Grafo Peking_1_3086074.txt procesado correctamente.
+Leyendo el archivo: Peking_1_3212536.txt
+Grafo Peking_1_3212536.txt procesado correctamente.
+Leyendo el archivo: Peking_1_3233028.txt
+Grafo Peking_1_3233028.txt procesado correctamente.
+Leyendo el archivo: Peking_1_3239413.txt
+Grafo Peking_1_3239413.txt procesado correctamente.
+Leyendo el archivo: Peking_1_3262042.txt
+Grafo Peking_1_3262042.txt procesado correctamente.
+Leyendo el archivo: Peking_1_3269608.txt
+Grafo Peking_1_3269608.txt procesado correctamente.
+Leyendo el archivo: Peking_1_3306863.txt
+Grafo Peking_1_3306863.txt procesado correctamente.
+Leyendo el archivo: Peking_1_3554582.txt
+Grafo Peking_1_3554582.txt procesado correctamente.
+Leyendo el archivo: Peking_1_3587000.txt
+Grafo Peking_1_3587000.txt procesado correctamente.
+Leyendo el archivo: Peking_1_3593327.txt
+Grafo Peking_1_3593327.txt procesado correctamente.
+Leyendo el archivo: Peking_1_3672854.txt
+Grafo Peking_1_3672854.txt procesado correctamente.
+Leyendo el archivo: Peking_1_3707771.txt
+Grafo Peking_1_3707771.txt procesado correctamente.
+Leyendo el archivo: Peking_1_3732101.txt
+Grafo Peking_1_3732101.txt procesado correctamente.
+Leyendo el archivo: Peking_1_3739175.txt
+Grafo Peking_1_3739175.txt procesado correctamente.
+Leyendo el archivo: Peking_1_3809753.txt
+Grafo Peking_1_3809753.txt procesado correctamente.
+Leyendo el archivo: Peking_1_3889095.txt
+Grafo Peking_1_3889095.txt procesado correctamente.
+Leyendo el archivo: Peking_1_3967265.txt
+Grafo Peking_1_3967265.txt procesado correctamente.
+Leyendo el archivo: Peking_1_4053836.txt
+Grafo Peking_1_4053836.txt procesado correctamente.
+Leyendo el archivo: Peking_1_4256491.txt
+Grafo Peking_1_4256491.txt procesado correctamente.
+Leyendo el archivo: Peking_1_4383707.txt
+Grafo Peking_1_4383707.txt procesado correctamente.
+Leyendo el archivo: Peking_1_4475709.txt
+Grafo Peking_1_4475709.txt procesado correctamente.
+Leyendo el archivo: Peking_1_4921428.txt
+Grafo Peking_1_4921428.txt procesado correctamente.
+Leyendo el archivo: Peking_1_5600820.txt
+Grafo Peking_1_5600820.txt procesado correctamente.
+Leyendo el archivo: Peking_1_6187322.txt
+Grafo Peking_1_6187322.txt procesado correctamente.
+Leyendo el archivo: Peking_1_7093319.txt
+Grafo Peking_1_7093319.txt procesado correctamente.
+Leyendo el archivo: Peking_1_7135128.txt
+Grafo Peking_1_7135128.txt procesado correctamente.
+Leyendo el archivo: Peking_1_8328877.txt
+Grafo Peking_1_8328877.txt procesado correctamente.
+Leyendo el archivo: Peking_1_8838009.txt
+Grafo Peking_1_8838009.txt procesado correctamente.
+Leyendo el archivo: Peking_1_9093997.txt
+Grafo Peking_1_9093997.txt procesado correctamente.
+Leyendo el archivo: Peking_1_9221927.txt
+Grafo Peking_1_9221927.txt procesado correctamente.
+Leyendo el archivo: Peking_1_9783279.txt
+Grafo Peking_1_9783279.txt procesado correctamente.
+Leyendo el archivo: Peking_1_9887336.txt
+Grafo Peking_1_9887336.txt procesado correctamente.
+Leyendo el archivo: Peking_1_9890726.txt
+Grafo Peking_1_9890726.txt procesado correctamente.
+Leyendo el archivo: Peking_2_1050975.txt
+Grafo Peking_2_1050975.txt procesado correctamente.
+Leyendo el archivo: Peking_2_1068505.txt
+Grafo Peking_2_1068505.txt procesado correctamente.
+Leyendo el archivo: Peking_2_1093743.txt
+Grafo Peking_2_1093743.txt procesado correctamente.
+Leyendo el archivo: Peking_2_1094669.txt
+Grafo Peking_2_1094669.txt procesado correctamente.
+Leyendo el archivo: Peking_2_1159908.txt
+Grafo Peking_2_1159908.txt procesado correctamente.
+Leyendo el archivo: Peking_2_1341865.txt
+Grafo Peking_2_1341865.txt procesado correctamente.
+Leyendo el archivo: Peking_2_1494102.txt
+Grafo Peking_2_1494102.txt procesado correctamente.
+Leyendo el archivo: Peking_2_1562298.txt
+Grafo Peking_2_1562298.txt procesado correctamente.
+Leyendo el archivo: Peking_2_1628610.txt
+Grafo Peking_2_1628610.txt procesado correctamente.
+Leyendo el archivo: Peking_2_1643780.txt
+Grafo Peking_2_1643780.txt procesado correctamente.
+Leyendo el archivo: Peking_2_1809715.txt
+Grafo Peking_2_1809715.txt procesado correctamente.
+Leyendo el archivo: Peking_2_1860323.txt
+Grafo Peking_2_1860323.txt procesado correctamente.
+Leyendo el archivo: Peking_2_1916266.txt
+Grafo Peking_2_1916266.txt procesado correctamente.
+Leyendo el archivo: Peking_2_2031422.txt
+Grafo Peking_2_2031422.txt procesado correctamente.
+Leyendo el archivo: Peking_2_2033178.txt
+Grafo Peking_2_2033178.txt procesado correctamente.
+Leyendo el archivo: Peking_2_2140063.txt
+Grafo Peking_2_2140063.txt procesado correctamente.
+Leyendo el archivo: Peking_2_2141250.txt
+Grafo Peking_2_2141250.txt procesado correctamente.
+Leyendo el archivo: Peking_2_2207418.txt
+Grafo Peking_2_2207418.txt procesado correctamente.
+Leyendo el archivo: Peking_2_2296326.txt
+Grafo Peking_2_2296326.txt procesado correctamente.
+Leyendo el archivo: Peking_2_2310449.txt
+Grafo Peking_2_2310449.txt procesado correctamente.
+Leyendo el archivo: Peking_2_2377207.txt
+Grafo Peking_2_2377207.txt procesado correctamente.
+Leyendo el archivo: Peking_2_2498847.txt
+Grafo Peking_2_2498847.txt procesado correctamente.
+Leyendo el archivo: Peking_2_2529026.txt
+Grafo Peking_2_2529026.txt procesado correctamente.
+Leyendo el archivo: Peking_2_2559537.txt
+Grafo Peking_2_2559537.txt procesado correctamente.
+Leyendo el archivo: Peking_2_2601519.txt
+Grafo Peking_2_2601519.txt procesado correctamente.
+Leyendo el archivo: Peking_2_2659769.txt
+Grafo Peking_2_2659769.txt procesado correctamente.
+Leyendo el archivo: Peking_2_2737106.txt
+Grafo Peking_2_2737106.txt procesado correctamente.
+Leyendo el archivo: Peking_2_2884672.txt
+Grafo Peking_2_2884672.txt procesado correctamente.
+Leyendo el archivo: Peking_2_2919220.txt
+Grafo Peking_2_2919220.txt procesado correctamente.
+Leyendo el archivo: Peking_2_2950754.txt
+Grafo Peking_2_2950754.txt procesado correctamente.
+Leyendo el archivo: Peking_2_3157406.txt
+Grafo Peking_2_3157406.txt procesado correctamente.
+Leyendo el archivo: Peking_2_3194757.txt
+Grafo Peking_2_3194757.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016001.txt
+Grafo Pittsburgh_0016001.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016002.txt
+Grafo Pittsburgh_0016002.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016004.txt
+Grafo Pittsburgh_0016004.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016006.txt
+Grafo Pittsburgh_0016006.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016008.txt
+Grafo Pittsburgh_0016008.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016009.txt
+Grafo Pittsburgh_0016009.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016010.txt
+Grafo Pittsburgh_0016010.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016012.txt
+Grafo Pittsburgh_0016012.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016014.txt
+Grafo Pittsburgh_0016014.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016018.txt
+Grafo Pittsburgh_0016018.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016019.txt
+Grafo Pittsburgh_0016019.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016020.txt
+Grafo Pittsburgh_0016020.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016021.txt
+Grafo Pittsburgh_0016021.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016022.txt
+Grafo Pittsburgh_0016022.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016027.txt
+Grafo Pittsburgh_0016027.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016029.txt
+Grafo Pittsburgh_0016029.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016031.txt
+Grafo Pittsburgh_0016031.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016032.txt
+Grafo Pittsburgh_0016032.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016033.txt
+Grafo Pittsburgh_0016033.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016034.txt
+Grafo Pittsburgh_0016034.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016035.txt
+Grafo Pittsburgh_0016035.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016036.txt
+Grafo Pittsburgh_0016036.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016037.txt
+Grafo Pittsburgh_0016037.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016039.txt
+Grafo Pittsburgh_0016039.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016041.txt
+Grafo Pittsburgh_0016041.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016042.txt
+Grafo Pittsburgh_0016042.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016045.txt
+Grafo Pittsburgh_0016045.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016046.txt
+Grafo Pittsburgh_0016046.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016047.txt
+Grafo Pittsburgh_0016047.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016049.txt
+Grafo Pittsburgh_0016049.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016050.txt
+Grafo Pittsburgh_0016050.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016051.txt
+Grafo Pittsburgh_0016051.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016052.txt
+Grafo Pittsburgh_0016052.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016055.txt
+Grafo Pittsburgh_0016055.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016056.txt
+Grafo Pittsburgh_0016056.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016057.txt
+Grafo Pittsburgh_0016057.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016058.txt
+Grafo Pittsburgh_0016058.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016059.txt
+Grafo Pittsburgh_0016059.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016060.txt
+Grafo Pittsburgh_0016060.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016061.txt
+Grafo Pittsburgh_0016061.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016062.txt
+Grafo Pittsburgh_0016062.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016063.txt
+Grafo Pittsburgh_0016063.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016064.txt
+Grafo Pittsburgh_0016064.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016065.txt
+Grafo Pittsburgh_0016065.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016066.txt
+Grafo Pittsburgh_0016066.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016067.txt
+Grafo Pittsburgh_0016067.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016068.txt
+Grafo Pittsburgh_0016068.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016069.txt
+Grafo Pittsburgh_0016069.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016070.txt
+Grafo Pittsburgh_0016070.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016071.txt
+Grafo Pittsburgh_0016071.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016073.txt
+Grafo Pittsburgh_0016073.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016074.txt
+Grafo Pittsburgh_0016074.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016075.txt
+Grafo Pittsburgh_0016075.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016076.txt
+Grafo Pittsburgh_0016076.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016077.txt
+Grafo Pittsburgh_0016077.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016078.txt
+Grafo Pittsburgh_0016078.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016080.txt
+Grafo Pittsburgh_0016080.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016081.txt
+Grafo Pittsburgh_0016081.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016082.txt
+Grafo Pittsburgh_0016082.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016083.txt
+Grafo Pittsburgh_0016083.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016084.txt
+Grafo Pittsburgh_0016084.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016085.txt
+Grafo Pittsburgh_0016085.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016086.txt
+Grafo Pittsburgh_0016086.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016087.txt
+Grafo Pittsburgh_0016087.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016088.txt
+Grafo Pittsburgh_0016088.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016089.txt
+Grafo Pittsburgh_0016089.txt procesado correctamente.
+2025-02-22 18:56:34.540590: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+Epoch 1/20
+3/3 ━━━━━━━━━━━━━━━━━━━━ 7s 1s/step - loss: 0.2500
+Epoch 2/20
+3/3 ━━━━━━━━━━━━━━━━━━━━ 4s 1s/step - loss: 0.2497
+Epoch 3/20
+3/3 ━━━━━━━━━━━━━━━━━━━━ 4s 1s/step - loss: 0.2492
+Epoch 4/20
+3/3 ━━━━━━━━━━━━━━━━━━━━ 4s 1s/step - loss: 0.2448
+Epoch 5/20
+3/3 ━━━━━━━━━━━━━━━━━━━━ 4s 1s/step - loss: 0.1412
+Epoch 6/20
+3/3 ━━━━━━━━━━━━━━━━━━━━ 4s 1s/step - loss: 0.0930
+Epoch 7/20
+3/3 ━━━━━━━━━━━━━━━━━━━━ 4s 1s/step - loss: 0.0985
+Epoch 8/20
+3/3 ━━━━━━━━━━━━━━━━━━━━ 4s 1s/step - loss: 0.0992
+Epoch 9/20
+3/3 ━━━━━━━━━━━━━━━━━━━━ 4s 1s/step - loss: 0.0996
+Epoch 10/20
+3/3 ━━━━━━━━━━━━━━━━━━━━ 4s 1s/step - loss: 0.0995
+Epoch 11/20
+3/3 ━━━━━━━━━━━━━━━━━━━━ 4s 1s/step - loss: 0.0998
+Epoch 12/20
+3/3 ━━━━━━━━━━━━━━━━━━━━ 4s 1s/step - loss: 0.0998
+Epoch 13/20
+3/3 ━━━━━━━━━━━━━━━━━━━━ 4s 1s/step - loss: 0.1000
+Epoch 14/20
+3/3 ━━━━━━━━━━━━━━━━━━━━ 4s 1s/step - loss: 0.0999
+Epoch 15/20
+3/3 ━━━━━━━━━━━━━━━━━━━━ 4s 1s/step - loss: 0.1000
+Epoch 16/20
+3/3 ━━━━━━━━━━━━━━━━━━━━ 4s 1s/step - loss: 0.1001
+Epoch 17/20
+3/3 ━━━━━━━━━━━━━━━━━━━━ 4s 1s/step - loss: 0.1002
+Epoch 18/20
+3/3 ━━━━━━━━━━━━━━━━━━━━ 4s 1s/step - loss: 0.1000
+Epoch 19/20
+3/3 ━━━━━━━━━━━━━━━━━━━━ 4s 1s/step - loss: 0.1000
+Epoch 20/20
+3/3 ━━━━━━━━━━━━━━━━━━━━ 4s 1s/step - loss: 0.1003
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 158ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 91ms/step
+GRAFO Nº 1:
+Cuello de Botella 1: [[1505.4421]]
+17955
+El número de elementos diferentes es: 88.54915065441381
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 78ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 46ms/step
+GRAFO Nº 2:
+Cuello de Botella 2: [[1807.6736]]
+17955
+El número de elementos diferentes es: 89.93038150932888
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 69ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 47ms/step
+GRAFO Nº 3:
+Cuello de Botella 3: [[1800.5349]]
+17955
+El número de elementos diferentes es: 89.90253411306043
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 69ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 47ms/step
+GRAFO Nº 4:
+Cuello de Botella 4: [[1847.107]]
+17955
+El número de elementos diferentes es: 89.90810359231412
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 63ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 47ms/step
+GRAFO Nº 5:
+Cuello de Botella 5: [[1760.2853]]
+17955
+El número de elementos diferentes es: 89.79114452798663
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 79ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 40ms/step
+GRAFO Nº 6:
+Cuello de Botella 6: [[1784.5879]]
+17955
+El número de elementos diferentes es: 89.6964633806739
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 79ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 50ms/step
+GRAFO Nº 7:
+Cuello de Botella 7: [[1674.1781]]
+17955
+El número de elementos diferentes es: 89.27875243664718
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 64ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 45ms/step
+GRAFO Nº 8:
+Cuello de Botella 8: [[1645.0559]]
+17955
+El número de elementos diferentes es: 89.31216931216932
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 59ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 67ms/step
+GRAFO Nº 9:
+Cuello de Botella 9: [[1763.6392]]
+17955
+El número de elementos diferentes es: 89.71317181843497
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 81ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 45ms/step
+GRAFO Nº 10:
+Cuello de Botella 10: [[1871.4286]]
+17955
+El número de elementos diferentes es: 90.23670286828181
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 61ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 72ms/step
+GRAFO Nº 11:
+Cuello de Botella 11: [[1867.1487]]
+17955
+El número de elementos diferentes es: 90.02506265664161
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 79ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 51ms/step
+GRAFO Nº 12:
+Cuello de Botella 12: [[1881.1768]]
+17955
+El número de elementos diferentes es: 90.18100807574491
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 79ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 50ms/step
+GRAFO Nº 13:
+Cuello de Botella 13: [[1661.5272]]
+17955
+El número de elementos diferentes es: 89.1506544138123
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 63ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 47ms/step
+GRAFO Nº 14:
+Cuello de Botella 14: [[1851.9563]]
+17955
+El número de elementos diferentes es: 90.33138401559454
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 77ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 48ms/step
+GRAFO Nº 15:
+Cuello de Botella 15: [[1837.8008]]
+17955
+El número de elementos diferentes es: 90.08632692843219
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 79ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 39ms/step
+GRAFO Nº 16:
+Cuello de Botella 16: [[1788.9409]]
+17955
+El número de elementos diferentes es: 89.99164578111947
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 80ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 44ms/step
+GRAFO Nº 17:
+Cuello de Botella 17: [[1811.9229]]
+17955
+El número de elementos diferentes es: 90.1865775549986
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 82ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 43ms/step
+GRAFO Nº 18:
+Cuello de Botella 18: [[1801.3008]]
+17955
+El número de elementos diferentes es: 89.94152046783626
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 79ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 47ms/step
+GRAFO Nº 19:
+Cuello de Botella 19: [[1836.7345]]
+17955
+El número de elementos diferentes es: 90.09189640768588
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 63ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 54ms/step
+GRAFO Nº 20:
+Cuello de Botella 20: [[1725.8411]]
+17955
+El número de elementos diferentes es: 89.6463380673907
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 64ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 60ms/step
+GRAFO Nº 21:
+Cuello de Botella 21: [[1746.548]]
+17955
+El número de elementos diferentes es: 89.76329713171819
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 63ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 48ms/step
+GRAFO Nº 22:
+Cuello de Botella 22: [[1684.8833]]
+17955
+El número de elementos diferentes es: 89.5349484823169
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 75ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 47ms/step
+GRAFO Nº 23:
+Cuello de Botella 23: [[1765.1239]]
+17955
+El número de elementos diferentes es: 89.66304650515177
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 71ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 53ms/step
+GRAFO Nº 24:
+Cuello de Botella 24: [[1780.4602]]
+17955
+El número de elementos diferentes es: 89.83013088276246
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 74ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 52ms/step
+GRAFO Nº 25:
+Cuello de Botella 25: [[1859.1696]]
+17955
+El número de elementos diferentes es: 90.05291005291005
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 70ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 50ms/step
+GRAFO Nº 26:
+Cuello de Botella 26: [[1775.5386]]
+17955
+El número de elementos diferentes es: 90.10303536619327
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 72ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 50ms/step
+GRAFO Nº 27:
+Cuello de Botella 27: [[1830.9955]]
+17955
+El número de elementos diferentes es: 89.76886661097187
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 73ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 49ms/step
+GRAFO Nº 28:
+Cuello de Botella 28: [[1634.8185]]
+17955
+El número de elementos diferentes es: 89.17850181008076
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 69ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 49ms/step
+GRAFO Nº 29:
+Cuello de Botella 29: [[1815.4783]]
+17955
+El número de elementos diferentes es: 89.83013088276246
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 68ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 49ms/step
+GRAFO Nº 30:
+Cuello de Botella 30: [[1903.7888]]
+17955
+El número de elementos diferentes es: 90.3536619326093
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 70ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 48ms/step
+GRAFO Nº 31:
+Cuello de Botella 31: [[1754.5123]]
+17955
+El número de elementos diferentes es: 90.06404901141744
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 69ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 52ms/step
+GRAFO Nº 32:
+Cuello de Botella 32: [[1850.1329]]
+17955
+El número de elementos diferentes es: 90.03620161514898
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 68ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 50ms/step
+GRAFO Nº 33:
+Cuello de Botella 33: [[1864.7515]]
+17955
+El número de elementos diferentes es: 90.21999443052074
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 74ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 47ms/step
+GRAFO Nº 34:
+Cuello de Botella 34: [[1925.8588]]
+17955
+El número de elementos diferentes es: 90.25898078529657
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 70ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 50ms/step
+GRAFO Nº 35:
+Cuello de Botella 35: [[1715.554]]
+17955
+El número de elementos diferentes es: 89.51267056530214
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 69ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 48ms/step
+GRAFO Nº 36:
+Cuello de Botella 36: [[1818.2649]]
+17955
+El número de elementos diferentes es: 89.94152046783626
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 72ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 49ms/step
+GRAFO Nº 37:
+Cuello de Botella 37: [[1821.6527]]
+17955
+El número de elementos diferentes es: 90.09746588693957
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 71ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 49ms/step
+GRAFO Nº 38:
+Cuello de Botella 38: [[1789.6932]]
+17955
+El número de elementos diferentes es: 89.92481203007519
+Epoch 1/20
+5/5 ━━━━━━━━━━━━━━━━━━━━ 11s 2s/step - loss: 0.2499
+Epoch 2/20
+5/5 ━━━━━━━━━━━━━━━━━━━━ 7s 1s/step - loss: 0.2494
+Epoch 3/20
+5/5 ━━━━━━━━━━━━━━━━━━━━ 7s 1s/step - loss: 0.2444
+Epoch 4/20
+5/5 ━━━━━━━━━━━━━━━━━━━━ 7s 1s/step - loss: 0.0913
+Epoch 5/20
+5/5 ━━━━━━━━━━━━━━━━━━━━ 7s 1s/step - loss: 0.0979
+Epoch 6/20
+5/5 ━━━━━━━━━━━━━━━━━━━━ 7s 1s/step - loss: 0.0989
+Epoch 7/20
+5/5 ━━━━━━━━━━━━━━━━━━━━ 7s 1s/step - loss: 0.0992
+Epoch 8/20
+5/5 ━━━━━━━━━━━━━━━━━━━━ 7s 1s/step - loss: 0.0994
+Epoch 9/20
+5/5 ━━━━━━━━━━━━━━━━━━━━ 7s 1s/step - loss: 0.0994
+Epoch 10/20
+5/5 ━━━━━━━━━━━━━━━━━━━━ 7s 1s/step - loss: 0.0995
+Epoch 11/20
+5/5 ━━━━━━━━━━━━━━━━━━━━ 7s 1s/step - loss: 0.0997
+Epoch 12/20
+5/5 ━━━━━━━━━━━━━━━━━━━━ 7s 1s/step - loss: 0.0996
+Epoch 13/20
+5/5 ━━━━━━━━━━━━━━━━━━━━ 7s 1s/step - loss: 0.0999
+Epoch 14/20
+5/5 ━━━━━━━━━━━━━━━━━━━━ 7s 1s/step - loss: 0.0999
+Epoch 15/20
+5/5 ━━━━━━━━━━━━━━━━━━━━ 7s 1s/step - loss: 0.0999
+Epoch 16/20
+5/5 ━━━━━━━━━━━━━━━━━━━━ 7s 1s/step - loss: 0.1001
+Epoch 17/20
+5/5 ━━━━━━━━━━━━━━━━━━━━ 7s 1s/step - loss: 0.0999
+Epoch 18/20
+5/5 ━━━━━━━━━━━━━━━━━━━━ 7s 1s/step - loss: 0.0998
+Epoch 19/20
+5/5 ━━━━━━━━━━━━━━━━━━━━ 7s 1s/step - loss: 0.0998
+Epoch 20/20
+5/5 ━━━━━━━━━━━━━━━━━━━━ 7s 1s/step - loss: 0.0998
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 170ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 87ms/step
+GRAFO Nº 1:
+Cuello de Botella 1: [[1674.3973]]
+17955
+El número de elementos diferentes es: 89.61292119186857
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 69ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 49ms/step
+GRAFO Nº 2:
+Cuello de Botella 2: [[1619.233]]
+17955
+El número de elementos diferentes es: 89.44583681425787
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 68ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 51ms/step
+GRAFO Nº 3:
+Cuello de Botella 3: [[1703.5594]]
+17955
+El número de elementos diferentes es: 90.01392369813422
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 68ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 53ms/step
+GRAFO Nº 4:
+Cuello de Botella 4: [[1674.2548]]
+17955
+El número de elementos diferentes es: 89.60735171261487
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 68ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 50ms/step
+GRAFO Nº 5:
+Cuello de Botella 5: [[1795.4403]]
+17955
+El número de elementos diferentes es: 90.33695349484823
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 73ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 49ms/step
+GRAFO Nº 6:
+Cuello de Botella 6: [[1662.7085]]
+17955
+El número de elementos diferentes es: 89.54608744082428
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 75ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 49ms/step
+GRAFO Nº 7:
+Cuello de Botella 7: [[1641.7665]]
+17955
+El número de elementos diferentes es: 90.00278473962685
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 69ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 52ms/step
+GRAFO Nº 8:
+Cuello de Botella 8: [[1662.0045]]
+17955
+El número de elementos diferentes es: 89.72431077694236
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 69ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 53ms/step
+GRAFO Nº 9:
+Cuello de Botella 9: [[1768.1246]]
+17955
+El número de elementos diferentes es: 90.04177109440268
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 71ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 47ms/step
+GRAFO Nº 10:
+Cuello de Botella 10: [[1819.6447]]
+17955
+El número de elementos diferentes es: 90.23113338902813
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 69ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 48ms/step
+GRAFO Nº 11:
+Cuello de Botella 11: [[1716.8086]]
+17955
+El número de elementos diferentes es: 89.98607630186578
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 74ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 49ms/step
+GRAFO Nº 12:
+Cuello de Botella 12: [[1733.0323]]
+17955
+El número de elementos diferentes es: 89.79671400724033
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 69ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 51ms/step
+GRAFO Nº 13:
+Cuello de Botella 13: [[1667.13]]
+17955
+El número de elementos diferentes es: 89.5349484823169
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 68ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 54ms/step
+GRAFO Nº 14:
+Cuello de Botella 14: [[1602.0587]]
+17955
+El número de elementos diferentes es: 89.50710108604845
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 69ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 49ms/step
+GRAFO Nº 15:
+Cuello de Botella 15: [[1736.7346]]
+17955
+El número de elementos diferentes es: 89.99164578111947
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 73ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 50ms/step
+GRAFO Nº 16:
+Cuello de Botella 16: [[1801.5092]]
+17955
+El número de elementos diferentes es: 90.14759120022278
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 76ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 48ms/step
+GRAFO Nº 17:
+Cuello de Botella 17: [[1780.9343]]
+17955
+El número de elementos diferentes es: 90.25341130604289
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 68ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 53ms/step
+GRAFO Nº 18:
+Cuello de Botella 18: [[1628.6693]]
+17955
+El número de elementos diferentes es: 89.59621275410748
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 70ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 48ms/step
+GRAFO Nº 19:
+Cuello de Botella 19: [[1644.9233]]
+17955
+El número de elementos diferentes es: 89.76329713171819
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 72ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 48ms/step
+GRAFO Nº 20:
+Cuello de Botella 20: [[1751.136]]
+17955
+El número de elementos diferentes es: 90.19771651350598
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 76ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 49ms/step
+GRAFO Nº 21:
+Cuello de Botella 21: [[1748.7754]]
+17955
+El número de elementos diferentes es: 90.21442495126706
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 68ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 52ms/step
+GRAFO Nº 22:
+Cuello de Botella 22: [[1625.6173]]
+17955
+El número de elementos diferentes es: 89.5906432748538
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 68ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 51ms/step
+GRAFO Nº 23:
+Cuello de Botella 23: [[1629.8542]]
+17955
+El número de elementos diferentes es: 89.46811473127262
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 69ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 50ms/step
+GRAFO Nº 24:
+Cuello de Botella 24: [[1664.1702]]
+17955
+El número de elementos diferentes es: 89.5906432748538
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 72ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 49ms/step
+GRAFO Nº 25:
+Cuello de Botella 25: [[1532.2603]]
+17955
+El número de elementos diferentes es: 89.13951545530493
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 76ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 50ms/step
+GRAFO Nº 26:
+Cuello de Botella 26: [[1776.9294]]
+17955
+El número de elementos diferentes es: 90.09746588693957
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 68ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 52ms/step
+GRAFO Nº 27:
+Cuello de Botella 27: [[1701.3754]]
+17955
+El número de elementos diferentes es: 89.86911723753829
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 68ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 49ms/step
+GRAFO Nº 28:
+Cuello de Botella 28: [[1745.2024]]
+17955
+El número de elementos diferentes es: 90.14759120022278
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 72ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 47ms/step
+GRAFO Nº 29:
+Cuello de Botella 29: [[1675.6294]]
+17955
+El número de elementos diferentes es: 89.81899192425509
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 77ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 49ms/step
+GRAFO Nº 30:
+Cuello de Botella 30: [[1789.4287]]
+17955
+El número de elementos diferentes es: 90.3480924533556
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 67ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 51ms/step
+GRAFO Nº 31:
+Cuello de Botella 31: [[1882.196]]
+17955
+El número de elementos diferentes es: 90.7379560011139
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 70ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 54ms/step
+GRAFO Nº 32:
+Cuello de Botella 32: [[1686.3195]]
+17955
+El número de elementos diferentes es: 89.93038150932888
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 69ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 47ms/step
+GRAFO Nº 33:
+Cuello de Botella 33: [[1804.1897]]
+17955
+El número de elementos diferentes es: 90.34252297410193
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 73ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 49ms/step
+GRAFO Nº 34:
+Cuello de Botella 34: [[1720.48]]
+17955
+El número de elementos diferentes es: 89.73544973544973
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 83ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 48ms/step
+GRAFO Nº 35:
+Cuello de Botella 35: [[1699.7687]]
+17955
+El número de elementos diferentes es: 89.67975494291284
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 68ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 49ms/step
+GRAFO Nº 36:
+Cuello de Botella 36: [[1823.6034]]
+17955
+El número de elementos diferentes es: 90.3480924533556
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 67ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 52ms/step
+GRAFO Nº 37:
+Cuello de Botella 37: [[1763.9407]]
+17955
+El número de elementos diferentes es: 90.32581453634086
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 69ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 47ms/step
+GRAFO Nº 38:
+Cuello de Botella 38: [[1515.4435]]
+17955
+El número de elementos diferentes es: 89.13394597605124
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 72ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 48ms/step
+GRAFO Nº 39:
+Cuello de Botella 39: [[1616.6989]]
+17955
+El número de elementos diferentes es: 89.37900306321359
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 75ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 48ms/step
+GRAFO Nº 40:
+Cuello de Botella 40: [[1703.814]]
+17955
+El número de elementos diferentes es: 89.8078529657477
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 68ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 52ms/step
+GRAFO Nº 41:
+Cuello de Botella 41: [[1730.9202]]
+17955
+El número de elementos diferentes es: 90.01392369813422
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 68ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 53ms/step
+GRAFO Nº 42:
+Cuello de Botella 42: [[1656.2622]]
+17955
+El número de elementos diferentes es: 89.79114452798663
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 69ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 49ms/step
+GRAFO Nº 43:
+Cuello de Botella 43: [[1842.5858]]
+17955
+El número de elementos diferentes es: 90.41492620439989
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 71ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 48ms/step
+GRAFO Nº 44:
+Cuello de Botella 44: [[1628.7258]]
+17955
+El número de elementos diferentes es: 89.45697577276525
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 75ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 48ms/step
+GRAFO Nº 45:
+Cuello de Botella 45: [[1666.7842]]
+17955
+El número de elementos diferentes es: 89.51824004455584
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 69ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 51ms/step
+GRAFO Nº 46:
+Cuello de Botella 46: [[1716.2439]]
+17955
+El número de elementos diferentes es: 89.90253411306043
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 68ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 52ms/step
+GRAFO Nº 47:
+Cuello de Botella 47: [[1798.5812]]
+17955
+El número de elementos diferentes es: 90.22556390977444
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 67ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 48ms/step
+GRAFO Nº 48:
+Cuello de Botella 48: [[1674.0597]]
+17955
+El número de elementos diferentes es: 89.9192425508215
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 72ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 48ms/step
+GRAFO Nº 49:
+Cuello de Botella 49: [[1760.4098]]
+17955
+El número de elementos diferentes es: 90.15316067947647
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 76ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 48ms/step
+GRAFO Nº 50:
+Cuello de Botella 50: [[1566.8043]]
+17955
+El número de elementos diferentes es: 88.91673628515734
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 68ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 51ms/step
+GRAFO Nº 51:
+Cuello de Botella 51: [[1778.5524]]
+17955
+El número de elementos diferentes es: 90.06961849067112
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 69ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 53ms/step
+GRAFO Nº 52:
+Cuello de Botella 52: [[1648.593]]
+17955
+El número de elementos diferentes es: 89.41241993873572
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 70ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 48ms/step
+GRAFO Nº 53:
+Cuello de Botella 53: [[1809.5599]]
+17955
+El número de elementos diferentes es: 90.30910609857978
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 73ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 48ms/step
+GRAFO Nº 54:
+Cuello de Botella 54: [[1725.7467]]
+17955
+El número de elementos diferentes es: 90.2422723475355
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 77ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 49ms/step
+GRAFO Nº 55:
+Cuello de Botella 55: [[1781.2861]]
+17955
+El número de elementos diferentes es: 90.1921470342523
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 68ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 51ms/step
+GRAFO Nº 56:
+Cuello de Botella 56: [[1680.4027]]
+17955
+El número de elementos diferentes es: 89.76886661097187
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 69ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 48ms/step
+GRAFO Nº 57:
+Cuello de Botella 57: [[1796.5068]]
+17955
+El número de elementos diferentes es: 90.49846839320523
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 73ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 49ms/step
+GRAFO Nº 58:
+Cuello de Botella 58: [[1810.575]]
+17955
+El número de elementos diferentes es: 90.17543859649123
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 75ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 50ms/step
+GRAFO Nº 59:
+Cuello de Botella 59: [[1583.7633]]
+17955
+El número de elementos diferentes es: 89.44583681425787
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 71ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 52ms/step
+GRAFO Nº 60:
+Cuello de Botella 60: [[1696.279]]
+17955
+El número de elementos diferentes es: 89.76329713171819
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 68ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 51ms/step
+GRAFO Nº 61:
+Cuello de Botella 61: [[1528.8606]]
+17955
+El número de elementos diferentes es: 88.91673628515734
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 69ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 48ms/step
+GRAFO Nº 62:
+Cuello de Botella 62: [[1797.8856]]
+17955
+El número de elementos diferentes es: 90.10860484544695
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 72ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 48ms/step
+GRAFO Nº 63:
+Cuello de Botella 63: [[1781.815]]
+17955
+El número de elementos diferentes es: 90.11417432470064
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 75ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 48ms/step
+GRAFO Nº 64:
+Cuello de Botella 64: [[1743.2295]]
+17955
+El número de elementos diferentes es: 89.93595098858256
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 69ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 51ms/step
+GRAFO Nº 65:
+Cuello de Botella 65: [[1809.8673]]
+17955
+El número de elementos diferentes es: 90.37593984962406
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 69ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 48ms/step
+GRAFO Nº 66:
+Cuello de Botella 66: [[1765.8982]]
+17955
+El número de elementos diferentes es: 89.80228348649402
+Epoch 1/20
+7/7 ━━━━━━━━━━━━━━━━━━━━ 12s 1s/step - loss: 0.2498
+Epoch 2/20
+7/7 ━━━━━━━━━━━━━━━━━━━━ 10s 1s/step - loss: 0.2242
+Epoch 3/20
+7/7 ━━━━━━━━━━━━━━━━━━━━ 10s 1s/step - loss: 0.0955
+Epoch 4/20
+7/7 ━━━━━━━━━━━━━━━━━━━━ 10s 1s/step - loss: 0.0995
+Epoch 5/20
+7/7 ━━━━━━━━━━━━━━━━━━━━ 10s 1s/step - loss: 0.1000
+Epoch 6/20
+7/7 ━━━━━━━━━━━━━━━━━━━━ 10s 1s/step - loss: 0.1003
+Epoch 7/20
+7/7 ━━━━━━━━━━━━━━━━━━━━ 10s 1s/step - loss: 0.1001
+Epoch 8/20
+7/7 ━━━━━━━━━━━━━━━━━━━━ 10s 1s/step - loss: 0.1002
+Epoch 9/20
+7/7 ━━━━━━━━━━━━━━━━━━━━ 10s 1s/step - loss: 0.1001
+Epoch 10/20
+7/7 ━━━━━━━━━━━━━━━━━━━━ 10s 1s/step - loss: 0.1000
+Epoch 11/20
+7/7 ━━━━━━━━━━━━━━━━━━━━ 10s 1s/step - loss: 0.1002
+Epoch 12/20
+7/7 ━━━━━━━━━━━━━━━━━━━━ 10s 1s/step - loss: 0.1004
+Epoch 13/20
+7/7 ━━━━━━━━━━━━━━━━━━━━ 10s 1s/step - loss: 0.1003
+Epoch 14/20
+7/7 ━━━━━━━━━━━━━━━━━━━━ 10s 1s/step - loss: 0.1001
+Epoch 15/20
+7/7 ━━━━━━━━━━━━━━━━━━━━ 10s 1s/step - loss: 0.1003
+Epoch 16/20
+7/7 ━━━━━━━━━━━━━━━━━━━━ 10s 1s/step - loss: 0.1004
+Epoch 17/20
+7/7 ━━━━━━━━━━━━━━━━━━━━ 10s 1s/step - loss: 0.1005
+Epoch 18/20
+7/7 ━━━━━━━━━━━━━━━━━━━━ 10s 1s/step - loss: 0.1005
+Epoch 19/20
+7/7 ━━━━━━━━━━━━━━━━━━━━ 10s 1s/step - loss: 0.1002
+Epoch 20/20
+7/7 ━━━━━━━━━━━━━━━━━━━━ 10s 1s/step - loss: 0.1003
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 175ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 111ms/step
+GRAFO Nº 1:
+Cuello de Botella 1: [[2616.983]]
+17955
+El número de elementos diferentes es: 89.68532442216653
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 78ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 52ms/step
+GRAFO Nº 2:
+Cuello de Botella 2: [[2615.3455]]
+17955
+El número de elementos diferentes es: 89.72988025619604
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 76ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 55ms/step
+GRAFO Nº 3:
+Cuello de Botella 3: [[2610.2246]]
+17955
+El número de elementos diferentes es: 89.63519910888331
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 71ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 53ms/step
+GRAFO Nº 4:
+Cuello de Botella 4: [[2589.8625]]
+17955
+El número de elementos diferentes es: 89.74101921470343
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 72ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 54ms/step
+GRAFO Nº 5:
+Cuello de Botella 5: [[2390.4468]]
+17955
+El número de elementos diferentes es: 89.0448343079922
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 72ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 51ms/step
+GRAFO Nº 6:
+Cuello de Botella 6: [[2753.784]]
+17955
+El número de elementos diferentes es: 90.07518796992481
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 75ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 53ms/step
+GRAFO Nº 7:
+Cuello de Botella 7: [[2842.1367]]
+17955
+El número de elementos diferentes es: 90.1364522417154
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 73ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 53ms/step
+GRAFO Nº 8:
+Cuello de Botella 8: [[2645.6338]]
+17955
+El número de elementos diferentes es: 89.72431077694236
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 76ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 50ms/step
+GRAFO Nº 9:
+Cuello de Botella 9: [[2608.194]]
+17955
+El número de elementos diferentes es: 89.90253411306043
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 70ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 50ms/step
+GRAFO Nº 10:
+Cuello de Botella 10: [[2624.4333]]
+17955
+El número de elementos diferentes es: 89.43469785575049
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 69ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 55ms/step
+GRAFO Nº 11:
+Cuello de Botella 11: [[2501.137]]
+17955
+El número de elementos diferentes es: 89.2063492063492
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 69ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 49ms/step
+GRAFO Nº 12:
+Cuello de Botella 12: [[2720.0876]]
+17955
+El número de elementos diferentes es: 89.77443609022556
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 72ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 47ms/step
+GRAFO Nº 13:
+Cuello de Botella 13: [[2702.063]]
+17955
+El número de elementos diferentes es: 89.74658869395711
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 76ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 50ms/step
+GRAFO Nº 14:
+Cuello de Botella 14: [[2741.2363]]
+17955
+El número de elementos diferentes es: 90.01392369813422
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 69ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 53ms/step
+GRAFO Nº 15:
+Cuello de Botella 15: [[2631.7605]]
+17955
+El número de elementos diferentes es: 89.68532442216653
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 70ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 53ms/step
+GRAFO Nº 16:
+Cuello de Botella 16: [[2916.3386]]
+17955
+El número de elementos diferentes es: 90.44277360066833
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 70ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 48ms/step
+GRAFO Nº 17:
+Cuello de Botella 17: [[2826.6992]]
+17955
+El número de elementos diferentes es: 90.33695349484823
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 72ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 48ms/step
+GRAFO Nº 18:
+Cuello de Botella 18: [[2605.3638]]
+17955
+El número de elementos diferentes es: 89.76886661097187
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 76ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 49ms/step
+GRAFO Nº 19:
+Cuello de Botella 19: [[2674.9387]]
+17955
+El número de elementos diferentes es: 89.79671400724033
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 70ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 51ms/step
+GRAFO Nº 20:
+Cuello de Botella 20: [[2602.1492]]
+17955
+El número de elementos diferentes es: 89.66304650515177
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 70ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 53ms/step
+GRAFO Nº 21:
+Cuello de Botella 21: [[2617.4897]]
+17955
+El número de elementos diferentes es: 89.68532442216653
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 70ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 49ms/step
+GRAFO Nº 22:
+Cuello de Botella 22: [[2405.7798]]
+17955
+El número de elementos diferentes es: 89.20077972709552
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 74ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 49ms/step
+GRAFO Nº 23:
+Cuello de Botella 23: [[2757.219]]
+17955
+El número de elementos diferentes es: 90.03063213589529
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 75ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 48ms/step
+GRAFO Nº 24:
+Cuello de Botella 24: [[2800.7197]]
+17955
+El número de elementos diferentes es: 90.18100807574491
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 69ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 51ms/step
+GRAFO Nº 25:
+Cuello de Botella 25: [[2690.2412]]
+17955
+El número de elementos diferentes es: 90.17543859649123
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 69ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 54ms/step
+GRAFO Nº 26:
+Cuello de Botella 26: [[2812.689]]
+17955
+El número de elementos diferentes es: 90.1865775549986
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 69ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 50ms/step
+GRAFO Nº 27:
+Cuello de Botella 27: [[2572.972]]
+17955
+El número de elementos diferentes es: 89.76886661097187
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 75ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 48ms/step
+GRAFO Nº 28:
+Cuello de Botella 28: [[2889.6445]]
+17955
+El número de elementos diferentes es: 90.65441381230855
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 74ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 49ms/step
+GRAFO Nº 29:
+Cuello de Botella 29: [[2718.4775]]
+17955
+El número de elementos diferentes es: 90.00278473962685
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 68ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 52ms/step
+GRAFO Nº 30:
+Cuello de Botella 30: [[2646.25]]
+17955
+El número de elementos diferentes es: 89.90253411306043
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 69ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 52ms/step
+GRAFO Nº 31:
+Cuello de Botella 31: [[2671.5112]]
+17955
+El número de elementos diferentes es: 89.76329713171819
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 68ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 49ms/step
+GRAFO Nº 32:
+Cuello de Botella 32: [[2653.134]]
+17955
+El número de elementos diferentes es: 89.71874129768867
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 74ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 49ms/step
+GRAFO Nº 33:
+Cuello de Botella 33: [[2792.181]]
+17955
+El número de elementos diferentes es: 90.3480924533556
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 74ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 51ms/step
+GRAFO Nº 34:
+Cuello de Botella 34: [[2508.1353]]
+17955
+El número de elementos diferentes es: 89.1506544138123
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 68ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 51ms/step
+GRAFO Nº 35:
+Cuello de Botella 35: [[2744.343]]
+17955
+El número de elementos diferentes es: 90.09189640768588
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 69ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 52ms/step
+GRAFO Nº 36:
+Cuello de Botella 36: [[2755.922]]
+17955
+El número de elementos diferentes es: 90.01949317738791
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 69ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 48ms/step
+GRAFO Nº 37:
+Cuello de Botella 37: [[2756.5408]]
+17955
+El número de elementos diferentes es: 89.86911723753829
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 75ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 51ms/step
+GRAFO Nº 38:
+Cuello de Botella 38: [[2593.5164]]
+17955
+El número de elementos diferentes es: 89.5349484823169
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 75ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 50ms/step
+GRAFO Nº 39:
+Cuello de Botella 39: [[2813.754]]
+17955
+El número de elementos diferentes es: 90.2979671400724
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 69ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 51ms/step
+GRAFO Nº 40:
+Cuello de Botella 40: [[2806.4995]]
+17955
+El número de elementos diferentes es: 90.20885547201337
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 71ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 53ms/step
+GRAFO Nº 41:
+Cuello de Botella 41: [[2842.8076]]
+17955
+El número de elementos diferentes es: 90.29239766081871
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 67ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 48ms/step
+GRAFO Nº 42:
+Cuello de Botella 42: [[2740.459]]
+17955
+El número de elementos diferentes es: 89.96936786410471
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 74ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 48ms/step
+GRAFO Nº 43:
+Cuello de Botella 43: [[2775.6003]]
+17955
+El número de elementos diferentes es: 90.10860484544695
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 78ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 49ms/step
+GRAFO Nº 44:
+Cuello de Botella 44: [[2710.332]]
+17955
+El número de elementos diferentes es: 89.8635477582846
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 68ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 51ms/step
+GRAFO Nº 45:
+Cuello de Botella 45: [[2749.7778]]
+17955
+El número de elementos diferentes es: 90.02506265664161
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 71ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 54ms/step
+GRAFO Nº 46:
+Cuello de Botella 46: [[2886.0688]]
+17955
+El número de elementos diferentes es: 90.4093567251462
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 76ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 57ms/step
+GRAFO Nº 47:
+Cuello de Botella 47: [[2586.5376]]
+17955
+El número de elementos diferentes es: 89.46254525201894
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 77ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 58ms/step
+GRAFO Nº 48:
+Cuello de Botella 48: [[2522.1282]]
+17955
+El número de elementos diferentes es: 89.38457254246728
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 70ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 50ms/step
+GRAFO Nº 49:
+Cuello de Botella 49: [[2732.3254]]
+17955
+El número de elementos diferentes es: 90.01949317738791
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 69ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 49ms/step
+GRAFO Nº 50:
+Cuello de Botella 50: [[2515.5378]]
+17955
+El número de elementos diferentes es: 89.54608744082428
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 74ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 49ms/step
+GRAFO Nº 51:
+Cuello de Botella 51: [[2653.32]]
+17955
+El número de elementos diferentes es: 89.81899192425509
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 70ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 50ms/step
+GRAFO Nº 52:
+Cuello de Botella 52: [[2687.1013]]
+17955
+El número de elementos diferentes es: 90.3035366193261
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 67ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 54ms/step
+GRAFO Nº 53:
+Cuello de Botella 53: [[2622.527]]
+17955
+El número de elementos diferentes es: 89.72988025619604
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 69ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 50ms/step
+GRAFO Nº 54:
+Cuello de Botella 54: [[2645.612]]
+17955
+El número de elementos diferentes es: 89.71874129768867
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 73ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 50ms/step
+GRAFO Nº 55:
+Cuello de Botella 55: [[2613.3677]]
+17955
+El número de elementos diferentes es: 89.7020328599276
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 77ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 51ms/step
+GRAFO Nº 56:
+Cuello de Botella 56: [[2709.9336]]
+17955
+El número de elementos diferentes es: 90.03063213589529
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 68ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 52ms/step
+GRAFO Nº 57:
+Cuello de Botella 57: [[2701.5867]]
+17955
+El número de elementos diferentes es: 89.97493734335839
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 69ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 52ms/step
+GRAFO Nº 58:
+Cuello de Botella 58: [[2715.7334]]
+17955
+El número de elementos diferentes es: 90.01392369813422
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 69ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 49ms/step
+GRAFO Nº 59:
+Cuello de Botella 59: [[2523.0264]]
+17955
+El número de elementos diferentes es: 89.34558618769145
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 74ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 49ms/step
+GRAFO Nº 60:
+Cuello de Botella 60: [[2779.035]]
+17955
+El número de elementos diferentes es: 90.50403787245892
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 76ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 47ms/step
+GRAFO Nº 61:
+Cuello de Botella 61: [[2802.848]]
+17955
+El número de elementos diferentes es: 90.359231411863
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 67ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 53ms/step
+GRAFO Nº 62:
+Cuello de Botella 62: [[2672.223]]
+17955
+El número de elementos diferentes es: 89.94152046783626
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 69ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 48ms/step
+GRAFO Nº 63:
+Cuello de Botella 63: [[2618.325]]
+17955
+El número de elementos diferentes es: 89.8078529657477
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 74ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 49ms/step
+GRAFO Nº 64:
+Cuello de Botella 64: [[2737.8936]]
+17955
+El número de elementos diferentes es: 90.29239766081871
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 76ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 49ms/step
+GRAFO Nº 65:
+Cuello de Botella 65: [[2768.4685]]
+17955
+El número de elementos diferentes es: 90.1364522417154
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 68ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 51ms/step
+GRAFO Nº 66:
+Cuello de Botella 66: [[2689.2913]]
+17955
+El número de elementos diferentes es: 89.94708994708995
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 67ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 52ms/step
+GRAFO Nº 67:
+Cuello de Botella 67: [[2616.6323]]
+17955
+El número de elementos diferentes es: 89.83013088276246
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 68ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 48ms/step
+GRAFO Nº 68:
+Cuello de Botella 68: [[2620.3635]]
+17955
+El número de elementos diferentes es: 89.56836535783904
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 72ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 49ms/step
+GRAFO Nº 69:
+Cuello de Botella 69: [[2751.17]]
+17955
+El número de elementos diferentes es: 90.16986911723754
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 76ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 50ms/step
+GRAFO Nº 70:
+Cuello de Botella 70: [[2501.694]]
+17955
+El número de elementos diferentes es: 89.36229462545252
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 70ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 51ms/step
+GRAFO Nº 71:
+Cuello de Botella 71: [[2644.9421]]
+17955
+El número de elementos diferentes es: 89.79671400724033
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 68ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 51ms/step
+GRAFO Nº 72:
+Cuello de Botella 72: [[2695.0955]]
+17955
+El número de elementos diferentes es: 89.86911723753829
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 68ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 50ms/step
+GRAFO Nº 73:
+Cuello de Botella 73: [[2692.395]]
+17955
+El número de elementos diferentes es: 90.03620161514898
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 73ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 48ms/step
+GRAFO Nº 74:
+Cuello de Botella 74: [[2509.5688]]
+17955
+El número de elementos diferentes es: 89.32887774993038
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 75ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 47ms/step
+GRAFO Nº 75:
+Cuello de Botella 75: [[2596.1467]]
+17955
+El número de elementos diferentes es: 89.62962962962963
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 68ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 52ms/step
+GRAFO Nº 76:
+Cuello de Botella 76: [[2490.3384]]
+17955
+El número de elementos diferentes es: 89.19521024784183
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 69ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 49ms/step
+GRAFO Nº 77:
+Cuello de Botella 77: [[2590.5918]]
+17955
+El número de elementos diferentes es: 89.52937900306321
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 71ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 49ms/step
+GRAFO Nº 78:
+Cuello de Botella 78: [[2666.9583]]
+17955
+El número de elementos diferentes es: 89.98607630186578
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 75ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 50ms/step
+GRAFO Nº 79:
+Cuello de Botella 79: [[2708.4185]]
+17955
+El número de elementos diferentes es: 89.95822890559732
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 67ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 52ms/step
+GRAFO Nº 80:
+Cuello de Botella 80: [[2611.6797]]
+17955
+El número de elementos diferentes es: 89.7577276524645
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 67ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 52ms/step
+GRAFO Nº 81:
+Cuello de Botella 81: [[2763.0417]]
+17955
+El número de elementos diferentes es: 90.25341130604289
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 70ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 48ms/step
+GRAFO Nº 82:
+Cuello de Botella 82: [[2877.2207]]
+17955
+El número de elementos diferentes es: 90.52631578947368
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 71ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 49ms/step
+GRAFO Nº 83:
+Cuello de Botella 83: [[2489.9595]]
+17955
+El número de elementos diferentes es: 89.17850181008076
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 74ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 50ms/step
+GRAFO Nº 84:
+Cuello de Botella 84: [[2745.226]]
+17955
+El número de elementos diferentes es: 90.01392369813422
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 69ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 51ms/step
+GRAFO Nº 85:
+Cuello de Botella 85: [[2871.2915]]
+17955
+El número de elementos diferentes es: 90.3035366193261
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 68ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 51ms/step
+GRAFO Nº 86:
+Cuello de Botella 86: [[2776.914]]
+17955
+El número de elementos diferentes es: 90.1420217209691
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 69ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 49ms/step
+GRAFO Nº 87:
+Cuello de Botella 87: [[2652.8914]]
+17955
+El número de elementos diferentes es: 89.5349484823169
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 73ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 49ms/step
+GRAFO Nº 88:
+Cuello de Botella 88: [[2521.355]]
+17955
+El número de elementos diferentes es: 89.29546087440825
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 79ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 48ms/step
+GRAFO Nº 89:
+Cuello de Botella 89: [[2606.7505]]
+17955
+El número de elementos diferentes es: 89.54608744082428
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 70ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 51ms/step
+GRAFO Nº 90:
+Cuello de Botella 90: [[2649.272]]
+17955
+El número de elementos diferentes es: 89.8635477582846
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 68ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 52ms/step
+GRAFO Nº 91:
+Cuello de Botella 91: [[2828.4133]]
+17955
+El número de elementos diferentes es: 90.26455026455027
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 69ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 49ms/step
+GRAFO Nº 92:
+Cuello de Botella 92: [[2756.4739]]
+17955
+El número de elementos diferentes es: 90.2979671400724
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 73ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 48ms/step
+GRAFO Nº 93:
+Cuello de Botella 93: [[2697.1445]]
+17955
+El número de elementos diferentes es: 90.01392369813422
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 75ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 48ms/step
+GRAFO Nº 94:
+Cuello de Botella 94: [[2715.5056]]
+17955
+El número de elementos diferentes es: 90.00835421888053
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 66ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 52ms/step
+GRAFO Nº 95:
+Cuello de Botella 95: [[2549.7346]]
+17955
+El número de elementos diferentes es: 89.47368421052632
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 67ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 47ms/step
+GRAFO Nº 96:
+Cuello de Botella 96: [[2547.8638]]
+17955
+El número de elementos diferentes es: 89.17850181008076
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 72ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 48ms/step
+GRAFO Nº 97:
+Cuello de Botella 97: [[2572.8606]]
+17955
+El número de elementos diferentes es: 89.80228348649402
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 77ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 50ms/step
+GRAFO Nº 98:
+Cuello de Botella 98: [[2695.1204]]
+17955
+El número de elementos diferentes es: 90.00278473962685
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 68ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 50ms/step
+GRAFO Nº 99:
+Cuello de Botella 99: [[2688.9617]]
+17955
+El número de elementos diferentes es: 89.89696463380673
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 68ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 52ms/step
+GRAFO Nº 100:
+Cuello de Botella 100: [[2390.5984]]
+17955
+El número de elementos diferentes es: 88.88331940963519
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 69ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 48ms/step
+GRAFO Nº 101:
+Cuello de Botella 101: [[2607.1804]]
+17955
+El número de elementos diferentes es: 89.5405179615706
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 73ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 48ms/step
+GRAFO Nº 102:
+Cuello de Botella 102: [[2697.139]]
+17955
+El número de elementos diferentes es: 89.6964633806739
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 74ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 48ms/step
+GRAFO Nº 103:
+Cuello de Botella 103: [[2687.72]]
+17955
+El número de elementos diferentes es: 90.08632692843219
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 69ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 51ms/step
+GRAFO Nº 104:
+Cuello de Botella 104: [[2724.7168]]
+17955
+El número de elementos diferentes es: 90.27568922305764
+ADHD: 89.84434771138372, TD: 89.88616321949657, Combinados: 89.85712143606878 
+
+Process finished with exit code 0

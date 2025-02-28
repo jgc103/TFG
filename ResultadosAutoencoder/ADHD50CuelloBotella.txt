@@ -1,0 +1,3617 @@
+C:\Users\Jorge\Desktop\Universidad\TFG\Codigo\ADHD\.venv\Scripts\python.exe C:\Users\Jorge\Desktop\Universidad\TFG\Codigo\ADHD\ADHDPrueba2.py 
+2025-02-06 17:02:23.313554: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-02-06 17:02:24.650900: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+Leyendo el archivo: KKI_1019436.txt
+Grafo KKI_1019436.txt procesado correctamente.
+Leyendo el archivo: KKI_1535233.txt
+Grafo KKI_1535233.txt procesado correctamente.
+Leyendo el archivo: KKI_1594156.txt
+Grafo KKI_1594156.txt procesado correctamente.
+Leyendo el archivo: KKI_1623716.txt
+Grafo KKI_1623716.txt procesado correctamente.
+Leyendo el archivo: KKI_1638334.txt
+Grafo KKI_1638334.txt procesado correctamente.
+Leyendo el archivo: KKI_1873761.txt
+Grafo KKI_1873761.txt procesado correctamente.
+Leyendo el archivo: KKI_2081148.txt
+Grafo KKI_2081148.txt procesado correctamente.
+Leyendo el archivo: KKI_2104012.txt
+Grafo KKI_2104012.txt procesado correctamente.
+Leyendo el archivo: KKI_2768273.txt
+Grafo KKI_2768273.txt procesado correctamente.
+Leyendo el archivo: KKI_2822304.txt
+Grafo KKI_2822304.txt procesado correctamente.
+Leyendo el archivo: KKI_3170319.txt
+Grafo KKI_3170319.txt procesado correctamente.
+Leyendo el archivo: KKI_3884955.txt
+Grafo KKI_3884955.txt procesado correctamente.
+Leyendo el archivo: KKI_3972472.txt
+Grafo KKI_3972472.txt procesado correctamente.
+Leyendo el archivo: KKI_3972956.txt
+Grafo KKI_3972956.txt procesado correctamente.
+Leyendo el archivo: KKI_4104523.txt
+Grafo KKI_4104523.txt procesado correctamente.
+Leyendo el archivo: KKI_4154182.txt
+Grafo KKI_4154182.txt procesado correctamente.
+Leyendo el archivo: KKI_4275075.txt
+Grafo KKI_4275075.txt procesado correctamente.
+Leyendo el archivo: KKI_7129258.txt
+Grafo KKI_7129258.txt procesado correctamente.
+Leyendo el archivo: KKI_8083695.txt
+Grafo KKI_8083695.txt procesado correctamente.
+Leyendo el archivo: KKI_8628223.txt
+Grafo KKI_8628223.txt procesado correctamente.
+Leyendo el archivo: NeuroIMAGE_1125505.txt
+Grafo NeuroIMAGE_1125505.txt procesado correctamente.
+Leyendo el archivo: NeuroIMAGE_1312097.txt
+Grafo NeuroIMAGE_1312097.txt procesado correctamente.
+Leyendo el archivo: NeuroIMAGE_1538046.txt
+Grafo NeuroIMAGE_1538046.txt procesado correctamente.
+Leyendo el archivo: NeuroIMAGE_2574674.txt
+Grafo NeuroIMAGE_2574674.txt procesado correctamente.
+Leyendo el archivo: NeuroIMAGE_2756846.txt
+Grafo NeuroIMAGE_2756846.txt procesado correctamente.
+Leyendo el archivo: NeuroIMAGE_3007585.txt
+Grafo NeuroIMAGE_3007585.txt procesado correctamente.
+Leyendo el archivo: NeuroIMAGE_3190461.txt
+Grafo NeuroIMAGE_3190461.txt procesado correctamente.
+Leyendo el archivo: NeuroIMAGE_3304956.txt
+Grafo NeuroIMAGE_3304956.txt procesado correctamente.
+Leyendo el archivo: NeuroIMAGE_3322144.txt
+Grafo NeuroIMAGE_3322144.txt procesado correctamente.
+Leyendo el archivo: NeuroIMAGE_3449233.txt
+Grafo NeuroIMAGE_3449233.txt procesado correctamente.
+Leyendo el archivo: NeuroIMAGE_3566449.txt
+Grafo NeuroIMAGE_3566449.txt procesado correctamente.
+Leyendo el archivo: NeuroIMAGE_3858891.txt
+Grafo NeuroIMAGE_3858891.txt procesado correctamente.
+Leyendo el archivo: NeuroIMAGE_3888614.txt
+Grafo NeuroIMAGE_3888614.txt procesado correctamente.
+Leyendo el archivo: NeuroIMAGE_3941358.txt
+Grafo NeuroIMAGE_3941358.txt procesado correctamente.
+Leyendo el archivo: NeuroIMAGE_3959823.txt
+Grafo NeuroIMAGE_3959823.txt procesado correctamente.
+Leyendo el archivo: NeuroIMAGE_3980079.txt
+Grafo NeuroIMAGE_3980079.txt procesado correctamente.
+Leyendo el archivo: NeuroIMAGE_4134561.txt
+Grafo NeuroIMAGE_4134561.txt procesado correctamente.
+Leyendo el archivo: NeuroIMAGE_6115230.txt
+Grafo NeuroIMAGE_6115230.txt procesado correctamente.
+Leyendo el archivo: NeuroIMAGE_7446626.txt
+Grafo NeuroIMAGE_7446626.txt procesado correctamente.
+Leyendo el archivo: NeuroIMAGE_7504392.txt
+Grafo NeuroIMAGE_7504392.txt procesado correctamente.
+Leyendo el archivo: NeuroIMAGE_8409791.txt
+Grafo NeuroIMAGE_8409791.txt procesado correctamente.
+Leyendo el archivo: NeuroIMAGE_8991934.txt
+Grafo NeuroIMAGE_8991934.txt procesado correctamente.
+Leyendo el archivo: NYU_0010004.txt
+Grafo NYU_0010004.txt procesado correctamente.
+Leyendo el archivo: NYU_0010010.txt
+Grafo NYU_0010010.txt procesado correctamente.
+Leyendo el archivo: NYU_0010020.txt
+Grafo NYU_0010020.txt procesado correctamente.
+Leyendo el archivo: NYU_0010021.txt
+Grafo NYU_0010021.txt procesado correctamente.
+Leyendo el archivo: NYU_0010023.txt
+Grafo NYU_0010023.txt procesado correctamente.
+Leyendo el archivo: NYU_0010024.txt
+Grafo NYU_0010024.txt procesado correctamente.
+Leyendo el archivo: NYU_0010028.txt
+Grafo NYU_0010028.txt procesado correctamente.
+Leyendo el archivo: NYU_0010029.txt
+Grafo NYU_0010029.txt procesado correctamente.
+Leyendo el archivo: NYU_0010031.txt
+Grafo NYU_0010031.txt procesado correctamente.
+Leyendo el archivo: NYU_0010032.txt
+Grafo NYU_0010032.txt procesado correctamente.
+Leyendo el archivo: NYU_0010034.txt
+Grafo NYU_0010034.txt procesado correctamente.
+Leyendo el archivo: NYU_0010035.txt
+Grafo NYU_0010035.txt procesado correctamente.
+Leyendo el archivo: NYU_0010037.txt
+Grafo NYU_0010037.txt procesado correctamente.
+Leyendo el archivo: NYU_0010040.txt
+Grafo NYU_0010040.txt procesado correctamente.
+Leyendo el archivo: NYU_0010043.txt
+Grafo NYU_0010043.txt procesado correctamente.
+Leyendo el archivo: NYU_0010044.txt
+Grafo NYU_0010044.txt procesado correctamente.
+Leyendo el archivo: NYU_0010045.txt
+Grafo NYU_0010045.txt procesado correctamente.
+Leyendo el archivo: NYU_0010052.txt
+Grafo NYU_0010052.txt procesado correctamente.
+Leyendo el archivo: NYU_0010053.txt
+Grafo NYU_0010053.txt procesado correctamente.
+Leyendo el archivo: NYU_0010054.txt
+Grafo NYU_0010054.txt procesado correctamente.
+Leyendo el archivo: NYU_0010057.txt
+Grafo NYU_0010057.txt procesado correctamente.
+Leyendo el archivo: NYU_0010058.txt
+Grafo NYU_0010058.txt procesado correctamente.
+Leyendo el archivo: NYU_0010059.txt
+Grafo NYU_0010059.txt procesado correctamente.
+Leyendo el archivo: NYU_0010065.txt
+Grafo NYU_0010065.txt procesado correctamente.
+Leyendo el archivo: NYU_0010068.txt
+Grafo NYU_0010068.txt procesado correctamente.
+Leyendo el archivo: NYU_0010072.txt
+Grafo NYU_0010072.txt procesado correctamente.
+Leyendo el archivo: NYU_0010073.txt
+Grafo NYU_0010073.txt procesado correctamente.
+Leyendo el archivo: NYU_0010079.txt
+Grafo NYU_0010079.txt procesado correctamente.
+Leyendo el archivo: NYU_0010081.txt
+Grafo NYU_0010081.txt procesado correctamente.
+Leyendo el archivo: NYU_0010083.txt
+Grafo NYU_0010083.txt procesado correctamente.
+Leyendo el archivo: NYU_0010084.txt
+Grafo NYU_0010084.txt procesado correctamente.
+Leyendo el archivo: NYU_0010085.txt
+Grafo NYU_0010085.txt procesado correctamente.
+Leyendo el archivo: NYU_0010087.txt
+Grafo NYU_0010087.txt procesado correctamente.
+Leyendo el archivo: NYU_0010088.txt
+Grafo NYU_0010088.txt procesado correctamente.
+Leyendo el archivo: NYU_0010089.txt
+Grafo NYU_0010089.txt procesado correctamente.
+Leyendo el archivo: NYU_0010090.txt
+Grafo NYU_0010090.txt procesado correctamente.
+Leyendo el archivo: NYU_0010091.txt
+Grafo NYU_0010091.txt procesado correctamente.
+Leyendo el archivo: NYU_0010092.txt
+Grafo NYU_0010092.txt procesado correctamente.
+Leyendo el archivo: NYU_0010095.txt
+Grafo NYU_0010095.txt procesado correctamente.
+Leyendo el archivo: NYU_0010097.txt
+Grafo NYU_0010097.txt procesado correctamente.
+Leyendo el archivo: NYU_0010099.txt
+Grafo NYU_0010099.txt procesado correctamente.
+Leyendo el archivo: NYU_0010100.txt
+Grafo NYU_0010100.txt procesado correctamente.
+Leyendo el archivo: NYU_0010102.txt
+Grafo NYU_0010102.txt procesado correctamente.
+Leyendo el archivo: NYU_0010104.txt
+Grafo NYU_0010104.txt procesado correctamente.
+Leyendo el archivo: NYU_0010108.txt
+Grafo NYU_0010108.txt procesado correctamente.
+Leyendo el archivo: NYU_0010113.txt
+Grafo NYU_0010113.txt procesado correctamente.
+Leyendo el archivo: NYU_0010114.txt
+Grafo NYU_0010114.txt procesado correctamente.
+Leyendo el archivo: NYU_0010116.txt
+Grafo NYU_0010116.txt procesado correctamente.
+Leyendo el archivo: NYU_0010118.txt
+Grafo NYU_0010118.txt procesado correctamente.
+Leyendo el archivo: NYU_0010120.txt
+Grafo NYU_0010120.txt procesado correctamente.
+Leyendo el archivo: NYU_0010122.txt
+Grafo NYU_0010122.txt procesado correctamente.
+Leyendo el archivo: NYU_0010124.txt
+Grafo NYU_0010124.txt procesado correctamente.
+Leyendo el archivo: NYU_0010126.txt
+Grafo NYU_0010126.txt procesado correctamente.
+Leyendo el archivo: NYU_0010129.txt
+Grafo NYU_0010129.txt procesado correctamente.
+Leyendo el archivo: NYU_1057962.txt
+Grafo NYU_1057962.txt procesado correctamente.
+Leyendo el archivo: NYU_1099481.txt
+Grafo NYU_1099481.txt procesado correctamente.
+Leyendo el archivo: NYU_1187766.txt
+Grafo NYU_1187766.txt procesado correctamente.
+Leyendo el archivo: NYU_1320247.txt
+Grafo NYU_1320247.txt procesado correctamente.
+Leyendo el archivo: NYU_1359325.txt
+Grafo NYU_1359325.txt procesado correctamente.
+Leyendo el archivo: NYU_1511464.txt
+Grafo NYU_1511464.txt procesado correctamente.
+Leyendo el archivo: NYU_1737393.txt
+Grafo NYU_1737393.txt procesado correctamente.
+Leyendo el archivo: NYU_1780174.txt
+Grafo NYU_1780174.txt procesado correctamente.
+Leyendo el archivo: NYU_1854959.txt
+Grafo NYU_1854959.txt procesado correctamente.
+Leyendo el archivo: NYU_1918630.txt
+Grafo NYU_1918630.txt procesado correctamente.
+Leyendo el archivo: NYU_1934623.txt
+Grafo NYU_1934623.txt procesado correctamente.
+Leyendo el archivo: NYU_2054438.txt
+Grafo NYU_2054438.txt procesado correctamente.
+Leyendo el archivo: NYU_2107638.txt
+Grafo NYU_2107638.txt procesado correctamente.
+Leyendo el archivo: NYU_2230510.txt
+Grafo NYU_2230510.txt procesado correctamente.
+Leyendo el archivo: NYU_2306976.txt
+Grafo NYU_2306976.txt procesado correctamente.
+Leyendo el archivo: NYU_2730704.txt
+Grafo NYU_2730704.txt procesado correctamente.
+Leyendo el archivo: NYU_2735617.txt
+Grafo NYU_2735617.txt procesado correctamente.
+Leyendo el archivo: NYU_2741068.txt
+Grafo NYU_2741068.txt procesado correctamente.
+Leyendo el archivo: NYU_2821683.txt
+Grafo NYU_2821683.txt procesado correctamente.
+Leyendo el archivo: NYU_2854839.txt
+Grafo NYU_2854839.txt procesado correctamente.
+Leyendo el archivo: NYU_2907383.txt
+Grafo NYU_2907383.txt procesado correctamente.
+Leyendo el archivo: NYU_2950672.txt
+Grafo NYU_2950672.txt procesado correctamente.
+Leyendo el archivo: NYU_2996531.txt
+Grafo NYU_2996531.txt procesado correctamente.
+Leyendo el archivo: NYU_3243657.txt
+Grafo NYU_3243657.txt procesado correctamente.
+Leyendo el archivo: NYU_3349205.txt
+Grafo NYU_3349205.txt procesado correctamente.
+Leyendo el archivo: NYU_3433846.txt
+Grafo NYU_3433846.txt procesado correctamente.
+Leyendo el archivo: NYU_3662296.txt
+Grafo NYU_3662296.txt procesado correctamente.
+Leyendo el archivo: NYU_3679455.txt
+Grafo NYU_3679455.txt procesado correctamente.
+Leyendo el archivo: NYU_3845761.txt
+Grafo NYU_3845761.txt procesado correctamente.
+Leyendo el archivo: NYU_4154672.txt
+Grafo NYU_4154672.txt procesado correctamente.
+Leyendo el archivo: NYU_4164316.txt
+Grafo NYU_4164316.txt procesado correctamente.
+Leyendo el archivo: NYU_5971050.txt
+Grafo NYU_5971050.txt procesado correctamente.
+Leyendo el archivo: NYU_8415034.txt
+Grafo NYU_8415034.txt procesado correctamente.
+Leyendo el archivo: NYU_8697774.txt
+Grafo NYU_8697774.txt procesado correctamente.
+Leyendo el archivo: NYU_8834383.txt
+Grafo NYU_8834383.txt procesado correctamente.
+Leyendo el archivo: NYU_8915162.txt
+Grafo NYU_8915162.txt procesado correctamente.
+Leyendo el archivo: NYU_9750701.txt
+Grafo NYU_9750701.txt procesado correctamente.
+Leyendo el archivo: Peking_1_1133221.txt
+Grafo Peking_1_1133221.txt procesado correctamente.
+Leyendo el archivo: Peking_1_1186237.txt
+Grafo Peking_1_1186237.txt procesado correctamente.
+Leyendo el archivo: Peking_1_1240299.txt
+Grafo Peking_1_1240299.txt procesado correctamente.
+Leyendo el archivo: Peking_1_1282248.txt
+Grafo Peking_1_1282248.txt procesado correctamente.
+Leyendo el archivo: Peking_1_1561488.txt
+Grafo Peking_1_1561488.txt procesado correctamente.
+Leyendo el archivo: Peking_1_1791543.txt
+Grafo Peking_1_1791543.txt procesado correctamente.
+Leyendo el archivo: Peking_1_1947991.txt
+Grafo Peking_1_1947991.txt procesado correctamente.
+Leyendo el archivo: Peking_1_2174595.txt
+Grafo Peking_1_2174595.txt procesado correctamente.
+Leyendo el archivo: Peking_1_2196753.txt
+Grafo Peking_1_2196753.txt procesado correctamente.
+Leyendo el archivo: Peking_1_2367157.txt
+Grafo Peking_1_2367157.txt procesado correctamente.
+Leyendo el archivo: Peking_1_2697768.txt
+Grafo Peking_1_2697768.txt procesado correctamente.
+Leyendo el archivo: Peking_1_2897046.txt
+Grafo Peking_1_2897046.txt procesado correctamente.
+Leyendo el archivo: Peking_1_3390312.txt
+Grafo Peking_1_3390312.txt procesado correctamente.
+Leyendo el archivo: Peking_1_3976121.txt
+Grafo Peking_1_3976121.txt procesado correctamente.
+Leyendo el archivo: Peking_1_3983607.txt
+Grafo Peking_1_3983607.txt procesado correctamente.
+Leyendo el archivo: Peking_1_4028266.txt
+Grafo Peking_1_4028266.txt procesado correctamente.
+Leyendo el archivo: Peking_1_4091983.txt
+Grafo Peking_1_4091983.txt procesado correctamente.
+Leyendo el archivo: Peking_1_4095748.txt
+Grafo Peking_1_4095748.txt procesado correctamente.
+Leyendo el archivo: Peking_1_4334113.txt
+Grafo Peking_1_4334113.txt procesado correctamente.
+Leyendo el archivo: Peking_1_5150328.txt
+Grafo Peking_1_5150328.txt procesado correctamente.
+Leyendo el archivo: Peking_1_5193577.txt
+Grafo Peking_1_5193577.txt procesado correctamente.
+Leyendo el archivo: Peking_1_7390867.txt
+Grafo Peking_1_7390867.txt procesado correctamente.
+Leyendo el archivo: Peking_1_9210521.txt
+Grafo Peking_1_9210521.txt procesado correctamente.
+Leyendo el archivo: Peking_2_1117299.txt
+Grafo Peking_2_1117299.txt procesado correctamente.
+Leyendo el archivo: Peking_2_1177160.txt
+Grafo Peking_2_1177160.txt procesado correctamente.
+Leyendo el archivo: Peking_2_1875013.txt
+Grafo Peking_2_1875013.txt procesado correctamente.
+Leyendo el archivo: Peking_2_3205761.txt
+Grafo Peking_2_3205761.txt procesado correctamente.
+Leyendo el archivo: Peking_2_3248920.txt
+Grafo Peking_2_3248920.txt procesado correctamente.
+Leyendo el archivo: Peking_2_3308331.txt
+Grafo Peking_2_3308331.txt procesado correctamente.
+Leyendo el archivo: Peking_2_3446674.txt
+Grafo Peking_2_3446674.txt procesado correctamente.
+Leyendo el archivo: Peking_2_3494778.txt
+Grafo Peking_2_3494778.txt procesado correctamente.
+Leyendo el archivo: Peking_2_3561920.txt
+Grafo Peking_2_3561920.txt procesado correctamente.
+Leyendo el archivo: Peking_2_3562883.txt
+Grafo Peking_2_3562883.txt procesado correctamente.
+Leyendo el archivo: Peking_2_3610134.txt
+Grafo Peking_2_3610134.txt procesado correctamente.
+Leyendo el archivo: Peking_2_3655623.txt
+Grafo Peking_2_3655623.txt procesado correctamente.
+Leyendo el archivo: Peking_2_3691107.txt
+Grafo Peking_2_3691107.txt procesado correctamente.
+Leyendo el archivo: Peking_2_3856956.txt
+Grafo Peking_2_3856956.txt procesado correctamente.
+Leyendo el archivo: Peking_2_3910672.txt
+Grafo Peking_2_3910672.txt procesado correctamente.
+Leyendo el archivo: Peking_2_3993793.txt
+Grafo Peking_2_3993793.txt procesado correctamente.
+Leyendo el archivo: Peking_2_3994098.txt
+Grafo Peking_2_3994098.txt procesado correctamente.
+Leyendo el archivo: Peking_2_4053388.txt
+Grafo Peking_2_4053388.txt procesado correctamente.
+Leyendo el archivo: Peking_2_4055710.txt
+Grafo Peking_2_4055710.txt procesado correctamente.
+Leyendo el archivo: Peking_2_4073815.txt
+Grafo Peking_2_4073815.txt procesado correctamente.
+Leyendo el archivo: Peking_2_4075719.txt
+Grafo Peking_2_4075719.txt procesado correctamente.
+Leyendo el archivo: Peking_2_4221029.txt
+Grafo Peking_2_4221029.txt procesado correctamente.
+Leyendo el archivo: Peking_2_4225073.txt
+Grafo Peking_2_4225073.txt procesado correctamente.
+Leyendo el archivo: Peking_2_4265987.txt
+Grafo Peking_2_4265987.txt procesado correctamente.
+Leyendo el archivo: Peking_2_5993008.txt
+Grafo Peking_2_5993008.txt procesado correctamente.
+Leyendo el archivo: Peking_2_6500128.txt
+Grafo Peking_2_6500128.txt procesado correctamente.
+Leyendo el archivo: Peking_2_7011503.txt
+Grafo Peking_2_7011503.txt procesado correctamente.
+Leyendo el archivo: Peking_2_7253183.txt
+Grafo Peking_2_7253183.txt procesado correctamente.
+Leyendo el archivo: Peking_2_7407032.txt
+Grafo Peking_2_7407032.txt procesado correctamente.
+Leyendo el archivo: Peking_2_7689953.txt
+Grafo Peking_2_7689953.txt procesado correctamente.
+Leyendo el archivo: Peking_2_8278680.txt
+Grafo Peking_2_8278680.txt procesado correctamente.
+Leyendo el archivo: Peking_2_9002207.txt
+Grafo Peking_2_9002207.txt procesado correctamente.
+Leyendo el archivo: Peking_2_9578631.txt
+Grafo Peking_2_9578631.txt procesado correctamente.
+Leyendo el archivo: Peking_2_9640133.txt
+Grafo Peking_2_9640133.txt procesado correctamente.
+Leyendo el archivo: KKI_1018959.txt
+Grafo KKI_1018959.txt procesado correctamente.
+Leyendo el archivo: KKI_1043241.txt
+Grafo KKI_1043241.txt procesado correctamente.
+Leyendo el archivo: KKI_1266183.txt
+Grafo KKI_1266183.txt procesado correctamente.
+Leyendo el archivo: KKI_1541812.txt
+Grafo KKI_1541812.txt procesado correctamente.
+Leyendo el archivo: KKI_1577042.txt
+Grafo KKI_1577042.txt procesado correctamente.
+Leyendo el archivo: KKI_1652369.txt
+Grafo KKI_1652369.txt procesado correctamente.
+Leyendo el archivo: KKI_1686265.txt
+Grafo KKI_1686265.txt procesado correctamente.
+Leyendo el archivo: KKI_1692275.txt
+Grafo KKI_1692275.txt procesado correctamente.
+Leyendo el archivo: KKI_1735881.txt
+Grafo KKI_1735881.txt procesado correctamente.
+Leyendo el archivo: KKI_1779922.txt
+Grafo KKI_1779922.txt procesado correctamente.
+Leyendo el archivo: KKI_1842819.txt
+Grafo KKI_1842819.txt procesado correctamente.
+Leyendo el archivo: KKI_1846346.txt
+Grafo KKI_1846346.txt procesado correctamente.
+Leyendo el archivo: KKI_1962503.txt
+Grafo KKI_1962503.txt procesado correctamente.
+Leyendo el archivo: KKI_1988015.txt
+Grafo KKI_1988015.txt procesado correctamente.
+Leyendo el archivo: KKI_1996183.txt
+Grafo KKI_1996183.txt procesado correctamente.
+Leyendo el archivo: KKI_2014113.txt
+Grafo KKI_2014113.txt procesado correctamente.
+Leyendo el archivo: KKI_2018106.txt
+Grafo KKI_2018106.txt procesado correctamente.
+Leyendo el archivo: KKI_2026113.txt
+Grafo KKI_2026113.txt procesado correctamente.
+Leyendo el archivo: KKI_2138826.txt
+Grafo KKI_2138826.txt procesado correctamente.
+Leyendo el archivo: KKI_2299519.txt
+Grafo KKI_2299519.txt procesado correctamente.
+Leyendo el archivo: KKI_2344857.txt
+Grafo KKI_2344857.txt procesado correctamente.
+Leyendo el archivo: KKI_2360428.txt
+Grafo KKI_2360428.txt procesado correctamente.
+Leyendo el archivo: KKI_2371032.txt
+Grafo KKI_2371032.txt procesado correctamente.
+Leyendo el archivo: KKI_2554127.txt
+Grafo KKI_2554127.txt procesado correctamente.
+Leyendo el archivo: KKI_2558999.txt
+Grafo KKI_2558999.txt procesado correctamente.
+Leyendo el archivo: KKI_2572285.txt
+Grafo KKI_2572285.txt procesado correctamente.
+Leyendo el archivo: KKI_2601925.txt
+Grafo KKI_2601925.txt procesado correctamente.
+Leyendo el archivo: KKI_2618929.txt
+Grafo KKI_2618929.txt procesado correctamente.
+Leyendo el archivo: KKI_2621228.txt
+Grafo KKI_2621228.txt procesado correctamente.
+Leyendo el archivo: KKI_2640795.txt
+Grafo KKI_2640795.txt procesado correctamente.
+Leyendo el archivo: KKI_2641332.txt
+Grafo KKI_2641332.txt procesado correctamente.
+Leyendo el archivo: KKI_2703289.txt
+Grafo KKI_2703289.txt procesado correctamente.
+Leyendo el archivo: KKI_2740232.txt
+Grafo KKI_2740232.txt procesado correctamente.
+Leyendo el archivo: KKI_2903997.txt
+Grafo KKI_2903997.txt procesado correctamente.
+Leyendo el archivo: KKI_2917777.txt
+Grafo KKI_2917777.txt procesado correctamente.
+Leyendo el archivo: KKI_2930625.txt
+Grafo KKI_2930625.txt procesado correctamente.
+Leyendo el archivo: KKI_3119327.txt
+Grafo KKI_3119327.txt procesado correctamente.
+Leyendo el archivo: KKI_3154996.txt
+Grafo KKI_3154996.txt procesado correctamente.
+Leyendo el archivo: KKI_3160561.txt
+Grafo KKI_3160561.txt procesado correctamente.
+Leyendo el archivo: KKI_3434578.txt
+Grafo KKI_3434578.txt procesado correctamente.
+Leyendo el archivo: KKI_3486975.txt
+Grafo KKI_3486975.txt procesado correctamente.
+Leyendo el archivo: KKI_3519022.txt
+Grafo KKI_3519022.txt procesado correctamente.
+Leyendo el archivo: KKI_3611827.txt
+Grafo KKI_3611827.txt procesado correctamente.
+Leyendo el archivo: KKI_3699991.txt
+Grafo KKI_3699991.txt procesado correctamente.
+Leyendo el archivo: KKI_3713230.txt
+Grafo KKI_3713230.txt procesado correctamente.
+Leyendo el archivo: KKI_3813783.txt
+Grafo KKI_3813783.txt procesado correctamente.
+Leyendo el archivo: KKI_3902469.txt
+Grafo KKI_3902469.txt procesado correctamente.
+Leyendo el archivo: KKI_3912996.txt
+Grafo KKI_3912996.txt procesado correctamente.
+Leyendo el archivo: KKI_3917422.txt
+Grafo KKI_3917422.txt procesado correctamente.
+Leyendo el archivo: KKI_4362730.txt
+Grafo KKI_4362730.txt procesado correctamente.
+Leyendo el archivo: KKI_4601682.txt
+Grafo KKI_4601682.txt procesado correctamente.
+Leyendo el archivo: KKI_6346605.txt
+Grafo KKI_6346605.txt procesado correctamente.
+Leyendo el archivo: KKI_7415617.txt
+Grafo KKI_7415617.txt procesado correctamente.
+Leyendo el archivo: KKI_7774305.txt
+Grafo KKI_7774305.txt procesado correctamente.
+Leyendo el archivo: KKI_8263351.txt
+Grafo KKI_8263351.txt procesado correctamente.
+Leyendo el archivo: KKI_8337695.txt
+Grafo KKI_8337695.txt procesado correctamente.
+Leyendo el archivo: KKI_8432725.txt
+Grafo KKI_8432725.txt procesado correctamente.
+Leyendo el archivo: KKI_9922944.txt
+Grafo KKI_9922944.txt procesado correctamente.
+Leyendo el archivo: NeuroIMAGE_1017176.txt
+Grafo NeuroIMAGE_1017176.txt procesado correctamente.
+Leyendo el archivo: NeuroIMAGE_1208586.txt
+Grafo NeuroIMAGE_1208586.txt procesado correctamente.
+Leyendo el archivo: NeuroIMAGE_1411495.txt
+Grafo NeuroIMAGE_1411495.txt procesado correctamente.
+Leyendo el archivo: NeuroIMAGE_1588809.txt
+Grafo NeuroIMAGE_1588809.txt procesado correctamente.
+Leyendo el archivo: NeuroIMAGE_2074737.txt
+Grafo NeuroIMAGE_2074737.txt procesado correctamente.
+Leyendo el archivo: NeuroIMAGE_2352986.txt
+Grafo NeuroIMAGE_2352986.txt procesado correctamente.
+Leyendo el archivo: NeuroIMAGE_2419464.txt
+Grafo NeuroIMAGE_2419464.txt procesado correctamente.
+Leyendo el archivo: NeuroIMAGE_2671604.txt
+Grafo NeuroIMAGE_2671604.txt procesado correctamente.
+Leyendo el archivo: NeuroIMAGE_2876903.txt
+Grafo NeuroIMAGE_2876903.txt procesado correctamente.
+Leyendo el archivo: NeuroIMAGE_2961243.txt
+Grafo NeuroIMAGE_2961243.txt procesado correctamente.
+Leyendo el archivo: NeuroIMAGE_3108222.txt
+Grafo NeuroIMAGE_3108222.txt procesado correctamente.
+Leyendo el archivo: NeuroIMAGE_3808273.txt
+Grafo NeuroIMAGE_3808273.txt procesado correctamente.
+Leyendo el archivo: NeuroIMAGE_4020830.txt
+Grafo NeuroIMAGE_4020830.txt procesado correctamente.
+Leyendo el archivo: NeuroIMAGE_4239636.txt
+Grafo NeuroIMAGE_4239636.txt procesado correctamente.
+Leyendo el archivo: NeuroIMAGE_7339173.txt
+Grafo NeuroIMAGE_7339173.txt procesado correctamente.
+Leyendo el archivo: NeuroIMAGE_8387093.txt
+Grafo NeuroIMAGE_8387093.txt procesado correctamente.
+Leyendo el archivo: NeuroIMAGE_9956994.txt
+Grafo NeuroIMAGE_9956994.txt procesado correctamente.
+Leyendo el archivo: NYU_0010001.txt
+Grafo NYU_0010001.txt procesado correctamente.
+Leyendo el archivo: NYU_0010002.txt
+Grafo NYU_0010002.txt procesado correctamente.
+Leyendo el archivo: NYU_0010006.txt
+Grafo NYU_0010006.txt procesado correctamente.
+Leyendo el archivo: NYU_0010007.txt
+Grafo NYU_0010007.txt procesado correctamente.
+Leyendo el archivo: NYU_0010008.txt
+Grafo NYU_0010008.txt procesado correctamente.
+Leyendo el archivo: NYU_0010009.txt
+Grafo NYU_0010009.txt procesado correctamente.
+Leyendo el archivo: NYU_0010011.txt
+Grafo NYU_0010011.txt procesado correctamente.
+Leyendo el archivo: NYU_0010012.txt
+Grafo NYU_0010012.txt procesado correctamente.
+Leyendo el archivo: NYU_0010013.txt
+Grafo NYU_0010013.txt procesado correctamente.
+Leyendo el archivo: NYU_0010017.txt
+Grafo NYU_0010017.txt procesado correctamente.
+Leyendo el archivo: NYU_0010019.txt
+Grafo NYU_0010019.txt procesado correctamente.
+Leyendo el archivo: NYU_0010022.txt
+Grafo NYU_0010022.txt procesado correctamente.
+Leyendo el archivo: NYU_0010026.txt
+Grafo NYU_0010026.txt procesado correctamente.
+Leyendo el archivo: NYU_0010033.txt
+Grafo NYU_0010033.txt procesado correctamente.
+Leyendo el archivo: NYU_0010036.txt
+Grafo NYU_0010036.txt procesado correctamente.
+Leyendo el archivo: NYU_0010038.txt
+Grafo NYU_0010038.txt procesado correctamente.
+Leyendo el archivo: NYU_0010039.txt
+Grafo NYU_0010039.txt procesado correctamente.
+Leyendo el archivo: NYU_0010041.txt
+Grafo NYU_0010041.txt procesado correctamente.
+Leyendo el archivo: NYU_0010042.txt
+Grafo NYU_0010042.txt procesado correctamente.
+Leyendo el archivo: NYU_0010048.txt
+Grafo NYU_0010048.txt procesado correctamente.
+Leyendo el archivo: NYU_0010049.txt
+Grafo NYU_0010049.txt procesado correctamente.
+Leyendo el archivo: NYU_0010050.txt
+Grafo NYU_0010050.txt procesado correctamente.
+Leyendo el archivo: NYU_0010051.txt
+Grafo NYU_0010051.txt procesado correctamente.
+Leyendo el archivo: NYU_0010056.txt
+Grafo NYU_0010056.txt procesado correctamente.
+Leyendo el archivo: NYU_0010062.txt
+Grafo NYU_0010062.txt procesado correctamente.
+Leyendo el archivo: NYU_0010063.txt
+Grafo NYU_0010063.txt procesado correctamente.
+Leyendo el archivo: NYU_0010064.txt
+Grafo NYU_0010064.txt procesado correctamente.
+Leyendo el archivo: NYU_0010069.txt
+Grafo NYU_0010069.txt procesado correctamente.
+Leyendo el archivo: NYU_0010070.txt
+Grafo NYU_0010070.txt procesado correctamente.
+Leyendo el archivo: NYU_0010071.txt
+Grafo NYU_0010071.txt procesado correctamente.
+Leyendo el archivo: NYU_0010075.txt
+Grafo NYU_0010075.txt procesado correctamente.
+Leyendo el archivo: NYU_0010076.txt
+Grafo NYU_0010076.txt procesado correctamente.
+Leyendo el archivo: NYU_0010078.txt
+Grafo NYU_0010078.txt procesado correctamente.
+Leyendo el archivo: NYU_0010080.txt
+Grafo NYU_0010080.txt procesado correctamente.
+Leyendo el archivo: NYU_0010082.txt
+Grafo NYU_0010082.txt procesado correctamente.
+Leyendo el archivo: NYU_0010086.txt
+Grafo NYU_0010086.txt procesado correctamente.
+Leyendo el archivo: NYU_0010093.txt
+Grafo NYU_0010093.txt procesado correctamente.
+Leyendo el archivo: NYU_0010094.txt
+Grafo NYU_0010094.txt procesado correctamente.
+Leyendo el archivo: NYU_0010101.txt
+Grafo NYU_0010101.txt procesado correctamente.
+Leyendo el archivo: NYU_0010107.txt
+Grafo NYU_0010107.txt procesado correctamente.
+Leyendo el archivo: NYU_0010110.txt
+Grafo NYU_0010110.txt procesado correctamente.
+Leyendo el archivo: NYU_0010112.txt
+Grafo NYU_0010112.txt procesado correctamente.
+Leyendo el archivo: NYU_0010115.txt
+Grafo NYU_0010115.txt procesado correctamente.
+Leyendo el archivo: NYU_0010117.txt
+Grafo NYU_0010117.txt procesado correctamente.
+Leyendo el archivo: NYU_0010121.txt
+Grafo NYU_0010121.txt procesado correctamente.
+Leyendo el archivo: NYU_0010123.txt
+Grafo NYU_0010123.txt procesado correctamente.
+Leyendo el archivo: NYU_0010125.txt
+Grafo NYU_0010125.txt procesado correctamente.
+Leyendo el archivo: NYU_0010128.txt
+Grafo NYU_0010128.txt procesado correctamente.
+Leyendo el archivo: NYU_1000804.txt
+Grafo NYU_1000804.txt procesado correctamente.
+Leyendo el archivo: NYU_1023964.txt
+Grafo NYU_1023964.txt procesado correctamente.
+Leyendo el archivo: NYU_1127915.txt
+Grafo NYU_1127915.txt procesado correctamente.
+Leyendo el archivo: NYU_1208795.txt
+Grafo NYU_1208795.txt procesado correctamente.
+Leyendo el archivo: NYU_1283494.txt
+Grafo NYU_1283494.txt procesado correctamente.
+Leyendo el archivo: NYU_1435954.txt
+Grafo NYU_1435954.txt procesado correctamente.
+Leyendo el archivo: NYU_1471736.txt
+Grafo NYU_1471736.txt procesado correctamente.
+Leyendo el archivo: NYU_1567356.txt
+Grafo NYU_1567356.txt procesado correctamente.
+Leyendo el archivo: NYU_1700637.txt
+Grafo NYU_1700637.txt procesado correctamente.
+Leyendo el archivo: NYU_1740607.txt
+Grafo NYU_1740607.txt procesado correctamente.
+Leyendo el archivo: NYU_1875084.txt
+Grafo NYU_1875084.txt procesado correctamente.
+Leyendo el archivo: NYU_1884448.txt
+Grafo NYU_1884448.txt procesado correctamente.
+Leyendo el archivo: NYU_1992284.txt
+Grafo NYU_1992284.txt procesado correctamente.
+Leyendo el archivo: NYU_1995121.txt
+Grafo NYU_1995121.txt procesado correctamente.
+Leyendo el archivo: NYU_2030383.txt
+Grafo NYU_2030383.txt procesado correctamente.
+Leyendo el archivo: NYU_2136051.txt
+Grafo NYU_2136051.txt procesado correctamente.
+Leyendo el archivo: NYU_2260910.txt
+Grafo NYU_2260910.txt procesado correctamente.
+Leyendo el archivo: NYU_2497695.txt
+Grafo NYU_2497695.txt procesado correctamente.
+Leyendo el archivo: NYU_2570769.txt
+Grafo NYU_2570769.txt procesado correctamente.
+Leyendo el archivo: NYU_2682736.txt
+Grafo NYU_2682736.txt procesado correctamente.
+Leyendo el archivo: NYU_2773205.txt
+Grafo NYU_2773205.txt procesado correctamente.
+Leyendo el archivo: NYU_2983819.txt
+Grafo NYU_2983819.txt procesado correctamente.
+Leyendo el archivo: NYU_2991307.txt
+Grafo NYU_2991307.txt procesado correctamente.
+Leyendo el archivo: NYU_3011311.txt
+Grafo NYU_3011311.txt procesado correctamente.
+Leyendo el archivo: NYU_3163200.txt
+Grafo NYU_3163200.txt procesado correctamente.
+Leyendo el archivo: NYU_3174224.txt
+Grafo NYU_3174224.txt procesado correctamente.
+Leyendo el archivo: NYU_3235580.txt
+Grafo NYU_3235580.txt procesado correctamente.
+Leyendo el archivo: NYU_3349423.txt
+Grafo NYU_3349423.txt procesado correctamente.
+Leyendo el archivo: NYU_3457975.txt
+Grafo NYU_3457975.txt procesado correctamente.
+Leyendo el archivo: NYU_3518345.txt
+Grafo NYU_3518345.txt procesado correctamente.
+Leyendo el archivo: NYU_3542588.txt
+Grafo NYU_3542588.txt procesado correctamente.
+Leyendo el archivo: NYU_3650634.txt
+Grafo NYU_3650634.txt procesado correctamente.
+Leyendo el archivo: NYU_3653737.txt
+Grafo NYU_3653737.txt procesado correctamente.
+Leyendo el archivo: NYU_4060823.txt
+Grafo NYU_4060823.txt procesado correctamente.
+Leyendo el archivo: NYU_4079254.txt
+Grafo NYU_4079254.txt procesado correctamente.
+Leyendo el archivo: NYU_4084645.txt
+Grafo NYU_4084645.txt procesado correctamente.
+Leyendo el archivo: NYU_4116166.txt
+Grafo NYU_4116166.txt procesado correctamente.
+Leyendo el archivo: NYU_4187857.txt
+Grafo NYU_4187857.txt procesado correctamente.
+Leyendo el archivo: NYU_4562206.txt
+Grafo NYU_4562206.txt procesado correctamente.
+Leyendo el archivo: NYU_4827048.txt
+Grafo NYU_4827048.txt procesado correctamente.
+Leyendo el archivo: NYU_5164727.txt
+Grafo NYU_5164727.txt procesado correctamente.
+Leyendo el archivo: NYU_6206397.txt
+Grafo NYU_6206397.txt procesado correctamente.
+Leyendo el archivo: NYU_6568351.txt
+Grafo NYU_6568351.txt procesado correctamente.
+Leyendo el archivo: NYU_8009688.txt
+Grafo NYU_8009688.txt procesado correctamente.
+Leyendo el archivo: NYU_8692452.txt
+Grafo NYU_8692452.txt procesado correctamente.
+Leyendo el archivo: NYU_9326955.txt
+Grafo NYU_9326955.txt procesado correctamente.
+Leyendo el archivo: NYU_9578663.txt
+Grafo NYU_9578663.txt procesado correctamente.
+Leyendo el archivo: NYU_9907452.txt
+Grafo NYU_9907452.txt procesado correctamente.
+Leyendo el archivo: Peking_1_1056121.txt
+Grafo Peking_1_1056121.txt procesado correctamente.
+Leyendo el archivo: Peking_1_1113498.txt
+Grafo Peking_1_1113498.txt procesado correctamente.
+Leyendo el archivo: Peking_1_1139030.txt
+Grafo Peking_1_1139030.txt procesado correctamente.
+Leyendo el archivo: Peking_1_1258069.txt
+Grafo Peking_1_1258069.txt procesado correctamente.
+Leyendo el archivo: Peking_1_1302449.txt
+Grafo Peking_1_1302449.txt procesado correctamente.
+Leyendo el archivo: Peking_1_1391181.txt
+Grafo Peking_1_1391181.txt procesado correctamente.
+Leyendo el archivo: Peking_1_1408093.txt
+Grafo Peking_1_1408093.txt procesado correctamente.
+Leyendo el archivo: Peking_1_1469171.txt
+Grafo Peking_1_1469171.txt procesado correctamente.
+Leyendo el archivo: Peking_1_1686092.txt
+Grafo Peking_1_1686092.txt procesado correctamente.
+Leyendo el archivo: Peking_1_1689948.txt
+Grafo Peking_1_1689948.txt procesado correctamente.
+Leyendo el archivo: Peking_1_1805037.txt
+Grafo Peking_1_1805037.txt procesado correctamente.
+Leyendo el archivo: Peking_1_1875711.txt
+Grafo Peking_1_1875711.txt procesado correctamente.
+Leyendo el archivo: Peking_1_1879542.txt
+Grafo Peking_1_1879542.txt procesado correctamente.
+Leyendo el archivo: Peking_1_1912810.txt
+Grafo Peking_1_1912810.txt procesado correctamente.
+Leyendo el archivo: Peking_1_2081754.txt
+Grafo Peking_1_2081754.txt procesado correctamente.
+Leyendo el archivo: Peking_1_2106109.txt
+Grafo Peking_1_2106109.txt procesado correctamente.
+Leyendo el archivo: Peking_1_2123983.txt
+Grafo Peking_1_2123983.txt procesado correctamente.
+Leyendo el archivo: Peking_1_2240562.txt
+Grafo Peking_1_2240562.txt procesado correctamente.
+Leyendo el archivo: Peking_1_2249443.txt
+Grafo Peking_1_2249443.txt procesado correctamente.
+Leyendo el archivo: Peking_1_2266806.txt
+Grafo Peking_1_2266806.txt procesado correctamente.
+Leyendo el archivo: Peking_1_2408774.txt
+Grafo Peking_1_2408774.txt procesado correctamente.
+Leyendo el archivo: Peking_1_2427408.txt
+Grafo Peking_1_2427408.txt procesado correctamente.
+Leyendo el archivo: Peking_1_2535087.txt
+Grafo Peking_1_2535087.txt procesado correctamente.
+Leyendo el archivo: Peking_1_2538839.txt
+Grafo Peking_1_2538839.txt procesado correctamente.
+Leyendo el archivo: Peking_1_2703336.txt
+Grafo Peking_1_2703336.txt procesado correctamente.
+Leyendo el archivo: Peking_1_2714224.txt
+Grafo Peking_1_2714224.txt procesado correctamente.
+Leyendo el archivo: Peking_1_2833684.txt
+Grafo Peking_1_2833684.txt procesado correctamente.
+Leyendo el archivo: Peking_1_3004580.txt
+Grafo Peking_1_3004580.txt procesado correctamente.
+Leyendo el archivo: Peking_1_3086074.txt
+Grafo Peking_1_3086074.txt procesado correctamente.
+Leyendo el archivo: Peking_1_3212536.txt
+Grafo Peking_1_3212536.txt procesado correctamente.
+Leyendo el archivo: Peking_1_3233028.txt
+Grafo Peking_1_3233028.txt procesado correctamente.
+Leyendo el archivo: Peking_1_3239413.txt
+Grafo Peking_1_3239413.txt procesado correctamente.
+Leyendo el archivo: Peking_1_3262042.txt
+Grafo Peking_1_3262042.txt procesado correctamente.
+Leyendo el archivo: Peking_1_3269608.txt
+Grafo Peking_1_3269608.txt procesado correctamente.
+Leyendo el archivo: Peking_1_3306863.txt
+Grafo Peking_1_3306863.txt procesado correctamente.
+Leyendo el archivo: Peking_1_3554582.txt
+Grafo Peking_1_3554582.txt procesado correctamente.
+Leyendo el archivo: Peking_1_3587000.txt
+Grafo Peking_1_3587000.txt procesado correctamente.
+Leyendo el archivo: Peking_1_3593327.txt
+Grafo Peking_1_3593327.txt procesado correctamente.
+Leyendo el archivo: Peking_1_3672854.txt
+Grafo Peking_1_3672854.txt procesado correctamente.
+Leyendo el archivo: Peking_1_3707771.txt
+Grafo Peking_1_3707771.txt procesado correctamente.
+Leyendo el archivo: Peking_1_3732101.txt
+Grafo Peking_1_3732101.txt procesado correctamente.
+Leyendo el archivo: Peking_1_3739175.txt
+Grafo Peking_1_3739175.txt procesado correctamente.
+Leyendo el archivo: Peking_1_3809753.txt
+Grafo Peking_1_3809753.txt procesado correctamente.
+Leyendo el archivo: Peking_1_3889095.txt
+Grafo Peking_1_3889095.txt procesado correctamente.
+Leyendo el archivo: Peking_1_3967265.txt
+Grafo Peking_1_3967265.txt procesado correctamente.
+Leyendo el archivo: Peking_1_4053836.txt
+Grafo Peking_1_4053836.txt procesado correctamente.
+Leyendo el archivo: Peking_1_4256491.txt
+Grafo Peking_1_4256491.txt procesado correctamente.
+Leyendo el archivo: Peking_1_4383707.txt
+Grafo Peking_1_4383707.txt procesado correctamente.
+Leyendo el archivo: Peking_1_4475709.txt
+Grafo Peking_1_4475709.txt procesado correctamente.
+Leyendo el archivo: Peking_1_4921428.txt
+Grafo Peking_1_4921428.txt procesado correctamente.
+Leyendo el archivo: Peking_1_5600820.txt
+Grafo Peking_1_5600820.txt procesado correctamente.
+Leyendo el archivo: Peking_1_6187322.txt
+Grafo Peking_1_6187322.txt procesado correctamente.
+Leyendo el archivo: Peking_1_7093319.txt
+Grafo Peking_1_7093319.txt procesado correctamente.
+Leyendo el archivo: Peking_1_7135128.txt
+Grafo Peking_1_7135128.txt procesado correctamente.
+Leyendo el archivo: Peking_1_8328877.txt
+Grafo Peking_1_8328877.txt procesado correctamente.
+Leyendo el archivo: Peking_1_8838009.txt
+Grafo Peking_1_8838009.txt procesado correctamente.
+Leyendo el archivo: Peking_1_9093997.txt
+Grafo Peking_1_9093997.txt procesado correctamente.
+Leyendo el archivo: Peking_1_9221927.txt
+Grafo Peking_1_9221927.txt procesado correctamente.
+Leyendo el archivo: Peking_1_9783279.txt
+Grafo Peking_1_9783279.txt procesado correctamente.
+Leyendo el archivo: Peking_1_9887336.txt
+Grafo Peking_1_9887336.txt procesado correctamente.
+Leyendo el archivo: Peking_1_9890726.txt
+Grafo Peking_1_9890726.txt procesado correctamente.
+Leyendo el archivo: Peking_2_1050975.txt
+Grafo Peking_2_1050975.txt procesado correctamente.
+Leyendo el archivo: Peking_2_1068505.txt
+Grafo Peking_2_1068505.txt procesado correctamente.
+Leyendo el archivo: Peking_2_1093743.txt
+Grafo Peking_2_1093743.txt procesado correctamente.
+Leyendo el archivo: Peking_2_1094669.txt
+Grafo Peking_2_1094669.txt procesado correctamente.
+Leyendo el archivo: Peking_2_1159908.txt
+Grafo Peking_2_1159908.txt procesado correctamente.
+Leyendo el archivo: Peking_2_1341865.txt
+Grafo Peking_2_1341865.txt procesado correctamente.
+Leyendo el archivo: Peking_2_1494102.txt
+Grafo Peking_2_1494102.txt procesado correctamente.
+Leyendo el archivo: Peking_2_1562298.txt
+Grafo Peking_2_1562298.txt procesado correctamente.
+Leyendo el archivo: Peking_2_1628610.txt
+Grafo Peking_2_1628610.txt procesado correctamente.
+Leyendo el archivo: Peking_2_1643780.txt
+Grafo Peking_2_1643780.txt procesado correctamente.
+Leyendo el archivo: Peking_2_1809715.txt
+Grafo Peking_2_1809715.txt procesado correctamente.
+Leyendo el archivo: Peking_2_1860323.txt
+Grafo Peking_2_1860323.txt procesado correctamente.
+Leyendo el archivo: Peking_2_1916266.txt
+Grafo Peking_2_1916266.txt procesado correctamente.
+Leyendo el archivo: Peking_2_2031422.txt
+Grafo Peking_2_2031422.txt procesado correctamente.
+Leyendo el archivo: Peking_2_2033178.txt
+Grafo Peking_2_2033178.txt procesado correctamente.
+Leyendo el archivo: Peking_2_2140063.txt
+Grafo Peking_2_2140063.txt procesado correctamente.
+Leyendo el archivo: Peking_2_2141250.txt
+Grafo Peking_2_2141250.txt procesado correctamente.
+Leyendo el archivo: Peking_2_2207418.txt
+Grafo Peking_2_2207418.txt procesado correctamente.
+Leyendo el archivo: Peking_2_2296326.txt
+Grafo Peking_2_2296326.txt procesado correctamente.
+Leyendo el archivo: Peking_2_2310449.txt
+Grafo Peking_2_2310449.txt procesado correctamente.
+Leyendo el archivo: Peking_2_2377207.txt
+Grafo Peking_2_2377207.txt procesado correctamente.
+Leyendo el archivo: Peking_2_2498847.txt
+Grafo Peking_2_2498847.txt procesado correctamente.
+Leyendo el archivo: Peking_2_2529026.txt
+Grafo Peking_2_2529026.txt procesado correctamente.
+Leyendo el archivo: Peking_2_2559537.txt
+Grafo Peking_2_2559537.txt procesado correctamente.
+Leyendo el archivo: Peking_2_2601519.txt
+Grafo Peking_2_2601519.txt procesado correctamente.
+Leyendo el archivo: Peking_2_2659769.txt
+Grafo Peking_2_2659769.txt procesado correctamente.
+Leyendo el archivo: Peking_2_2737106.txt
+Grafo Peking_2_2737106.txt procesado correctamente.
+Leyendo el archivo: Peking_2_2884672.txt
+Grafo Peking_2_2884672.txt procesado correctamente.
+Leyendo el archivo: Peking_2_2919220.txt
+Grafo Peking_2_2919220.txt procesado correctamente.
+Leyendo el archivo: Peking_2_2950754.txt
+Grafo Peking_2_2950754.txt procesado correctamente.
+Leyendo el archivo: Peking_2_3157406.txt
+Grafo Peking_2_3157406.txt procesado correctamente.
+Leyendo el archivo: Peking_2_3194757.txt
+Grafo Peking_2_3194757.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016001.txt
+Grafo Pittsburgh_0016001.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016002.txt
+Grafo Pittsburgh_0016002.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016004.txt
+Grafo Pittsburgh_0016004.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016006.txt
+Grafo Pittsburgh_0016006.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016008.txt
+Grafo Pittsburgh_0016008.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016009.txt
+Grafo Pittsburgh_0016009.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016010.txt
+Grafo Pittsburgh_0016010.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016012.txt
+Grafo Pittsburgh_0016012.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016014.txt
+Grafo Pittsburgh_0016014.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016018.txt
+Grafo Pittsburgh_0016018.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016019.txt
+Grafo Pittsburgh_0016019.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016020.txt
+Grafo Pittsburgh_0016020.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016021.txt
+Grafo Pittsburgh_0016021.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016022.txt
+Grafo Pittsburgh_0016022.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016027.txt
+Grafo Pittsburgh_0016027.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016029.txt
+Grafo Pittsburgh_0016029.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016031.txt
+Grafo Pittsburgh_0016031.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016032.txt
+Grafo Pittsburgh_0016032.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016033.txt
+Grafo Pittsburgh_0016033.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016034.txt
+Grafo Pittsburgh_0016034.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016035.txt
+Grafo Pittsburgh_0016035.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016036.txt
+Grafo Pittsburgh_0016036.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016037.txt
+Grafo Pittsburgh_0016037.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016039.txt
+Grafo Pittsburgh_0016039.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016041.txt
+Grafo Pittsburgh_0016041.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016042.txt
+Grafo Pittsburgh_0016042.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016045.txt
+Grafo Pittsburgh_0016045.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016046.txt
+Grafo Pittsburgh_0016046.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016047.txt
+Grafo Pittsburgh_0016047.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016049.txt
+Grafo Pittsburgh_0016049.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016050.txt
+Grafo Pittsburgh_0016050.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016051.txt
+Grafo Pittsburgh_0016051.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016052.txt
+Grafo Pittsburgh_0016052.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016055.txt
+Grafo Pittsburgh_0016055.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016056.txt
+Grafo Pittsburgh_0016056.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016057.txt
+Grafo Pittsburgh_0016057.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016058.txt
+Grafo Pittsburgh_0016058.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016059.txt
+Grafo Pittsburgh_0016059.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016060.txt
+Grafo Pittsburgh_0016060.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016061.txt
+Grafo Pittsburgh_0016061.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016062.txt
+Grafo Pittsburgh_0016062.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016063.txt
+Grafo Pittsburgh_0016063.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016064.txt
+Grafo Pittsburgh_0016064.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016065.txt
+Grafo Pittsburgh_0016065.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016066.txt
+Grafo Pittsburgh_0016066.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016067.txt
+Grafo Pittsburgh_0016067.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016068.txt
+Grafo Pittsburgh_0016068.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016069.txt
+Grafo Pittsburgh_0016069.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016070.txt
+Grafo Pittsburgh_0016070.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016071.txt
+Grafo Pittsburgh_0016071.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016073.txt
+Grafo Pittsburgh_0016073.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016074.txt
+Grafo Pittsburgh_0016074.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016075.txt
+Grafo Pittsburgh_0016075.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016076.txt
+Grafo Pittsburgh_0016076.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016077.txt
+Grafo Pittsburgh_0016077.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016078.txt
+Grafo Pittsburgh_0016078.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016080.txt
+Grafo Pittsburgh_0016080.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016081.txt
+Grafo Pittsburgh_0016081.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016082.txt
+Grafo Pittsburgh_0016082.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016083.txt
+Grafo Pittsburgh_0016083.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016084.txt
+Grafo Pittsburgh_0016084.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016085.txt
+Grafo Pittsburgh_0016085.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016086.txt
+Grafo Pittsburgh_0016086.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016087.txt
+Grafo Pittsburgh_0016087.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016088.txt
+Grafo Pittsburgh_0016088.txt procesado correctamente.
+Leyendo el archivo: Pittsburgh_0016089.txt
+Grafo Pittsburgh_0016089.txt procesado correctamente.
+2025-02-06 17:02:28.829913: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+Epoch 1/50
+24/24 ━━━━━━━━━━━━━━━━━━━━ 35s 1s/step - loss: 0.1768
+Epoch 2/50
+24/24 ━━━━━━━━━━━━━━━━━━━━ 33s 1s/step - loss: 0.1087
+Epoch 3/50
+24/24 ━━━━━━━━━━━━━━━━━━━━ 33s 1s/step - loss: 0.1091
+Epoch 4/50
+24/24 ━━━━━━━━━━━━━━━━━━━━ 29s 1s/step - loss: 0.1094
+Epoch 5/50
+24/24 ━━━━━━━━━━━━━━━━━━━━ 27s 1s/step - loss: 0.1094
+Epoch 6/50
+24/24 ━━━━━━━━━━━━━━━━━━━━ 27s 1s/step - loss: 0.1087
+Epoch 7/50
+24/24 ━━━━━━━━━━━━━━━━━━━━ 27s 1s/step - loss: 0.1094
+Epoch 8/50
+24/24 ━━━━━━━━━━━━━━━━━━━━ 27s 1s/step - loss: 0.1090
+Epoch 9/50
+24/24 ━━━━━━━━━━━━━━━━━━━━ 27s 1s/step - loss: 0.1092
+Epoch 10/50
+24/24 ━━━━━━━━━━━━━━━━━━━━ 27s 1s/step - loss: 0.1093
+Epoch 11/50
+24/24 ━━━━━━━━━━━━━━━━━━━━ 27s 1s/step - loss: 0.1096
+Epoch 12/50
+24/24 ━━━━━━━━━━━━━━━━━━━━ 27s 1s/step - loss: 0.1092
+Epoch 13/50
+24/24 ━━━━━━━━━━━━━━━━━━━━ 27s 1s/step - loss: 0.1091
+Epoch 14/50
+24/24 ━━━━━━━━━━━━━━━━━━━━ 27s 1s/step - loss: 0.1094
+Epoch 15/50
+24/24 ━━━━━━━━━━━━━━━━━━━━ 27s 1s/step - loss: 0.1099
+Epoch 16/50
+24/24 ━━━━━━━━━━━━━━━━━━━━ 27s 1s/step - loss: 0.1094
+Epoch 17/50
+24/24 ━━━━━━━━━━━━━━━━━━━━ 27s 1s/step - loss: 0.1091
+Epoch 18/50
+24/24 ━━━━━━━━━━━━━━━━━━━━ 27s 1s/step - loss: 0.1096
+Epoch 19/50
+24/24 ━━━━━━━━━━━━━━━━━━━━ 27s 1s/step - loss: 0.1094
+Epoch 20/50
+24/24 ━━━━━━━━━━━━━━━━━━━━ 26s 1s/step - loss: 0.1091
+Epoch 21/50
+24/24 ━━━━━━━━━━━━━━━━━━━━ 27s 1s/step - loss: 0.1101
+Epoch 22/50
+24/24 ━━━━━━━━━━━━━━━━━━━━ 27s 1s/step - loss: 0.1094
+Epoch 23/50
+24/24 ━━━━━━━━━━━━━━━━━━━━ 27s 1s/step - loss: 0.1093
+Epoch 24/50
+24/24 ━━━━━━━━━━━━━━━━━━━━ 27s 1s/step - loss: 0.1094
+Epoch 25/50
+24/24 ━━━━━━━━━━━━━━━━━━━━ 27s 1s/step - loss: 0.1095
+Epoch 26/50
+24/24 ━━━━━━━━━━━━━━━━━━━━ 27s 1s/step - loss: 0.1090
+Epoch 27/50
+24/24 ━━━━━━━━━━━━━━━━━━━━ 27s 1s/step - loss: 0.1090
+Epoch 28/50
+24/24 ━━━━━━━━━━━━━━━━━━━━ 27s 1s/step - loss: 0.1094
+Epoch 29/50
+24/24 ━━━━━━━━━━━━━━━━━━━━ 26s 1s/step - loss: 0.1098
+Epoch 30/50
+24/24 ━━━━━━━━━━━━━━━━━━━━ 27s 1s/step - loss: 0.1094
+Epoch 31/50
+24/24 ━━━━━━━━━━━━━━━━━━━━ 26s 1s/step - loss: 0.1094
+Epoch 32/50
+24/24 ━━━━━━━━━━━━━━━━━━━━ 26s 1s/step - loss: 0.1085
+Epoch 33/50
+24/24 ━━━━━━━━━━━━━━━━━━━━ 26s 1s/step - loss: 0.1094
+Epoch 34/50
+24/24 ━━━━━━━━━━━━━━━━━━━━ 27s 1s/step - loss: 0.1094
+Epoch 35/50
+24/24 ━━━━━━━━━━━━━━━━━━━━ 27s 1s/step - loss: 0.1089
+Epoch 36/50
+24/24 ━━━━━━━━━━━━━━━━━━━━ 27s 1s/step - loss: 0.1095
+Epoch 37/50
+24/24 ━━━━━━━━━━━━━━━━━━━━ 26s 1s/step - loss: 0.1094
+Epoch 38/50
+24/24 ━━━━━━━━━━━━━━━━━━━━ 26s 1s/step - loss: 0.1093
+Epoch 39/50
+24/24 ━━━━━━━━━━━━━━━━━━━━ 26s 1s/step - loss: 0.1096
+Epoch 40/50
+24/24 ━━━━━━━━━━━━━━━━━━━━ 26s 1s/step - loss: 0.1093
+Epoch 41/50
+24/24 ━━━━━━━━━━━━━━━━━━━━ 27s 1s/step - loss: 0.1092
+Epoch 42/50
+24/24 ━━━━━━━━━━━━━━━━━━━━ 26s 1s/step - loss: 0.1094
+Epoch 43/50
+24/24 ━━━━━━━━━━━━━━━━━━━━ 27s 1s/step - loss: 0.1092
+Epoch 44/50
+24/24 ━━━━━━━━━━━━━━━━━━━━ 27s 1s/step - loss: 0.1097
+Epoch 45/50
+24/24 ━━━━━━━━━━━━━━━━━━━━ 26s 1s/step - loss: 0.1094
+Epoch 46/50
+24/24 ━━━━━━━━━━━━━━━━━━━━ 26s 1s/step - loss: 0.1095
+Epoch 47/50
+24/24 ━━━━━━━━━━━━━━━━━━━━ 26s 1s/step - loss: 0.1091
+Epoch 48/50
+24/24 ━━━━━━━━━━━━━━━━━━━━ 26s 1s/step - loss: 0.1093
+Epoch 49/50
+24/24 ━━━━━━━━━━━━━━━━━━━━ 27s 1s/step - loss: 0.1091
+Epoch 50/50
+24/24 ━━━━━━━━━━━━━━━━━━━━ 27s 1s/step - loss: 0.1095
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 140ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 84ms/step
+GRAFO Nº 1:
+Cuello de Botella 1: [[   0.      1508.223   1203.3346   760.6081  2171.3547    74.25092
+  2734.0403     0.      4371.4395     0.         0.         0.
+     0.       465.6839  3822.9924  3816.789      0.      3385.5503
+     0.         0.         0.         0.       928.30286 4347.5137
+     0.         0.         0.       203.16922    0.         0.
+  2536.337      0.      3268.6213     0.      4097.6055  1962.5365
+     0.         0.      1043.2374     0.         0.      2666.4482
+     0.      1559.5771  1164.1396  1306.9181     0.         0.
+   961.1854  3918.164  ]]
+El número de elementos diferentes es: 1908
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 65ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 57ms/step
+GRAFO Nº 2:
+Cuello de Botella 2: [[   0.      1387.5839  1106.8029   699.60046 1997.5254    68.53585
+  2515.0361     0.      4021.3953     0.         0.         0.
+     0.       428.70053 3516.799   3511.382      0.      3114.6213
+     0.         0.         0.         0.       853.9364  3999.295
+     0.         0.         0.       186.72435    0.         0.
+  2332.8962     0.      3006.8962     0.      3768.83    1804.9934
+     0.         0.       959.4961     0.         0.      2452.877
+     0.      1434.769   1070.7136  1201.9729     0.         0.
+   884.10956 3604.2375 ]]
+El número de elementos diferentes es: 1994
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 79ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 54ms/step
+GRAFO Nº 3:
+Cuello de Botella 3: [[   0.       1170.5016    933.7906    589.95044  1684.8732     57.767986
+  2121.625       0.       3392.2632      0.          0.          0.
+     0.        361.5089   2966.3787   2961.7048      0.       2627.361
+     0.          0.          0.          0.        720.3032   3373.4055
+     0.          0.          0.        157.73328     0.          0.
+  1967.7227      0.       2536.2854      0.       3179.1558   1522.6249
+     0.          0.        809.5603      0.          0.       2069.0652
+     0.       1210.2535    903.0208   1014.3064      0.          0.
+   745.8482   3040.4143  ]]
+El número de elementos diferentes es: 2046
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 69ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 59ms/step
+GRAFO Nº 4:
+Cuello de Botella 4: [[   0.      1334.64    1064.6104   672.6296  1921.5591    65.64764
+  2419.0332     0.      3867.78       0.         0.         0.
+     0.       411.87955 3382.5251  3377.4944     0.      2995.7686
+     0.         0.         0.         0.       821.3607  3846.6663
+     0.         0.         0.       179.55627    0.         0.
+  2243.9944     0.      2892.0422     0.      3625.3699  1736.2778
+     0.         0.       922.9996     0.         0.      2359.3987
+     0.      1379.9867  1029.8557  1156.2651     0.         0.
+   850.5607  3466.8464 ]]
+El número de elementos diferentes es: 2038
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 63ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 54ms/step
+GRAFO Nº 5:
+Cuello de Botella 5: [[   0.       1434.96     1144.5741    723.1194   2065.7292     71.023766
+  2600.6052      0.       4158.3765      0.          0.          0.
+     0.        443.09454  3636.638    3630.9744      0.       3221.1482
+     0.          0.          0.          0.        882.981    4135.6816
+     0.          0.          0.        192.95055     0.          0.
+  2412.499       0.       3109.4487      0.       3897.5293   1866.6432
+     0.          0.        992.61        0.          0.       2536.428
+     0.       1483.7172   1107.0925   1242.6475      0.          0.
+   914.506    3726.9458  ]]
+El número de elementos diferentes es: 1916
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 64ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 47ms/step
+GRAFO Nº 6:
+Cuello de Botella 6: [[   0.       1453.9987   1160.0035    732.94464  2093.0793     71.860985
+  2635.3262      0.       4214.112       0.          0.          0.
+     0.        449.16107  3685.321    3679.44        0.       3263.9385
+     0.          0.          0.          0.        894.8757   4190.967
+     0.          0.          0.        195.88112     0.          0.
+  2444.6633      0.       3150.7952      0.       3949.7095   1891.6399
+     0.          0.       1005.5514      0.          0.       2570.3513
+     0.       1503.4427   1122.0188   1259.8599      0.          0.
+   926.56     3777.014   ]]
+El número de elementos diferentes es: 1942
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 72ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 46ms/step
+GRAFO Nº 7:
+Cuello de Botella 7: [[   0.      1355.6119  1081.6157   683.72687 1951.6511    66.69581
+  2457.6606     0.      3929.5247     0.         0.         0.
+     0.       418.5718  3436.6018  3431.1968     0.      3043.5564
+     0.         0.         0.         0.       834.4485  3907.9214
+     0.         0.         0.       182.42485    0.         0.
+  2279.5457     0.      2937.9314     0.      3683.172   1763.8367
+     0.         0.       937.80945    0.         0.      2396.549
+     0.      1401.9141  1046.0137  1174.6078     0.         0.
+   863.9398  3521.9053 ]]
+El número de elementos diferentes es: 2004
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 62ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 54ms/step
+GRAFO Nº 8:
+Cuello de Botella 8: [[   0.       1196.5221    954.339     602.94025  1722.3334     58.995758
+  2168.349       0.       3467.3633      0.          0.          0.
+     0.        369.47845  3032.3843   3027.5322      0.       2685.5957
+     0.          0.          0.          0.        736.5249   3448.3438
+     0.          0.          0.        160.83305     0.          0.
+  2011.349       0.       2592.6558      0.       3249.7556   1556.3538
+     0.          0.        827.43146     0.          0.       2114.8591
+     0.       1237.0928    923.0906   1036.307       0.          0.
+   762.35846  3107.6562  ]]
+El número de elementos diferentes es: 2086
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 64ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 46ms/step
+GRAFO Nº 9:
+Cuello de Botella 9: [[   0.       1225.535     977.52637   617.7907   1764.2592     60.285057
+  2221.4912      0.       3552.1196      0.          0.          0.
+     0.        378.58197  3106.2585   3101.2795      0.       2750.879
+     0.          0.          0.          0.        754.2911   3532.5142
+     0.          0.          0.        165.22203     0.          0.
+  2060.7346      0.       2655.7427      0.       3329.181    1594.4604
+     0.          0.        847.5952      0.          0.       2166.6365
+     0.       1267.4314    945.77295  1061.7394      0.          0.
+   781.11743  3183.5337  ]]
+El número de elementos diferentes es: 2068
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 73ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 48ms/step
+GRAFO Nº 10:
+Cuello de Botella 10: [[   0.      1253.6755   999.8921   631.87274 1804.6599    62.01173
+  2271.506      0.      3632.4988     0.         0.         0.
+     0.       387.09207 3176.6362  3171.807      0.      2813.7056
+     0.         0.         0.         0.       771.4074  3612.423
+     0.         0.         0.       168.52094    0.         0.
+  2107.2258     0.      2716.3108     0.      3404.4795  1630.4917
+     0.         0.       867.0348     0.         0.      2216.0618
+     0.      1295.7266   966.8626  1086.086      0.         0.
+   798.73474 3255.6804 ]]
+El número de elementos diferentes es: 2068
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 63ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 53ms/step
+GRAFO Nº 11:
+Cuello de Botella 11: [[   0.       1375.4287   1097.1521    693.1106   1979.718      67.919975
+  2492.6812      0.       3985.781       0.          0.          0.
+     0.        424.78653  3485.7842   3480.0835      0.       3087.0784
+     0.          0.          0.          0.        846.5289   3963.8364
+     0.          0.          0.        185.19592     0.          0.
+  2312.3691      0.       2980.2644      0.       3735.6763   1789.0004
+     0.          0.        951.16675     0.          0.       2431.1885
+     0.       1421.8307   1061.0123   1191.5222      0.          0.
+   876.50226  3572.2505  ]]
+El número de elementos diferentes es: 1990
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 68ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 46ms/step
+GRAFO Nº 12:
+Cuello de Botella 12: [[   0.      1225.9307   977.9185   617.7871  1764.69      60.69937
+  2221.5378     0.      3552.211      0.         0.         0.
+     0.       378.4295  3106.6199  3101.5884     0.      2751.2573
+     0.         0.         0.         0.       754.14307 3532.9236
+     0.         0.         0.       164.86732    0.         0.
+  2060.6692     0.      2656.1658     0.      3329.2932  1594.3969
+     0.         0.       847.3901     0.         0.      2166.888
+     0.      1267.199    945.7347  1062.1893     0.         0.
+   780.8377  3183.8164 ]]
+El número de elementos diferentes es: 2084
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 72ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 48ms/step
+GRAFO Nº 13:
+Cuello de Botella 13: [[   0.      1229.2542   980.6942   619.23395 1769.7904    60.99815
+  2227.5955     0.      3561.905      0.         0.         0.
+     0.       379.67294 3115.22    3110.162      0.      2758.8784
+     0.         0.         0.         0.       756.1263  3542.447
+     0.         0.         0.       165.21373    0.         0.
+  2066.193      0.      2663.5093     0.      3338.5493  1599.0825
+     0.         0.       849.8948     0.         0.      2173.249
+     0.      1270.8698   948.5655  1064.9346     0.         0.
+   783.0106  3192.5574 ]]
+El número de elementos diferentes es: 2096
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 76ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 48ms/step
+GRAFO Nº 14:
+Cuello de Botella 14: [[   0.      1445.9828  1153.1798   728.412   2081.3289    71.38716
+  2620.5503     0.      4190.297      0.         0.         0.
+     0.       446.29166 3664.202   3658.505      0.      3245.2937
+     0.         0.         0.         0.       889.723   4166.863
+     0.         0.         0.       194.7762     0.         0.
+  2430.8303     0.      3132.8518     0.      3927.0964  1880.8726
+     0.         0.       999.68933    0.         0.      2555.6523
+     0.      1495.1486  1115.504   1252.6788     0.         0.
+   921.4066  3755.5652 ]]
+El número de elementos diferentes es: 1968
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 64ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 55ms/step
+GRAFO Nº 15:
+Cuello de Botella 15: [[   0.      1422.5277  1134.4573   716.89136 2048.1733    70.07241
+  2578.3574     0.      4122.6323     0.         0.         0.
+     0.       439.07672 3605.1233  3599.9106     0.      3193.1155
+     0.         0.         0.         0.       875.3916  4099.7603
+     0.         0.         0.       191.39476    0.         0.
+  2391.837      0.      3082.4006     0.      3863.9863  1850.6771
+     0.         0.       983.9462     0.         0.      2514.7283
+     0.      1470.7278  1097.428   1232.3529     0.         0.
+   906.7839  3694.968  ]]
+El número de elementos diferentes es: 1976
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 64ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 47ms/step
+GRAFO Nº 16:
+Cuello de Botella 16: [[   0.       1347.6594   1074.8579    679.17163  1939.9941     66.607704
+  2442.2527      0.       3905.0598      0.          0.          0.
+     0.        416.09158  3415.0745   3409.7444      0.       3024.5693
+     0.          0.          0.          0.        829.09845  3883.5059
+     0.          0.          0.        181.45877     0.          0.
+  2265.5886      0.       2919.871       0.       3660.2378   1753.109
+     0.          0.        931.70917     0.          0.       2382.103
+     0.       1392.9354   1039.7097   1167.661       0.          0.
+   858.7026   3500.1946  ]]
+El número de elementos diferentes es: 1962
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 72ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 47ms/step
+GRAFO Nº 17:
+Cuello de Botella 17: [[   0.       1297.2367   1034.6012    654.14417  1867.4309     63.909626
+  2351.685       0.       3759.6953      0.          0.          0.
+     0.        400.40533  3287.5588   3282.7886      0.       2911.9966
+     0.          0.          0.          0.        798.35767  3738.6685
+     0.          0.          0.        174.71745     0.          0.
+  2181.2595      0.       2810.873       0.       3523.87     1687.576
+     0.          0.        897.6068      0.          0.       2293.072
+     0.       1341.2567   1000.9474   1123.9138      0.          0.
+   827.01807  3369.689   ]]
+El número de elementos diferentes es: 2082
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 63ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 52ms/step
+GRAFO Nº 18:
+Cuello de Botella 18: [[   0.       1178.7058    940.052     594.32306  1696.6943     58.581326
+  2136.1116      0.       3415.777       0.          0.          0.
+     0.        364.1989   2987.1921   2982.3599      0.       2645.575
+     0.          0.          0.          0.        725.19305  3397.0615
+     0.          0.          0.        158.76929     0.          0.
+  1981.5166      0.       2553.9055      0.       3201.3254   1533.0219
+     0.          0.        815.01697     0.          0.       2083.4626
+     0.       1218.1365    909.28235  1021.2303      0.          0.
+   750.99866  3061.2727  ]]
+El número de elementos diferentes es: 2094
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 66ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 46ms/step
+GRAFO Nº 19:
+Cuello de Botella 19: [[   0.       1284.4731   1024.722     647.8465   1849.0638     63.289482
+  2328.53        0.       3722.9148      0.          0.          0.
+     0.        396.49976  3255.5645   3250.7522      0.       2883.7432
+     0.          0.          0.          0.        790.6838   3702.3674
+     0.          0.          0.        173.03609     0.          0.
+  2159.654       0.       2783.4385      0.       3489.3987   1671.1041
+     0.          0.        888.6243      0.          0.       2270.6309
+     0.       1328.381     991.25995  1112.7021      0.          0.
+   818.69073  3336.8762  ]]
+El número de elementos diferentes es: 2072
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 74ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 48ms/step
+GRAFO Nº 20:
+Cuello de Botella 20: [[   0.       1766.4213   1409.709     890.34094  2542.7886     87.017235
+  3201.491       0.       5118.402       0.          0.          0.
+     0.        544.62354  4477.1265   4469.3184      0.       3963.8176
+     0.          0.          0.          0.       1087.1853   5090.846
+     0.          0.          0.        238.18814     0.          0.
+  2970.4358      0.       3827.0989      0.       4798.9277   2298.4778
+     0.          0.       1222.1436      0.          0.       3122.2837
+     0.       1825.428    1363.644    1530.2344      0.          0.
+  1126.1448   4587.8745  ]]
+El número de elementos diferentes es: 1940
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 63ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 55ms/step
+GRAFO Nº 21:
+Cuello de Botella 21: [[   0.       1504.5273   1200.3021    758.58246  2165.8982     74.165764
+  2727.4465      0.       4361.0815      0.          0.          0.
+     0.        464.9948   3813.825    3808.1501      0.       3377.8948
+     0.          0.          0.          0.        926.0988   4337.171
+     0.          0.          0.        202.28577     0.          0.
+  2529.8872      0.       3260.7996      0.       4087.3547   1957.4293
+     0.          0.       1040.7305      0.          0.       2659.5522
+     0.       1555.7163   1161.0677   1303.1064      0.          0.
+   959.00635  3908.7126  ]]
+El número de elementos diferentes es: 1936
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 64ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 46ms/step
+GRAFO Nº 22:
+Cuello de Botella 22: [[   0.      1361.605   1086.0193   686.23883 1959.9783    67.35102
+  2467.2395     0.      3945.1797     0.         0.         0.
+     0.       420.381   3450.2866  3444.8533     0.      3055.942
+     0.         0.         0.         0.       837.73236 3923.6084
+     0.         0.         0.       183.11806    0.         0.
+  2288.6362     0.      2949.974      0.      3697.684   1771.0381
+     0.         0.       941.565      0.         0.      2406.6526
+     0.      1407.3427  1050.4634  1179.5453     0.         0.
+   867.36945 3536.0693 ]]
+El número de elementos diferentes es: 2086
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 75ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 47ms/step
+GRAFO Nº 23:
+Cuello de Botella 23: [[   0.      1321.3323  1054.0347   666.5941  1902.4015    65.00881
+  2395.471      0.      3829.9585     0.         0.         0.
+     0.       407.88928 3349.3193  3344.7273     0.      2967.0896
+     0.         0.         0.         0.       813.2149  3808.9067
+     0.         0.         0.       177.66412    0.         0.
+  2221.9473     0.      2863.5144     0.      3589.994   1719.2865
+     0.         0.       914.4172     0.         0.      2335.769
+     0.      1366.0486  1019.74097 1144.5419     0.         0.
+   842.7291  3432.7227 ]]
+El número de elementos diferentes es: 2120
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 62ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 51ms/step
+GRAFO Nº 24:
+Cuello de Botella 24: [[   0.       1342.0084   1070.6223    676.8518   1931.9594     65.903305
+  2432.5493      0.       3890.0837      0.          0.          0.
+     0.        414.4992   3401.8367   3396.3948      0.       3012.7063
+     0.          0.          0.          0.        826.24426  3868.1519
+     0.          0.          0.        180.92578     0.          0.
+  2256.5515      0.       2908.3972      0.       3645.6333   1746.2291
+     0.          0.        928.77216     0.          0.       2372.66
+     0.       1387.7712   1035.6901   1162.8267      0.          0.
+   855.33484  3486.7039  ]]
+El número de elementos diferentes es: 2012
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 64ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 50ms/step
+GRAFO Nº 25:
+Cuello de Botella 25: [[   0.       1284.1377   1024.3177    647.3179   1848.8826     63.455986
+  2327.826       0.       3722.188       0.          0.          0.
+     0.        396.68765  3255.1692   3249.916       0.       2882.8035
+     0.          0.          0.          0.        790.5927   3701.8545
+     0.          0.          0.        173.13684     0.          0.
+  2159.3174      0.       2782.8953      0.       3488.7874   1670.719
+     0.          0.        888.5168      0.          0.       2270.0837
+     0.       1328.0426    991.08484  1112.5356      0.          0.
+   818.4007   3336.12    ]]
+El número de elementos diferentes es: 2050
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 73ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 47ms/step
+GRAFO Nº 26:
+Cuello de Botella 26: [[   0.      1371.9567  1094.4336   691.68774 1975.1848    67.61034
+  2486.8723     0.      3976.7178     0.         0.         0.
+     0.       423.6272  3477.7961  3472.1597     0.      3079.8796
+     0.         0.         0.         0.       844.4147  3954.7534
+     0.         0.         0.       184.66844    0.         0.
+  2307.0037     0.      2973.296      0.      3726.9622  1784.928
+     0.         0.       948.9202     0.         0.      2425.666
+     0.      1418.6703  1058.81    1188.7809     0.         0.
+   874.31287 3564.097  ]]
+El número de elementos diferentes es: 1962
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 62ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 54ms/step
+GRAFO Nº 27:
+Cuello de Botella 27: [[   0.       1301.443    1037.7673    655.7995   1873.2766     64.613655
+  2358.0757      0.       3770.5637      0.          0.          0.
+     0.        401.80402  3297.5837   3292.2764      0.       2920.5774
+     0.          0.          0.          0.        800.3854   3749.9077
+     0.          0.          0.        175.16324     0.          0.
+  2187.5408      0.       2819.317       0.       3534.0618   1692.7273
+     0.          0.        899.93317     0.          0.       2299.9749
+     0.       1345.0985   1003.95966  1127.3339      0.          0.
+   829.2008   3379.5269  ]]
+El número de elementos diferentes es: 2020
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 64ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 46ms/step
+GRAFO Nº 28:
+Cuello de Botella 28: [[   0.      1361.7307  1086.4128   686.42505 1959.9954    67.06944
+  2467.9253     0.      3946.3682     0.         0.         0.
+     0.       420.6035  3451.2793  3445.7825     0.      3056.6375
+     0.         0.         0.         0.       838.2767  3924.4023
+     0.         0.         0.       183.40129    0.         0.
+  2289.2898     0.      2950.6882     0.      3698.323   1771.3854
+     0.         0.       941.82166    0.         0.      2406.9568
+     0.      1408.0804  1050.6805  1179.6897     0.         0.
+   867.59467 3537.0625 ]]
+El número de elementos diferentes es: 1992
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 71ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 46ms/step
+GRAFO Nº 29:
+Cuello de Botella 29: [[   0.      1427.9883  1139.2007   719.6713  2055.9023    70.38424
+  2588.339      0.      4139.189      0.         0.         0.
+     0.       441.0863  3619.651   3614.063      0.      3205.7454
+     0.         0.         0.         0.       879.20496 4116.322
+     0.         0.         0.       192.32121    0.         0.
+  2401.3054     0.      3094.8396     0.      3879.2441  1857.9011
+     0.         0.       987.80963    0.         0.      2524.7437
+     0.      1476.5131  1102.1561  1237.4888     0.         0.
+   910.1845  3709.5408 ]]
+El número de elementos diferentes es: 1972
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 63ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 54ms/step
+GRAFO Nº 30:
+Cuello de Botella 30: [[   0.      1392.1488  1110.3085   701.9367  2004.2198    68.65287
+  2523.4998     0.      4035.1162     0.         0.         0.
+     0.       429.99442 3528.822   3523.365      0.      3125.2268
+     0.         0.         0.         0.       856.79266 4013.0818
+     0.         0.         0.       187.12808    0.         0.
+  2340.8748     0.      3016.969      0.      3782.3342  1811.377
+     0.         0.       963.0997     0.         0.      2460.918
+     0.      1439.3403  1074.4515  1205.8895     0.         0.
+   887.2027  3616.5564 ]]
+El número de elementos diferentes es: 2034
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 64ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 47ms/step
+GRAFO Nº 31:
+Cuello de Botella 31: [[   0.      1438.5072  1146.452    724.8092  2070.8132    70.9712
+  2607.3245     0.      4169.1997     0.         0.         0.
+     0.       443.44116 3644.556   3638.212      0.      3227.8577
+     0.         0.         0.         0.       885.62366 4145.3203
+     0.         0.         0.       195.12279    0.         0.
+  2418.2527     0.      3116.711      0.      3906.604   1870.7842
+     0.         0.       994.9672     0.         0.      2543.0493
+     0.      1488.2681  1109.4648  1246.6215     0.         0.
+   916.47595 3736.505  ]]
+El número de elementos diferentes es: 1982
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 72ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 48ms/step
+GRAFO Nº 32:
+Cuello de Botella 32: [[   0.      1524.1141  1214.961    767.819   2193.4954    76.11044
+  2761.4329     0.      4416.8604     0.         0.         0.
+     0.       471.11096 3862.7607  3855.51       0.      3420.5854
+     0.         0.         0.         0.       937.2687  4392.565
+     0.         0.         0.       204.78798    0.         0.
+  2561.408      0.      3302.619      0.      4139.728   1983.2412
+     0.         0.      1055.353      0.         0.      2693.0344
+     0.      1575.624   1176.0935  1319.9266     0.         0.
+   970.86993 3958.6619 ]]
+El número de elementos diferentes es: 1940
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 63ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 54ms/step
+GRAFO Nº 33:
+Cuello de Botella 33: [[   0.      1345.0095  1073.1141   677.94434 1936.177     66.63546
+  2437.6147     0.      3898.1177     0.         0.         0.
+     0.       415.43622 3409.046   3403.2947     0.      3018.9565
+     0.         0.         0.         0.       827.88434 3876.5913
+     0.         0.         0.       181.09082    0.         0.
+  2261.0784     0.      2914.5427     0.      3653.3564  1749.7438
+     0.         0.       930.34247    0.         0.      2377.6025
+     0.      1390.6724  1037.7731  1165.3765     0.         0.
+   856.8537  3493.553  ]]
+El número de elementos diferentes es: 2004
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 65ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 47ms/step
+GRAFO Nº 34:
+Cuello de Botella 34: [[   0.      1298.4991  1035.7804   654.4571  1869.3269    64.03238
+  2353.6433     0.      3763.295      0.         0.         0.
+     0.       400.91678 3290.9983  3285.824      0.      2914.7231
+     0.         0.         0.         0.       799.1762  3742.6638
+     0.         0.         0.       174.83974    0.         0.
+  2183.1965     0.      2813.848      0.      3527.093   1689.0931
+     0.         0.       898.0302     0.         0.      2295.6494
+     0.      1342.7782  1002.0007  1124.9462     0.         0.
+   827.4755  3372.9348 ]]
+El número de elementos diferentes es: 2026
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 74ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 49ms/step
+GRAFO Nº 35:
+Cuello de Botella 35: [[   0.      1395.6653  1113.1664   703.3765  2008.748     68.96303
+  2529.531      0.      4044.6072     0.         0.         0.
+     0.       431.07462 3537.0125  3531.266      0.      3132.4014
+     0.         0.         0.         0.       858.87036 4022.2075
+     0.         0.         0.       188.29308    0.         0.
+  2346.496      0.      3023.996      0.      3790.7388  1815.6053
+     0.         0.       965.4378     0.         0.      2466.6506
+     0.      1443.0942  1076.7494  1208.8699     0.         0.
+   889.3317  3625.2268 ]]
+El número de elementos diferentes es: 1954
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 62ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 55ms/step
+GRAFO Nº 36:
+Cuello de Botella 36: [[   0.      1331.1637  1061.6112   670.83154 1916.0612    65.72591
+  2412.5676     0.      3857.6343     0.         0.         0.
+     0.       411.2364  3373.365   3368.1184     0.      2987.7446
+     0.         0.         0.         0.       819.06995 3836.2373
+     0.         0.         0.       179.40836    0.         0.
+  2237.8984     0.      2884.1016     0.      3615.466   1731.7777
+     0.         0.       920.60925    0.         0.      2352.7808
+     0.      1376.3185  1027.0298  1152.9802     0.         0.
+   848.5179  3457.4304 ]]
+El número de elementos diferentes es: 1962
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 64ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 47ms/step
+GRAFO Nº 37:
+Cuello de Botella 37: [[   0.      1398.5432  1115.7882   705.01337 2013.5858    68.94626
+  2535.0137     0.      4053.9133     0.         0.         0.
+     0.       432.0256  3545.1912  3539.468      0.      3139.617
+     0.         0.         0.         0.       861.1098  4031.485
+     0.         0.         0.       188.3396     0.         0.
+  2351.48       0.      3030.9314     0.      3799.3516  1819.7169
+     0.         0.       967.73584    0.         0.      2472.5479
+     0.      1446.5133  1079.1921  1211.594      0.         0.
+   891.33887 3633.2703 ]]
+El número de elementos diferentes es: 1992
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 72ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 46ms/step
+GRAFO Nº 38:
+Cuello de Botella 38: [[   0.       1444.5793   1152.4615    728.32477  2079.9197     71.229576
+  2618.2756      0.       4186.8906      0.          0.          0.
+     0.        446.10916  3661.4446   3656.2327      0.       3243.2717
+     0.          0.          0.          0.        889.252    4163.8335
+     0.          0.          0.        194.221       0.          0.
+  2428.904       0.       3130.6506      0.       3924.172    1879.4696
+     0.          0.        999.4136      0.          0.       2554.0723
+     0.       1493.6532   1114.9264   1251.4026      0.          0.
+   920.8959   3752.6929  ]]
+El número de elementos diferentes es: 2002
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 62ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 56ms/step
+GRAFO Nº 39:
+Cuello de Botella 39: [[   0.       1258.9392   1003.9569    634.5271   1812.258      62.282322
+  2281.819       0.       3648.752       0.          0.          0.
+     0.        388.72235  3190.857    3185.8599      0.       2826.0164
+     0.          0.          0.          0.        774.9799   3628.4395
+     0.          0.          0.        169.46048     0.          0.
+  2116.8572      0.       2728.2112      0.       3419.796    1637.7302
+     0.          0.        870.78656     0.          0.       2225.5254
+     0.       1301.5717    971.25415  1090.5824      0.          0.
+   802.4298   3270.269   ]]
+El número de elementos diferentes es: 2044
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 64ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 46ms/step
+GRAFO Nº 40:
+Cuello de Botella 40: [[   0.      1355.663   1081.7202   683.28864 1951.8973    66.599
+  2457.3638     0.      3929.0461     0.         0.         0.
+     0.       418.41357 3435.9993  3430.7056     0.      3043.0813
+     0.         0.         0.         0.       834.1901  3907.4646
+     0.         0.         0.       182.38435    0.         0.
+  2279.4321     0.      2937.7205     0.      3682.801   1763.9674
+     0.         0.       937.6068     0.         0.      2396.7412
+     0.      1401.9484  1046.2002  1174.7836     0.         0.
+   863.8417  3521.6653 ]]
+El número de elementos diferentes es: 2048
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 72ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 47ms/step
+GRAFO Nº 41:
+Cuello de Botella 41: [[   0.      1516.4999  1209.6362   764.9469  2182.8643    74.71603
+  2749.0505     0.      4395.604      0.         0.         0.
+     0.       468.5443  3843.7144  3837.615      0.      3404.1743
+     0.         0.         0.         0.       933.5207  4371.2666
+     0.         0.         0.       204.44499    0.         0.
+  2550.09       0.      3286.4434     0.      4119.6973  1973.0739
+     0.         0.      1049.0936     0.         0.      2680.7625
+     0.      1568.5251  1170.0735  1313.4419     0.         0.
+   966.6161  3939.6191 ]]
+El número de elementos diferentes es: 1876
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 63ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 52ms/step
+GRAFO Nº 42:
+Cuello de Botella 42: [[   0.      1450.0945  1156.4187   731.0534  2087.484     71.60713
+  2628.0417     0.      4202.3535     0.         0.         0.
+     0.       447.5595  3674.9558  3669.171      0.      3254.8093
+     0.         0.         0.         0.       892.2017  4179.2476
+     0.         0.         0.       195.1262     0.         0.
+  2437.9116     0.      3142.1936     0.      3938.809   1886.4945
+     0.         0.      1002.95123    0.         0.      2563.1008
+     0.      1499.0778  1118.7495  1256.1416     0.         0.
+   923.9359  3766.5212 ]]
+El número de elementos diferentes es: 1966
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 67ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 47ms/step
+GRAFO Nº 43:
+Cuello de Botella 43: [[   0.      1362.3818  1086.5681   686.7892  1961.0776    67.28556
+  2469.2568     0.      3948.0554     0.         0.         0.
+     0.       420.8405  3452.8662  3447.5312     0.      3058.3271
+     0.         0.         0.         0.       838.29443 3926.7483
+     0.         0.         0.       183.276      0.         0.
+  2290.6685     0.      2951.9846     0.      3700.8162  1772.2947
+     0.         0.       942.5362     0.         0.      2407.9575
+     0.      1408.3004  1050.9978  1179.7069     0.         0.
+   868.6302  3538.5803 ]]
+El número de elementos diferentes es: 2042
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 75ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 48ms/step
+GRAFO Nº 44:
+Cuello de Botella 44: [[   0.       1537.9476   1226.6992    775.3136   2214.1528     75.939514
+  2787.6956      0.       4457.443       0.          0.          0.
+     0.        474.77524  3897.7542   3891.9333      0.       3452.377
+     0.          0.          0.          0.        946.5175   4432.75
+     0.          0.          0.        207.10727     0.          0.
+  2585.8118      0.       3332.7307      0.       4177.752    2000.9495
+     0.          0.       1063.815       0.          0.       2718.7886
+     0.       1590.2323   1186.7606   1332.5314      0.          0.
+   980.15247  3995.0088  ]]
+El número de elementos diferentes es: 1880
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 67ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 53ms/step
+GRAFO Nº 45:
+Cuello de Botella 45: [[   0.      1297.4113  1034.9615   654.1791  1867.7235    64.03081
+  2352.2651     0.      3761.1501     0.         0.         0.
+     0.       401.01117 3289.1685  3283.9194     0.      2912.8394
+     0.         0.         0.         0.       798.8666  3740.5889
+     0.         0.         0.       174.64787    0.         0.
+  2181.887      0.      2812.0178     0.      3525.2957  1688.1226
+     0.         0.       897.5471     0.         0.      2293.736
+     0.      1342.0616  1001.523   1123.664      0.         0.
+   826.93964 3370.9417 ]]
+El número de elementos diferentes es: 2060
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 65ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 47ms/step
+GRAFO Nº 46:
+Cuello de Botella 46: [[   0.       1456.69     1162.1196    734.0284   2097.4783     71.530556
+  2640.5806      0.       4222.1567      0.          0.          0.
+     0.        449.626    3692.4312   3687.0432      0.       3270.4539
+     0.          0.          0.          0.        896.6157   4198.808
+     0.          0.          0.        196.05823     0.          0.
+  2449.8557      0.       3156.9148      0.       3957.5022   1895.5823
+     0.          0.       1007.7339      0.          0.       2575.398
+     0.       1506.0647   1124.218    1262.3323      0.          0.
+   928.92053  3784.3416  ]]
+El número de elementos diferentes es: 1964
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 72ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 47ms/step
+GRAFO Nº 47:
+Cuello de Botella 47: [[   0.      1412.6406  1127.0004   712.15155 2033.9325    69.46359
+  2560.8162     0.      4094.7117     0.         0.         0.
+     0.       436.22272 3580.8972  3575.397      0.      3171.4397
+     0.         0.         0.         0.       869.4428  4072.1
+     0.         0.         0.       190.10948    0.         0.
+  2375.5115     0.      3061.56       0.      3837.981   1838.3142
+     0.         0.       977.41223    0.         0.      2497.6194
+     0.      1460.8584  1090.1715  1224.0631     0.         0.
+   900.44635 3670.1914 ]]
+El número de elementos diferentes es: 1992
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 63ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 56ms/step
+GRAFO Nº 48:
+Cuello de Botella 48: [[   0.      1338.2607  1067.1881   674.2739  1926.7426    65.92044
+  2425.3577     0.      3878.4788     0.         0.         0.
+     0.       413.17044 3391.6428  3386.2976     0.      3003.7576
+     0.         0.         0.         0.       823.6395  3856.8926
+     0.         0.         0.       180.214      0.         0.
+  2249.9412     0.      2899.8083     0.      3635.0781  1741.1892
+     0.         0.       925.65094    0.         0.      2365.6929
+     0.      1383.5736  1032.7189  1159.323      0.         0.
+   852.7579  3476.239  ]]
+El número de elementos diferentes es: 2046
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 67ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 47ms/step
+GRAFO Nº 49:
+Cuello de Botella 49: [[   0.      1533.6304  1223.1681   773.0691  2207.59      75.55973
+  2779.9897     0.      4444.9067     0.         0.         0.
+     0.       473.9745  3886.8716  3881.0093     0.      3442.5322
+     0.         0.         0.         0.       943.92065 4420.3394
+     0.         0.         0.       206.72443    0.         0.
+  2578.6343     0.      3323.1487     0.      4165.8823  1995.2025
+     0.         0.      1060.7849     0.         0.      2710.9197
+     0.      1585.9973  1183.6091  1328.3738     0.         0.
+   977.5     3983.717  ]]
+El número de elementos diferentes es: 1934
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 73ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 47ms/step
+GRAFO Nº 50:
+Cuello de Botella 50: [[   0.      1548.1421  1235.0906   780.372   2228.9832    76.67218
+  2806.2092     0.      4486.9146     0.         0.         0.
+     0.       478.19864 3924.0125  3918.2168     0.      3475.7104
+     0.         0.         0.         0.       953.0372  4462.4126
+     0.         0.         0.       208.35023    0.         0.
+  2603.0503     0.      3354.8948     0.      4205.5215  2014.0747
+     0.         0.      1071.0735     0.         0.      2736.95
+     0.      1600.5553  1194.7303  1341.2468     0.         0.
+   986.7527  4021.5051 ]]
+El número de elementos diferentes es: 1942
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 66ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 53ms/step
+GRAFO Nº 51:
+Cuello de Botella 51: [[   0.      1453.4374  1159.1256   732.3636  2092.2224    71.49866
+  2634.6194     0.      4212.4307     0.         0.         0.
+     0.       448.86847 3683.4949  3678.0256     0.      3262.6064
+     0.         0.         0.         0.       894.54193 4189.124
+     0.         0.         0.       195.84955    0.         0.
+  2443.9097     0.      3149.4326     0.      3948.1096  1890.68
+     0.         0.      1005.0831     0.         0.      2569.0752
+     0.      1503.0216  1121.2572  1258.9778     0.         0.
+   926.44696 3775.3682 ]]
+El número de elementos diferentes es: 1932
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 64ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 49ms/step
+GRAFO Nº 52:
+Cuello de Botella 52: [[   0.       1549.701    1235.9633    781.117    2230.833      76.498924
+  2808.6196      0.       4491.458       0.          0.          0.
+     0.        478.81702  3927.5317   3921.3118      0.       3478.3044
+     0.          0.          0.          0.        953.7714   4466.3164
+     0.          0.          0.        208.83739     0.          0.
+  2605.3677      0.       3358.128       0.       4209.165    2016.123
+     0.          0.       1072.1168      0.          0.       2739.4365
+     0.       1602.5847   1195.738    1342.2722      0.          0.
+   987.3144   4025.6282  ]]
+El número de elementos diferentes es: 1866
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 71ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 47ms/step
+GRAFO Nº 53:
+Cuello de Botella 53: [[   0.      1414.1082  1127.9783   712.9201  2035.8381    69.77826
+  2563.5535     0.      4098.73       0.         0.         0.
+     0.       436.81067 3584.1294  3578.982      0.      3174.8777
+     0.         0.         0.         0.       870.3731  4076.1553
+     0.         0.         0.       190.27748    0.         0.
+  2377.7524     0.      3064.4934     0.      3841.683   1839.743
+     0.         0.       978.1222     0.         0.      2499.711
+     0.      1462.3799  1091.3762  1225.1664     0.         0.
+   901.39105 3673.5774 ]]
+El número de elementos diferentes es: 1956
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 64ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 55ms/step
+GRAFO Nº 54:
+Cuello de Botella 54: [[   0.      1489.361   1187.849    750.4764  2144.0706    73.00878
+  2699.4265     0.      4316.3667     0.         0.         0.
+     0.       459.78894 3774.6133  3768.941      0.      3343.1184
+     0.         0.         0.         0.       916.8053  4292.413
+     0.         0.         0.       200.46155    0.         0.
+  2504.1218     0.      3227.1677     0.      4045.4863  1937.5857
+     0.         0.      1030.2323     0.         0.      2632.8474
+     0.      1540.0559  1149.2096  1290.2529     0.         0.
+   949.2754  3868.642  ]]
+El número de elementos diferentes es: 1934
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 65ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 45ms/step
+GRAFO Nº 55:
+Cuello de Botella 55: [[   0.      1480.7285  1181.1042   746.5395  2131.85      73.1462
+  2684.2764     0.      4291.7197     0.         0.         0.
+     0.       457.2997  3753.043   3747.5867     0.      3324.096
+     0.         0.         0.         0.       910.97845 4268.0757
+     0.         0.         0.       199.19012    0.         0.
+  2489.8362     0.      3208.7607     0.      4022.6663  1926.5223
+     0.         0.      1024.2445     0.         0.      2617.6072
+     0.      1530.7429  1142.6173  1282.96       0.         0.
+   943.5552  3846.5496 ]]
+El número de elementos diferentes es: 1940
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 73ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 46ms/step
+GRAFO Nº 56:
+Cuello de Botella 56: [[   0.      1514.515   1208.0671   763.28485 2180.6052    74.73839
+  2744.6704     0.      4389.3496     0.         0.         0.
+     0.       467.6333  3838.6638  3832.6924     0.      3399.719
+     0.         0.         0.         0.       931.9639  4365.1255
+     0.         0.         0.       203.78842    0.         0.
+  2546.1565     0.      3281.6917     0.      4113.886   1970.5646
+     0.         0.      1047.4482     0.         0.      2677.1497
+     0.      1565.3533  1168.6324  1312.149      0.         0.
+   965.0419  3934.2556 ]]
+El número de elementos diferentes es: 1922
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 61ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 54ms/step
+GRAFO Nº 57:
+Cuello de Botella 57: [[   0.      1485.5304  1184.7307   749.0317  2138.3828    73.43617
+  2692.6504     0.      4305.6973     0.         0.         0.
+     0.       459.00305 3765.131   3759.2761     0.      3334.5269
+     0.         0.         0.         0.       914.2932  4281.7188
+     0.         0.         0.       199.91653    0.         0.
+  2497.605      0.      3219.2483     0.      4035.1707  1932.6282
+     0.         0.      1027.6405     0.         0.      2625.9863
+     0.      1536.003   1146.2461  1286.6696     0.         0.
+   946.4764  3858.8557 ]]
+El número de elementos diferentes es: 1916
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 66ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 46ms/step
+GRAFO Nº 58:
+Cuello de Botella 58: [[   0.      1477.7578  1178.7239   744.91956 2127.4412    72.81593
+  2678.635      0.      4283.465      0.         0.         0.
+     0.       456.46216 3745.736   3739.9421     0.      3317.4277
+     0.         0.         0.         0.       909.89386 4259.674
+     0.         0.         0.       199.1664     0.         0.
+  2484.8455     0.      3202.453      0.      4014.5723  1922.6936
+     0.         0.      1022.3763     0.         0.      2612.5093
+     0.      1528.2356  1140.6888  1280.2942     0.         0.
+   941.8351  3839.086  ]]
+El número de elementos diferentes es: 1908
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 74ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 47ms/step
+GRAFO Nº 59:
+Cuello de Botella 59: [[   0.      1532.1401  1222.1693   772.2991  2205.4854    75.26399
+  2777.1147     0.      4440.643      0.         0.         0.
+     0.       473.16476 3883.2124  3877.0874     0.      3439.0654
+     0.         0.         0.         0.       943.1082  4415.845
+     0.         0.         0.       206.4369     0.         0.
+  2576.1401     0.      3320.1904     0.      4161.868   1993.468
+     0.         0.      1059.6841     0.         0.      2708.4966
+     0.      1584.6255  1182.3094  1327.331      0.         0.
+   976.32056 3980.166  ]]
+El número de elementos diferentes es: 1918
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 62ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 54ms/step
+GRAFO Nº 60:
+Cuello de Botella 60: [[   0.      1549.8241  1236.1898   781.583   2231.3684    76.36859
+  2809.1482     0.      4491.9663     0.         0.         0.
+     0.       478.63983 3928.1877  3922.3572     0.      3479.2249
+     0.         0.         0.         0.       953.83655 4467.128
+     0.         0.         0.       208.60094    0.         0.
+  2605.9648     0.      3358.6807     0.      4210.0215  2016.4738
+     0.         0.      1072.1421     0.         0.      2739.759
+     0.      1602.3331  1195.8529  1342.4376     0.         0.
+   987.8197  4025.9812 ]]
+El número de elementos diferentes es: 1892
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 64ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 46ms/step
+GRAFO Nº 61:
+Cuello de Botella 61: [[   0.      1464.0067  1167.8068   737.9507  2107.2668    72.24195
+  2653.4233     0.      4242.624      0.         0.         0.
+     0.       451.98947 3710.3442  3704.302      0.      3285.9973
+     0.         0.         0.         0.       900.63513 4219.238
+     0.         0.         0.       197.0359     0.         0.
+  2461.194      0.      3172.293      0.      3976.4639  1904.5598
+     0.         0.      1012.4375     0.         0.      2587.5698
+     0.      1513.8049  1129.6407  1268.2173     0.         0.
+   932.7773  3802.7004 ]]
+El número de elementos diferentes es: 1904
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 75ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 50ms/step
+GRAFO Nº 62:
+Cuello de Botella 62: [[   0.       1761.5604   1405.8308    888.98395  2536.3203     87.002846
+  3194.688       0.       5106.3696      0.          0.          0.
+     0.        544.85376  4466.679    4460.3306      0.       3957.165
+     0.          0.          0.          0.       1083.9783   5079.5815
+     0.          0.          0.        235.68912     0.          0.
+  2962.7256      0.       3818.5095      0.       4788.3213   2292.9658
+     0.          0.       1219.3403      0.          0.       3113.9187
+     0.       1821.275    1360.1205   1526.2004      0.          0.
+  1123.4565   4578.1616  ]]
+El número de elementos diferentes es: 1968
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 65ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 55ms/step
+GRAFO Nº 63:
+Cuello de Botella 63: [[   0.      1403.4521  1119.3816   707.398   2020.4312    69.33787
+  2543.816      0.      4067.2737     0.         0.         0.
+     0.       433.356   3556.8208  3551.5098     0.      3150.343
+     0.         0.         0.         0.       863.61285 4044.7979
+     0.         0.         0.       188.89879    0.         0.
+  2359.479      0.      3040.91       0.      3812.0933  1825.5991
+     0.         0.       970.61597    0.         0.      2480.6887
+     0.      1450.8817  1082.7079  1215.927      0.         0.
+   894.41064 3645.3474 ]]
+El número de elementos diferentes es: 1978
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 68ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 47ms/step
+GRAFO Nº 64:
+Cuello de Botella 64: [[   0.      1472.747   1174.7355   742.27576 2120.0037    72.45348
+  2669.3423     0.      4268.377      0.         0.         0.
+     0.       454.87668 3732.6084  3726.7195     0.      3305.5413
+     0.         0.         0.         0.       906.6009  4244.621
+     0.         0.         0.       198.39725    0.         0.
+  2476.4124     0.      3191.3635     0.      4000.5354  1916.0183
+     0.         0.      1018.7222     0.         0.      2603.357
+     0.      1522.9692  1136.5562  1275.6866     0.         0.
+   938.4329  3825.7297 ]]
+El número de elementos diferentes es: 1942
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 72ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 46ms/step
+GRAFO Nº 65:
+Cuello de Botella 65: [[   0.      1348.2169  1075.517    679.91364 1941.3197    66.33143
+  2443.656      0.      3907.9763     0.         0.         0.
+     0.       416.2237  3417.3508  3412.4358     0.      3026.9355
+     0.         0.         0.         0.       829.8435  3886.3901
+     0.         0.         0.       181.05807    0.         0.
+  2266.8345     0.      2922.013      0.      3662.5857  1754.1254
+     0.         0.       932.8383     0.         0.      2383.7063
+     0.      1394.1373  1040.3575  1167.9957     0.         0.
+   859.3888  3502.5068 ]]
+El número de elementos diferentes es: 1980
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 72ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 48ms/step
+GRAFO Nº 66:
+Cuello de Botella 66: [[   0.      1521.3811  1213.4364   766.93744 2190.533     75.00747
+  2757.5547     0.      4409.4766     0.         0.         0.
+     0.       469.59232 3855.9104  3850.5112     0.      3415.5469
+     0.         0.         0.         0.       936.41595 4385.1475
+     0.         0.         0.       204.53532    0.         0.
+  2558.0698     0.      3297.033      0.      4132.9873  1979.382
+     0.         0.      1052.381      0.         0.      2689.519
+     0.      1572.8896  1173.9928  1318.0132     0.         0.
+   969.7731  3952.063  ]]
+El número de elementos diferentes es: 1948
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 62ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 56ms/step
+GRAFO Nº 67:
+Cuello de Botella 67: [[   0.      1391.1041  1109.5409   700.7589  2002.4766    68.60876
+  2520.8582     0.      4031.1575     0.         0.         0.
+     0.       429.67026 3525.4592  3519.631      0.      3122.3135
+     0.         0.         0.         0.       856.10345 4009.0698
+     0.         0.         0.       187.45097    0.         0.
+  2338.5925     0.      3014.0444     0.      3778.2852  1809.813
+     0.         0.       962.0775     0.         0.      2458.784
+     0.      1438.4141  1073.5485  1205.3228     0.         0.
+   886.38385 3613.2913 ]]
+El número de elementos diferentes es: 1974
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 64ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 46ms/step
+GRAFO Nº 68:
+Cuello de Botella 68: [[   0.      1421.014   1133.3531   716.2883  2045.5131    70.3108
+  2575.478      0.      4118.234      0.         0.         0.
+     0.       438.92218 3601.127   3595.6519     0.      3189.659
+     0.         0.         0.         0.       874.2881  4095.4846
+     0.         0.         0.       191.44806    0.         0.
+  2389.1155     0.      3079.0085     0.      3859.7983  1848.5948
+     0.         0.       982.7786     0.         0.      2511.6304
+     0.      1469.3652  1096.3386  1230.7595     0.         0.
+   905.5739  3690.9607 ]]
+El número de elementos diferentes es: 1990
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 75ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 47ms/step
+GRAFO Nº 69:
+Cuello de Botella 69: [[   0.       1481.0156   1181.3739    746.7326   2132.198      73.094986
+  2684.8252      0.       4292.703       0.          0.          0.
+     0.        457.37405  3754.033    3748.1797      0.       3324.8423
+     0.          0.          0.          0.        911.41785  4269.1953
+     0.          0.          0.        199.3918      0.          0.
+  2490.3606      0.       3209.5034      0.       4023.5967   1927.1495
+     0.          0.       1024.674       0.          0.       2617.8245
+     0.       1531.484    1142.809    1282.75        0.          0.
+   944.0343   3847.4543  ]]
+El número de elementos diferentes es: 1984
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 63ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 53ms/step
+GRAFO Nº 70:
+Cuello de Botella 70: [[   0.       1221.9097    974.58124   616.3669   1759.0063     60.381607
+  2215.111       0.       3542.0098      0.          0.          0.
+     0.        377.7118   3097.2625   3092.207       0.       2742.8696
+     0.          0.          0.          0.        752.039    3522.2004
+     0.          0.          0.        164.83229     0.          0.
+  2054.52        0.       2648.141       0.       3319.367    1589.7399
+     0.          0.        845.20917     0.          0.       2160.1626
+     0.       1263.6484    942.8943   1058.4874      0.          0.
+   778.7123   3174.5063  ]]
+El número de elementos diferentes es: 2136
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 65ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 47ms/step
+GRAFO Nº 71:
+Cuello de Botella 71: [[   0.       1391.0701   1109.6659    701.41547  2002.917      68.698395
+  2521.8535      0.       4032.0637      0.          0.          0.
+     0.        429.55756  3526.0579   3520.8342      0.       3123.0127
+     0.          0.          0.          0.        855.9312   4009.7441
+     0.          0.          0.        187.23209     0.          0.
+  2339.1829      0.       3014.713       0.       3779.185    1809.9478
+     0.          0.        962.2851      0.          0.       2459.402
+     0.       1438.2601   1073.4519   1205.3353      0.          0.
+   886.7738   3613.9788  ]]
+El número de elementos diferentes es: 2044
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 75ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 48ms/step
+GRAFO Nº 72:
+Cuello de Botella 72: [[   0.      1390.1904  1109.6292   700.20856 2001.7361    67.94842
+  2518.615      0.      4028.708      0.         0.         0.
+     0.       428.96353 3523.4705  3517.58       0.      3120.1672
+     0.         0.         0.         0.       855.9714  4006.3447
+     0.         0.         0.       187.01476    0.         0.
+  2336.9832     0.      3012.5842     0.      3775.713   1809.0714
+     0.         0.       962.1543     0.         0.      2458.4521
+     0.      1437.1952  1072.971   1205.049      0.         0.
+   885.84827 3610.9995 ]]
+El número de elementos diferentes es: 2006
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 63ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 54ms/step
+GRAFO Nº 73:
+Cuello de Botella 73: [[   0.       1386.135    1105.7572    698.5027   1995.6346     68.497635
+  2512.0217      0.       4017.05        0.          0.          0.
+     0.        427.88608  3513.0928   3507.7876      0.       3111.385
+     0.          0.          0.          0.        852.9442   3995.242
+     0.          0.          0.        186.16934     0.          0.
+  2330.3967      0.       3003.6196      0.       3764.8513   1803.0244
+     0.          0.        958.7068      0.          0.       2450.3062
+     0.       1432.9852   1069.3984   1200.6942      0.          0.
+   883.37976  3599.9885  ]]
+El número de elementos diferentes es: 1938
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 63ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 46ms/step
+GRAFO Nº 74:
+Cuello de Botella 74: [[   0.      1506.0139  1201.1201   758.90857 2168.139     74.3772
+  2729.3271     0.      4364.3003     0.         0.         0.
+     0.       464.71255 3816.5725  3810.7395     0.      3380.246
+     0.         0.         0.         0.       926.57684 4340.1226
+     0.         0.         0.       202.71619    0.         0.
+  2531.8857     0.      3263.082      0.      4090.3376  1958.9677
+     0.         0.      1041.3954     0.         0.      2662.151
+     0.      1556.8165  1161.8251  1304.7311     0.         0.
+   959.66907 3911.4429 ]]
+El número de elementos diferentes es: 1934
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 73ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 49ms/step
+GRAFO Nº 75:
+Cuello de Botella 75: [[   0.       1325.0233   1056.6586    668.07947  1907.6599     65.540085
+  2401.6707      0.       3840.5364      0.          0.          0.
+     0.        409.16318  3358.105    3353.3982      0.       2974.7734
+     0.          0.          0.          0.        815.5605   3818.967
+     0.          0.          0.        178.36217     0.          0.
+  2227.6536      0.       2871.3103      0.       3599.079    1723.6884
+     0.          0.        916.7759      0.          0.       2342.395
+     0.       1370.311    1022.1315   1147.6573      0.          0.
+   844.7176   3441.7068  ]]
+El número de elementos diferentes es: 2050
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 63ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 54ms/step
+GRAFO Nº 76:
+Cuello de Botella 76: [[   0.      1556.6632  1241.4537   784.6827  2240.7356    76.75802
+  2821.1765     0.      4511.213      0.         0.         0.
+     0.       481.05707 3944.9333  3938.845      0.      3493.9512
+     0.         0.         0.         0.       957.9498  4486.203
+     0.         0.         0.       209.79369    0.         0.
+  2617.09       0.      3372.8833     0.      4227.847   2025.1117
+     0.         0.      1076.6091     0.         0.      2751.681
+     0.      1609.529   1201.1404  1348.4446     0.         0.
+   992.0184  4043.3638 ]]
+El número de elementos diferentes es: 1882
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 64ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 46ms/step
+GRAFO Nº 77:
+Cuello de Botella 77: [[   0.       1370.5906   1093.2311    691.0701   1973.3745     67.660126
+  2484.6118      0.       3972.6353      0.          0.          0.
+     0.        423.34375  3474.0356   3468.5796      0.       3077.01
+     0.          0.          0.          0.        843.46173  3950.54
+     0.          0.          0.        184.56706     0.          0.
+  2304.6143      0.       2970.2278      0.       3723.3423   1783.419
+     0.          0.        948.39166     0.          0.       2423.0854
+     0.       1417.161    1057.6613   1187.2347      0.          0.
+   873.71643  3560.3713  ]]
+El número de elementos diferentes es: 2012
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 72ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 49ms/step
+GRAFO Nº 78:
+Cuello de Botella 78: [[   0.      1505.6134  1201.0348   759.09753 2167.4382    74.1195
+  2728.8772     0.      4363.722      0.         0.         0.
+     0.       465.05466 3816.218   3810.2292     0.      3379.7993
+     0.         0.         0.         0.       926.6827  4339.493
+     0.         0.         0.       202.68701    0.         0.
+  2531.4248     0.      3262.6458     0.      4089.798   1959.0026
+     0.         0.      1041.3385     0.         0.      2661.6038
+     0.      1556.9663  1161.8605  1304.4357     0.         0.
+   959.37744 3911.2002 ]]
+El número de elementos diferentes es: 1864
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 63ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 52ms/step
+GRAFO Nº 79:
+Cuello de Botella 79: [[   0.      1392.0933  1110.5221   701.99365 2004.0724    68.28059
+  2523.96       0.      4035.3552     0.         0.         0.
+     0.       429.8316  3528.6558  3523.3816     0.      3125.3005
+     0.         0.         0.         0.       857.0932  4012.8506
+     0.         0.         0.       187.68402    0.         0.
+  2340.898      0.      3017.0366     0.      3781.7607  1811.1885
+     0.         0.       963.1418     0.         0.      2460.9636
+     0.      1439.9456  1074.464   1206.0262     0.         0.
+   887.25555 3616.6548 ]]
+El número de elementos diferentes es: 1912
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 66ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 48ms/step
+GRAFO Nº 80:
+Cuello de Botella 80: [[   0.      1315.7858  1049.7783   663.1033  1894.2585    64.75285
+  2384.7456     0.      3813.223      0.         0.         0.
+     0.       406.2426  3334.7903  3329.6694     0.      2953.3767
+     0.         0.         0.         0.       809.53424 3792.2275
+     0.         0.         0.       177.17691    0.         0.
+  2212.2524     0.      2851.0444     0.      3573.628   1711.573
+     0.         0.       909.7932     0.         0.      2326.0046
+     0.      1360.4691  1015.343   1140.1887     0.         0.
+   838.3614  3417.7126 ]]
+El número de elementos diferentes es: 2048
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 73ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 47ms/step
+GRAFO Nº 81:
+Cuello de Botella 81: [[   0.       1202.6718    959.274     606.358    1731.0325     59.456383
+  2179.4417      0.       3485.295       0.          0.          0.
+     0.        371.22803  3047.711    3042.952       0.       2699.3577
+     0.          0.          0.          0.        740.0167   3465.9336
+     0.          0.          0.        161.69205     0.          0.
+  2021.5125      0.       2605.8916      0.       3266.2585   1564.284
+     0.          0.        831.705       0.          0.       2126.0361
+     0.       1243.4773    927.76404  1041.7808      0.          0.
+   766.08356  3123.4246  ]]
+El número de elementos diferentes es: 2104
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 65ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 53ms/step
+GRAFO Nº 82:
+Cuello de Botella 82: [[   0.      1621.1531  1293.683    817.54565 2335.1292    79.7681
+  2938.7913     0.      4700.074      0.         0.         0.
+     0.       500.28372 4109.107   4104.2666     0.      3640.8188
+     0.         0.         0.         0.       998.70703 4673.8125
+     0.         0.         0.       217.68541    0.         0.
+  2726.0662     0.      3514.2214     0.      4404.882   2109.6868
+     0.         0.      1122.4181     0.         0.      2867.5156
+     0.      1676.302   1251.7715  1405.4941     0.         0.
+  1033.5607  4211.721  ]]
+El número de elementos diferentes es: 1926
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 64ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 47ms/step
+GRAFO Nº 83:
+Cuello de Botella 83: [[   0.       1368.4766   1091.4296    689.8188   1969.9388     67.666824
+  2480.1172      0.       3965.4595      0.          0.          0.
+     0.        422.45428  3467.8896   3462.8164      0.       3071.7524
+     0.          0.          0.          0.        841.781    3943.6985
+     0.          0.          0.        184.03134     0.          0.
+  2300.5664      0.       2964.9045      0.       3716.4749   1779.8412
+     0.          0.        946.4082      0.          0.       2418.6477
+     0.       1414.1985   1055.7081   1185.3579      0.          0.
+   872.17914  3553.9822  ]]
+El número de elementos diferentes es: 2012
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 70ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 48ms/step
+GRAFO Nº 84:
+Cuello de Botella 84: [[   0.      1326.9192  1058.4167   668.977   1910.4899    65.50347
+  2404.9724     0.      3845.9182     0.         0.         0.
+     0.       409.89227 3363.265   3358.248      0.      2978.8076
+     0.         0.         0.         0.       816.7969  3824.8345
+     0.         0.         0.       178.60341    0.         0.
+  2231.212      0.      2875.608      0.      3604.594   1726.4407
+     0.         0.       918.1681     0.         0.      2345.9395
+     0.      1371.9895  1024.2319  1149.2307     0.         0.
+   845.8472  3446.7925 ]]
+El número de elementos diferentes es: 2034
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 65ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 54ms/step
+GRAFO Nº 85:
+Cuello de Botella 85: [[   0.       1194.5348    952.58264   601.9078   1719.3816     58.705643
+  2164.9253      0.       3461.561       0.          0.          0.
+     0.        368.8311   3026.9956   3022.2651      0.       2680.9119
+     0.          0.          0.          0.        735.02356  3442.3015
+     0.          0.          0.        161.03874     0.          0.
+  2008.3368      0.       2588.0828      0.       3244.1118   1553.7646
+     0.          0.        826.02997     0.          0.       2111.2964
+     0.       1234.772     921.7307   1034.9829      0.          0.
+   761.2613   3102.558   ]]
+El número de elementos diferentes es: 2106
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 67ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 48ms/step
+GRAFO Nº 86:
+Cuello de Botella 86: [[   0.       1853.8894   1479.2788    933.1143   2668.7883     90.251335
+  3359.252       0.       5371.527       0.          0.          0.
+     0.        572.3773   4697.761    4690.2456      0.       4159.844
+     0.          0.          0.          0.       1141.247    5342.25
+     0.          0.          0.        250.01442     0.          0.
+  3116.7996      0.       4016.8127      0.       5034.4507   2412.23
+     0.          0.       1281.5236      0.          0.       3277.6243
+     0.       1918.022    1431.3624   1606.5869      0.          0.
+  1180.8107   4815.087   ]]
+El número de elementos diferentes es: 1746
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 72ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 46ms/step
+GRAFO Nº 87:
+Cuello de Botella 87: [[   0.       1345.6769   1073.5195    678.5343   1937.166      65.988235
+  2439.4065      0.       3900.4626      0.          0.          0.
+     0.        415.65002  3410.894    3405.3125      0.       3020.4507
+     0.          0.          0.          0.        828.30865  3878.679
+     0.          0.          0.        181.5978      0.          0.
+  2262.9885      0.       2916.2307      0.       3655.4922   1750.9717
+     0.          0.        931.0044      0.          0.       2379.0068
+     0.       1391.5316   1038.7135   1165.7772      0.          0.
+   857.6085   3495.9211  ]]
+El número de elementos diferentes es: 2058
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 76ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 47ms/step
+GRAFO Nº 88:
+Cuello de Botella 88: [[   0.      1575.0835  1256.2943   793.93976 2267.5852    77.75703
+  2855.038      0.      4565.6147     0.         0.         0.
+     0.       486.5773  3992.389   3986.0461     0.      3535.8843
+     0.         0.         0.         0.       969.6078  4539.9204
+     0.         0.         0.       212.49124    0.         0.
+  2648.4375     0.      3413.4832     0.      4278.4487  2049.2947
+     0.         0.      1089.752      0.         0.      2784.5627
+     0.      1628.9183  1215.4617  1364.3978     0.         0.
+  1003.87665 4091.8157 ]]
+El número de elementos diferentes es: 1856
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 62ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 53ms/step
+GRAFO Nº 89:
+Cuello de Botella 89: [[   0.      1447.9138  1154.5656   729.82434 2084.635     70.83737
+  2624.671      0.      4196.4478     0.         0.         0.
+     0.       446.41434 3669.8933  3664.188      0.      3250.0715
+     0.         0.         0.         0.       891.21234 4172.5737
+     0.         0.         0.       195.27557    0.         0.
+  2434.658      0.      3137.2778     0.      3932.8818  1883.8424
+     0.         0.      1001.6878     0.         0.      2559.5942
+     0.      1497.0547  1116.8296  1254.6381     0.         0.
+   923.02313 3761.191  ]]
+El número de elementos diferentes es: 1920
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 63ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 47ms/step
+GRAFO Nº 90:
+Cuello de Botella 90: [[   0.       1247.6992    995.52826   629.16345  1796.4965     61.464108
+  2261.561       0.       3616.651       0.          0.          0.
+     0.        385.38132  3162.7378   3157.7913      0.       2800.9043
+     0.          0.          0.          0.        768.13586  3596.9414
+     0.          0.          0.        167.83989     0.          0.
+  2097.929       0.       2704.2278      0.       3389.7239   1623.3588
+     0.          0.        863.1237      0.          0.       2205.8591
+     0.       1290.0499    963.1757   1081.1699      0.          0.
+   794.96655  3241.4595  ]]
+El número de elementos diferentes es: 2122
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 71ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 48ms/step
+GRAFO Nº 91:
+Cuello de Botella 91: [[   0.       1172.0479    935.0716    591.0051   1687.4762     57.925922
+  2124.2336      0.       3396.5168      0.          0.          0.
+     0.        361.7164   2970.6482   2965.888       0.       2631.2183
+     0.          0.          0.          0.        721.1469   3378.1704
+     0.          0.          0.        157.77219     0.          0.
+  1970.5006      0.       2539.5947      0.       3183.8093   1524.925
+     0.          0.        810.6565      0.          0.       2071.7805
+     0.       1211.5363    904.36957  1015.65533     0.          0.
+   747.03955  3044.3892  ]]
+El número de elementos diferentes es: 2146
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 63ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 54ms/step
+GRAFO Nº 92:
+Cuello de Botella 92: [[   0.       1865.1465   1488.0391    941.1677   2685.4048     91.656586
+  3381.4731      0.       5408.6123      0.          0.          0.
+     0.        577.2428   4729.3022   4721.694       0.       4188.221
+     0.          0.          0.          0.       1148.2953   5378.3574
+     0.          0.          0.        251.41902     0.          0.
+  3137.6567      0.       4043.362       0.       5069.126    2428.2996
+     0.          0.       1290.8502      0.          0.       3297.9353
+     0.       1930.6001   1439.9987   1614.9214      0.          0.
+  1189.2123   4847.3584  ]]
+El número de elementos diferentes es: 1764
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 65ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 48ms/step
+GRAFO Nº 93:
+Cuello de Botella 93: [[   0.      1481.0443  1181.1509   746.3832  2132.556     73.26432
+  2684.3672     0.      4292.9785     0.         0.         0.
+     0.       457.3522  3753.9282  3748.3909     0.      3325.2244
+     0.         0.         0.         0.       911.81775 4269.0996
+     0.         0.         0.       199.3422     0.         0.
+  2490.048      0.      3209.6987     0.      4023.5518  1927.0851
+     0.         0.      1024.6594     0.         0.      2618.4204
+     0.      1531.1636  1142.9229  1283.4343     0.         0.
+   944.2937  3847.382  ]]
+El número de elementos diferentes es: 1998
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 71ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 46ms/step
+GRAFO Nº 94:
+Cuello de Botella 94: [[   0.      1422.1326  1134.359    716.8699  2047.2181    70.33672
+  2577.8318     0.      4121.938      0.         0.         0.
+     0.       439.42697 3604.8096  3599.2083     0.      3192.5583
+     0.         0.         0.         0.       875.4435  4099.536
+     0.         0.         0.       191.43323    0.         0.
+  2391.3142     0.      3082.0383     0.      3863.3125  1849.9767
+     0.         0.       983.7923     0.         0.      2513.9353
+     0.      1470.7167  1097.5638  1231.5624     0.         0.
+   906.4722  3694.2512 ]]
+El número de elementos diferentes es: 2006
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 62ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 51ms/step
+GRAFO Nº 95:
+Cuello de Botella 95: [[   0.      1827.2482  1458.1693   922.1306  2630.3784    87.37051
+  3316.444      0.      5300.736      0.         0.         0.
+     0.       564.8195  4634.7905  4627.3906     0.      4103.5933
+     0.         0.         0.         0.      1126.0106  5269.69
+     0.         0.         0.       247.9409     0.         0.
+  3075.593      0.      3961.5962     0.      4966.533   2379.0652
+     0.         0.      1265.7872     0.         0.      3231.5098
+     0.      1891.92    1411.2184  1583.3812     0.         0.
+  1165.9778  4750.4395 ]]
+El número de elementos diferentes es: 1866
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 66ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 47ms/step
+GRAFO Nº 96:
+Cuello de Botella 96: [[   0.       1524.6398   1216.3582    768.56805  2195.1963     75.042274
+  2763.6548      0.       4418.938       0.          0.          0.
+     0.        470.78378  3864.5352   3858.9348      0.       3422.7454
+     0.          0.          0.          0.        938.27454  4394.577
+     0.          0.          0.        205.09598     0.          0.
+  2563.7686      0.       3303.831       0.       4141.8867   1983.828
+     0.          0.       1054.5707      0.          0.       2695.169
+     0.       1576.3699   1176.5779   1321.0515      0.          0.
+   971.87463  3960.5674  ]]
+El número de elementos diferentes es: 1918
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 71ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 47ms/step
+GRAFO Nº 97:
+Cuello de Botella 97: [[   0.      1802.516   1438.2084   909.5275  2595.5088    88.42912
+  3268.172      0.      5226.0996     0.         0.         0.
+     0.       556.7735  4569.7036  4563.01       0.      4046.4592
+     0.         0.         0.         0.      1110.2883  5196.4346
+     0.         0.         0.       243.10834    0.         0.
+  3031.1296     0.      3906.386      0.      4897.4893  2346.0164
+     0.         0.      1246.4486     0.         0.      3187.6316
+     0.      1864.9375  1390.6631  1561.6937     0.         0.
+  1148.1836  4684.1465 ]]
+El número de elementos diferentes es: 1870
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 65ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 51ms/step
+GRAFO Nº 98:
+Cuello de Botella 98: [[   0.      1719.9515  1372.2076   866.8998  2477.0266    84.18969
+  3119.2527     0.      4985.96       0.         0.         0.
+     0.       530.6073  4360.002   4353.8276     0.      3861.8586
+     0.         0.         0.         0.      1058.5259  4958.5493
+     0.         0.         0.       232.04791    0.         0.
+  2893.1277     0.      3727.8706     0.      4674.626   2239.2947
+     0.         0.      1190.7731     0.         0.      3039.99
+     0.      1779.1256  1327.5065  1490.4431     0.         0.
+  1096.2579  4469.789  ]]
+El número de elementos diferentes es: 1980
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 64ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 45ms/step
+GRAFO Nº 99:
+Cuello de Botella 99: [[   0.      1444.3759  1152.0382   727.88275 2079.3154    71.20837
+  2617.6194     0.      4185.8706     0.         0.         0.
+     0.       445.95276 3660.2498  3654.7146     0.      3241.9753
+     0.         0.         0.         0.       888.8225  4162.482
+     0.         0.         0.       194.50119    0.         0.
+  2428.0554     0.      3129.6257     0.      3922.889   1879.115
+     0.         0.       999.0368     0.         0.      2553.2122
+     0.      1493.5718  1114.4861  1251.4602     0.         0.
+   920.33997 3751.7163 ]]
+El número de elementos diferentes es: 1920
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 71ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 47ms/step
+GRAFO Nº 100:
+Cuello de Botella 100: [[   0.      1719.9205  1370.1354   866.7982  2476.2305    86.77383
+  3116.2524     0.      4980.9946     0.         0.         0.
+     0.       530.6777  4356.1284  4351.427      0.      3860.1562
+     0.         0.         0.         0.      1056.4834  4955.276
+     0.         0.         0.       229.47734    0.         0.
+  2889.4226     0.      3724.9277     0.      4669.911   2235.3584
+     0.         0.      1188.7339     0.         0.      3038.5874
+     0.      1775.955   1324.5122  1488.092      0.         0.
+  1096.206   4463.67   ]]
+El número de elementos diferentes es: 1976
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 64ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 53ms/step
+GRAFO Nº 101:
+Cuello de Botella 101: [[   0.      1477.0419  1178.4641   744.9479  2126.7427    72.82108
+  2677.6633     0.      4281.7036     0.         0.         0.
+     0.       456.13977 3744.386   3738.8457     0.      3316.409
+     0.         0.         0.         0.       909.30615 4258.262
+     0.         0.         0.       198.83011    0.         0.
+  2483.8604     0.      3201.2964     0.      4013.31    1922.0629
+     0.         0.      1022.0422     0.         0.      2611.4194
+     0.      1527.3158  1140.1227  1279.9207     0.         0.
+   941.42993 3837.68   ]]
+El número de elementos diferentes es: 1966
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 64ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 48ms/step
+GRAFO Nº 102:
+Cuello de Botella 102: [[   0.       1663.0858   1324.2278    834.71454  2395.2202     81.695206
+  3010.6494      0.       4815.6963      0.          0.          0.
+     0.        513.0009   4210.6973   4205.2383      0.       3729.8552
+     0.          0.          0.          0.       1024.6587   4788.795
+     0.          0.          0.        224.10866     0.          0.
+  2794.9802      0.       3600.729       0.       4514.586    2161.963
+     0.          0.       1149.2086      0.          0.       2940.7537
+     0.       1717.2745   1282.8873   1441.6486      0.          0.
+  1060.3892   4316.6304  ]]
+El número de elementos diferentes es: 1996
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 72ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 47ms/step
+GRAFO Nº 103:
+Cuello de Botella 103: [[   0.      1424.986   1136.6226   718.5285  2051.6062    70.37939
+  2583.1753     0.      4130.394      0.         0.         0.
+     0.       440.25626 3612.051   3606.6565     0.      3199.2278
+     0.         0.         0.         0.       877.13824 4107.797
+     0.         0.         0.       191.83115    0.         0.
+  2396.105      0.      3088.237      0.      3871.5332  1854.0739
+     0.         0.       985.8138     0.         0.      2519.2026
+     0.      1473.7443  1099.6284  1234.3467     0.         0.
+   908.3015  3702.1045 ]]
+El número de elementos diferentes es: 1906
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 63ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 53ms/step
+GRAFO Nº 104:
+Cuello de Botella 104: [[   0.      1737.3452  1385.8234   876.65576 2502.1213    84.66566
+  3149.2979     0.      5035.898      0.         0.         0.
+     0.       534.0456  4403.7246  4397.6436     0.      3900.2756
+     0.         0.         0.         0.      1069.5374  5008.212
+     0.         0.         0.       232.87132    0.         0.
+  2921.101      0.      3764.868      0.      4720.0117  2260.22
+     0.         0.      1201.1224     0.         0.      3072.2554
+     0.      1796.3807  1341.5219  1506.1432     0.         0.
+  1107.2908  4513.193  ]]
+El número de elementos diferentes es: 1980
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 65ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 45ms/step
+GRAFO Nº 105:
+Cuello de Botella 105: [[   0.      1429.4877  1140.387    720.7183  2058.3076    70.59697
+  2591.428      0.      4143.331      0.         0.         0.
+     0.       441.45483 3623.4744  3618.328      0.      3209.5696
+     0.         0.         0.         0.       879.8316  4120.4873
+     0.         0.         0.       192.47426    0.         0.
+  2403.694      0.      3097.7952     0.      3883.6724  1859.9575
+     0.         0.       989.0552     0.         0.      2527.0706
+     0.      1478.0303  1103.0962  1238.6058     0.         0.
+   911.22156 3713.724  ]]
+El número de elementos diferentes es: 1926
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 71ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 46ms/step
+GRAFO Nº 106:
+Cuello de Botella 106: [[   0.       1260.5875   1005.6223    635.5914   1814.5759     62.118332
+  2284.7795      0.       3653.579       0.          0.          0.
+     0.        389.2876   3195.0483   3189.8115      0.       2829.546
+     0.          0.          0.          0.        775.7565   3633.095
+     0.          0.          0.        169.84996     0.          0.
+  2119.4924      0.       2731.7014      0.       3424.064    1640.2296
+     0.          0.        872.22833     0.          0.       2228.4583
+     0.       1303.6129    972.76544  1091.936       0.          0.
+   803.5254   3274.5896  ]]
+El número de elementos diferentes es: 2064
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 63ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 53ms/step
+GRAFO Nº 107:
+Cuello de Botella 107: [[   0.       1889.822    1507.4319    952.1457   2720.9482     92.662674
+  3425.3486      0.       5476.358       0.          0.          0.
+     0.        583.2037   4789.3716   4782.677       0.       4241.9463
+     0.          0.          0.          0.       1163.0287   5446.5493
+     0.          0.          0.        253.63098     0.          0.
+  3177.2244      0.       4094.4143      0.       5134.126    2458.9297
+     0.          0.       1307.0363      0.          0.       3340.429
+     0.       1954.244    1458.3346   1636.8656      0.          0.
+  1204.443    4908.616   ]]
+El número de elementos diferentes es: 1710
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 65ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 47ms/step
+GRAFO Nº 108:
+Cuello de Botella 108: [[   0.      1470.631   1173.0168   741.1552  2117.2856    72.63337
+  2665.1428     0.      4261.788      0.         0.         0.
+     0.       454.17047 3727.0269  3721.3457     0.      3301.0457
+     0.         0.         0.         0.       904.97266 4238.6294
+     0.         0.         0.       197.9562     0.         0.
+  2472.5671     0.      3186.598      0.      3994.6003  1913.204
+     0.         0.      1017.15247    0.         0.      2599.6555
+     0.      1520.3738  1134.747   1273.8877     0.         0.
+   937.4797  3819.6777 ]]
+El número de elementos diferentes es: 1980
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 73ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 47ms/step
+GRAFO Nº 109:
+Cuello de Botella 109: [[   0.      1624.4896  1295.0408   819.414   2338.1216    80.33281
+  2945.4968     0.      4708.704      0.         0.         0.
+     0.       501.27042 4116.579   4110.9067     0.      3646.6953
+     0.         0.         0.         0.       999.115   4682.198
+     0.         0.         0.       219.27423    0.         0.
+  2731.8926     0.      3519.479      0.      4413.257   2113.1956
+     0.         0.      1123.6643     0.         0.      2870.6836
+     0.      1679.1791  1254.0892  1407.237      0.         0.
+  1035.8817  4219.9136 ]]
+El número de elementos diferentes es: 1934
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 63ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 54ms/step
+GRAFO Nº 110:
+Cuello de Botella 110: [[   0.      1512.9723  1206.837    762.8125  2178.1782    74.49474
+  2742.4248     0.      4385.44       0.         0.         0.
+     0.       467.27313 3834.9802  3829.2834     0.      3396.6042
+     0.         0.         0.         0.       931.3311  4361.049
+     0.         0.         0.       203.59543    0.         0.
+  2543.9395     0.      3278.7407     0.      4110.2007  1968.5181
+     0.         0.      1046.5981     0.         0.      2674.7095
+     0.      1564.5167  1167.5354  1310.6136     0.         0.
+   964.22455 3930.5776 ]]
+El número de elementos diferentes es: 1894
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 63ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 47ms/step
+GRAFO Nº 111:
+Cuello de Botella 111: [[   0.      1397.371   1115.2969   704.9244  2011.5336    69.11026
+  2532.8936     0.      4049.4194     0.         0.         0.
+     0.       431.06866 3541.6982  3536.0498     0.      3136.627
+     0.         0.         0.         0.       859.51135 4027.5044
+     0.         0.         0.       188.23624    0.         0.
+  2349.4968     0.      3027.6514     0.      3795.66    1817.8945
+     0.         0.       966.2324     0.         0.      2469.7156
+     0.      1444.1207  1078.2185  1210.9529     0.         0.
+   890.45404 3629.5557 ]]
+El número de elementos diferentes es: 1990
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 71ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 46ms/step
+GRAFO Nº 112:
+Cuello de Botella 112: [[   0.      1438.0151  1147.1624   724.6857  2070.1565    70.64404
+  2606.2197     0.      4167.3936     0.         0.         0.
+     0.       443.70123 3644.444   3638.8276     0.      3227.6316
+     0.         0.         0.         0.       885.352   4144.4023
+     0.         0.         0.       193.82065    0.         0.
+  2417.9172     0.      3115.969      0.      3906.199   1870.8335
+     0.         0.       994.7057     0.         0.      2542.0469
+     0.      1486.9388  1109.5463  1245.6636     0.         0.
+   916.50574 3735.3372 ]]
+El número de elementos diferentes es: 1914
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 63ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 53ms/step
+GRAFO Nº 113:
+Cuello de Botella 113: [[   0.       1462.5465   1166.5775    737.5278   2105.1064     72.044685
+  2650.7983      0.       4238.2544      0.          0.          0.
+     0.        451.6998   3705.9792   3700.2542      0.       3282.2007
+     0.          0.          0.          0.        899.97626  4214.8755
+     0.          0.          0.        197.19966     0.          0.
+  2458.726       0.       3168.7903      0.       3972.09     1902.5524
+     0.          0.       1011.53094     0.          0.       2585.0183
+     0.       1512.2369   1128.4426   1266.8375      0.          0.
+   931.6232   3798.813   ]]
+El número de elementos diferentes es: 1992
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 66ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 47ms/step
+GRAFO Nº 114:
+Cuello de Botella 114: [[   0.      1427.9205  1139.0831   719.84265 2055.5227    70.63794
+  2588.2217     0.      4138.3174     0.         0.         0.
+     0.       440.93005 3619.0679  3613.2903     0.      3205.2112
+     0.         0.         0.         0.       878.8104  4115.7188
+     0.         0.         0.       192.31773    0.         0.
+  2400.922      0.      3094.2507     0.      3878.7156  1857.5532
+     0.         0.       987.5155     0.         0.      2524.3218
+     0.      1476.5177  1101.776   1237.0858     0.         0.
+   909.9     3709.125  ]]
+El número de elementos diferentes es: 1940
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 72ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 48ms/step
+GRAFO Nº 115:
+Cuello de Botella 115: [[   0.      1420.0885  1132.8229   715.9537  2044.3248    70.10865
+  2573.661      0.      4115.353      0.         0.         0.
+     0.       438.35712 3598.8555  3593.3496     0.      3187.014
+     0.         0.         0.         0.       873.735   4092.7415
+     0.         0.         0.       191.17026    0.         0.
+  2387.4011     0.      3076.7952     0.      3857.084   1847.4
+     0.         0.       981.9672     0.         0.      2510.0632
+     0.      1468.1418  1095.7316  1230.2994     0.         0.
+   904.62775 3688.5276 ]]
+El número de elementos diferentes es: 1972
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 65ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 52ms/step
+GRAFO Nº 116:
+Cuello de Botella 116: [[   0.       1510.1221   1204.6729    761.24     2174.189      73.889465
+  2737.5989      0.       4377.4604      0.          0.          0.
+     0.        466.26578  3827.8071   3822.184       0.       3390.1536
+     0.          0.          0.          0.        930.03076  4352.979
+     0.          0.          0.        203.62428     0.          0.
+  2539.5552      0.       3272.6953      0.       4102.6816   1964.9688
+     0.          0.       1044.7037      0.          0.       2670.021
+     0.       1561.9819   1165.6887   1308.5524      0.          0.
+   962.6266   3923.5667  ]]
+El número de elementos diferentes es: 1862
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 67ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 47ms/step
+GRAFO Nº 117:
+Cuello de Botella 117: [[   0.      1324.3265  1056.6796   667.4515  1906.497     65.23517
+  2400.3455     0.      3838.4707     0.         0.         0.
+     0.       408.94534 3356.705   3351.3396     0.      2972.6924
+     0.         0.         0.         0.       815.4529  3817.2573
+     0.         0.         0.       178.48619    0.         0.
+  2226.5356     0.      2870.02       0.      3597.2097  1722.8966
+     0.         0.       916.0062     0.         0.      2341.4373
+     0.      1369.9211  1022.0729  1147.488      0.         0.
+   843.88354 3440.2815 ]]
+El número de elementos diferentes es: 2036
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 72ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 47ms/step
+GRAFO Nº 118:
+Cuello de Botella 118: [[   0.      1517.5245  1210.2959   764.6675  2184.6946    74.75585
+  2750.6846     0.      4398.4766     0.         0.         0.
+     0.       468.6802  3846.1868  3840.4226     0.      3406.676
+     0.         0.         0.         0.       934.10016 4373.888
+     0.         0.         0.       204.40273    0.         0.
+  2551.5562     0.      3288.5125     0.      4122.2837  1974.3472
+     0.         0.      1049.5875     0.         0.      2682.7793
+     0.      1569.3428  1170.9856  1314.567      0.         0.
+   967.16974 3942.0635 ]]
+El número de elementos diferentes es: 1914
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 63ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 54ms/step
+GRAFO Nº 119:
+Cuello de Botella 119: [[   0.      1405.7722  1121.417    708.65155 2023.5948    69.07344
+  2547.9238     0.      4073.9807     0.         0.         0.
+     0.       433.9129  3562.7346  3557.0725     0.      3155.209
+     0.         0.         0.         0.       865.27094 4051.5046
+     0.         0.         0.       189.66087    0.         0.
+  2363.8286     0.      3045.924      0.      3818.6445  1829.0765
+     0.         0.       972.2088     0.         0.      2484.7698
+     0.      1453.2307  1085.0112  1218.4225     0.         0.
+   895.9535  3651.5996 ]]
+El número de elementos diferentes es: 1974
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 65ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 47ms/step
+GRAFO Nº 120:
+Cuello de Botella 120: [[   0.      1591.6786  1269.7177   802.42804 2291.359     78.47197
+  2885.2454     0.      4613.353      0.         0.         0.
+     0.       491.5962  4034.4343  4028.1086     0.      3573.1218
+     0.         0.         0.         0.       979.7158  4588.1826
+     0.         0.         0.       214.23723    0.         0.
+  2676.2068     0.      3449.635      0.      4323.9727  2070.97
+     0.         0.      1101.0808     0.         0.      2813.8208
+     0.      1646.436   1228.3849  1378.867      0.         0.
+  1014.4687  4135.033  ]]
+El número de elementos diferentes es: 1850
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 72ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 48ms/step
+GRAFO Nº 121:
+Cuello de Botella 121: [[   0.      1391.5885  1109.8479   701.62256 2003.5929    68.60914
+  2522.4954     0.      4033.5186     0.         0.         0.
+     0.       429.8011  3527.02    3521.6616     0.      3123.8428
+     0.         0.         0.         0.       856.45825 4011.056
+     0.         0.         0.       187.45978    0.         0.
+  2339.7556     0.      3015.619      0.      3780.0454  1810.2985
+     0.         0.       962.7458     0.         0.      2460.2192
+     0.      1438.9221  1073.9117  1205.7253     0.         0.
+   886.9354  3615.0342 ]]
+El número de elementos diferentes es: 2018
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 64ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 52ms/step
+GRAFO Nº 122:
+Cuello de Botella 122: [[   0.      1445.365   1152.5807   728.27637 2080.2097    71.72233
+  2619.5203     0.      4188.5327     0.         0.         0.
+     0.       446.57184 3663.238   3657.2815     0.      3244.6765
+     0.         0.         0.         0.       889.41425 4165.7983
+     0.         0.         0.       194.2043     0.         0.
+  2429.4304     0.      3131.6975     0.      3925.743   1879.5857
+     0.         0.       999.47394    0.         0.      2554.4846
+     0.      1494.7493  1114.5406  1251.7393     0.         0.
+   920.6415  3754.1294 ]]
+El número de elementos diferentes es: 1926
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 63ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 47ms/step
+GRAFO Nº 123:
+Cuello de Botella 123: [[   0.       1285.9615   1025.8076    648.1346   1851.2545     63.486347
+  2330.4285      0.       3726.2231      0.          0.          0.
+     0.        396.8366   3258.8162   3253.8928      0.       2886.2703
+     0.          0.          0.          0.        790.86926  3705.878
+     0.          0.          0.        173.09035     0.          0.
+  2161.8572      0.       2785.9663      0.       3492.5037   1672.7563
+     0.          0.        889.041       0.          0.       2272.642
+     0.       1329.2316    991.90894  1113.981       0.          0.
+   819.67175  3339.6653  ]]
+El número de elementos diferentes es: 2084
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 72ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 47ms/step
+GRAFO Nº 124:
+Cuello de Botella 124: [[   0.       1503.8331   1199.6946    758.29047  2165.2126     74.140686
+  2725.6797      0.       4358.5425      0.          0.          0.
+     0.        464.35007  3811.5579   3805.7805      0.       3375.838
+     0.          0.          0.          0.        925.5648   4334.6724
+     0.          0.          0.        202.29245     0.          0.
+  2528.5183      0.       3258.7832      0.       4085.041    1956.6107
+     0.          0.       1040.304       0.          0.       2658.4817
+     0.       1554.8445   1160.4967   1302.7151      0.          0.
+   958.3528   3906.468   ]]
+El número de elementos diferentes es: 1958
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 63ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 53ms/step
+GRAFO Nº 125:
+Cuello de Botella 125: [[   0.       1854.2355   1478.9508    934.32074  2668.6018     90.298615
+  3360.5625      0.       5374.1646      0.          0.          0.
+     0.        572.912    4699.793    4691.4194      0.       4161.5283
+     0.          0.          0.          0.       1141.6089   5343.7495
+     0.          0.          0.        250.59628     0.          0.
+  3118.3762      0.       4018.0874      0.       5036.3076   2412.7854
+     0.          0.       1282.714       0.          0.       3277.9128
+     0.       1917.9642   1431.1958   1605.7015      0.          0.
+  1182.0303   4816.584   ]]
+El número de elementos diferentes es: 1702
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 65ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 47ms/step
+GRAFO Nº 126:
+Cuello de Botella 126: [[   0.      1497.0452  1193.8438   754.2662  2154.9539    73.88147
+  2712.9438     0.      4338.2183     0.         0.         0.
+     0.       462.15497 3793.6516  3787.6228     0.      3359.7998
+     0.         0.         0.         0.       921.4477  4314.1084
+     0.         0.         0.       201.78156    0.         0.
+  2516.7957     0.      3243.6956     0.      4065.9487  1947.3999
+     0.         0.      1035.3124     0.         0.      2646.1025
+     0.      1547.7437  1155.0901  1296.7758     0.         0.
+   953.9662  3888.3489 ]]
+El número de elementos diferentes es: 1926
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 73ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 47ms/step
+GRAFO Nº 127:
+Cuello de Botella 127: [[   0.      1443.8246  1151.7786   727.5656  2078.2427    71.06072
+  2616.3806     0.      4184.1616     0.         0.         0.
+     0.       445.8207  3659.0696  3653.154      0.      3240.504
+     0.         0.         0.         0.       888.8263  4160.9326
+     0.         0.         0.       194.44855    0.         0.
+  2427.0244     0.      3128.5034     0.      3921.2607  1878.381
+     0.         0.       998.6077     0.         0.      2552.0396
+     0.      1493.1844  1114.039   1250.5311     0.         0.
+   919.84875 3750.3044 ]]
+El número de elementos diferentes es: 2008
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 63ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 53ms/step
+GRAFO Nº 128:
+Cuello de Botella 128: [[   0.      1406.4664  1121.7565   708.95734 2024.764     69.79061
+  2549.004      0.      4075.9607     0.         0.         0.
+     0.       434.2179  3564.5012  3558.8555     0.      3157.1255
+     0.         0.         0.         0.       865.43445 4053.4902
+     0.         0.         0.       189.21638    0.         0.
+  2364.4963     0.      3047.7122     0.      3820.295   1829.5391
+     0.         0.       972.7102     0.         0.      2486.331
+     0.      1453.8939  1084.9458  1218.5883     0.         0.
+   896.2622  3653.0513 ]]
+El número de elementos diferentes es: 1944
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 64ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 48ms/step
+GRAFO Nº 129:
+Cuello de Botella 129: [[   0.      1474.2762  1176.0076   743.38116 2122.4       72.74725
+  2672.3284     0.      4272.858      0.         0.         0.
+     0.       455.2297  3736.7756  3731.0793     0.      3309.3608
+     0.         0.         0.         0.       907.1711  4249.326
+     0.         0.         0.       198.47057    0.         0.
+  2478.8408     0.      3194.7478     0.      4004.679   1917.9591
+     0.         0.      1019.6797     0.         0.      2605.8386
+     0.      1523.9738  1137.6577  1277.6365     0.         0.
+   939.5867  3829.7656 ]]
+El número de elementos diferentes es: 1992
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 72ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 46ms/step
+GRAFO Nº 130:
+Cuello de Botella 130: [[   0.      1364.824   1088.3964   688.0614  1964.7694    67.04193
+  2474.1802     0.      3956.083      0.         0.         0.
+     0.       421.56046 3459.0742  3453.8416     0.      3063.6636
+     0.         0.         0.         0.       840.4476  3934.0295
+     0.         0.         0.       184.07767    0.         0.
+  2294.8777     0.      2957.722      0.      3707.5537  1775.6995
+     0.         0.       944.1268     0.         0.      2412.8582
+     0.      1411.8654  1053.1339  1182.1218     0.         0.
+   870.05774 3545.5505 ]]
+El número de elementos diferentes es: 2036
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 63ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 52ms/step
+GRAFO Nº 131:
+Cuello de Botella 131: [[   0.       1507.061    1202.2875    759.77856  2169.4707     74.390144
+  2731.6152      0.       4367.6606      0.          0.          0.
+     0.        465.22498  3819.63     3813.6343      0.       3382.9402
+     0.          0.          0.          0.        927.2881   4343.5166
+     0.          0.          0.        203.02623     0.          0.
+  2533.8513      0.       3265.6028      0.       4093.6345   1960.7891
+     0.          0.       1042.3273      0.          0.       2664.0176
+     0.       1557.9653   1162.9016   1305.728       0.          0.
+   960.38837  3914.6055  ]]
+El número de elementos diferentes es: 1874
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 64ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 46ms/step
+GRAFO Nº 132:
+Cuello de Botella 132: [[   0.       1367.9833   1091.0216    689.34296  1969.7509     67.447525
+  2479.3604      0.       3964.7852      0.          0.          0.
+     0.        422.3728   3467.1094   3461.6985      0.       3070.7258
+     0.          0.          0.          0.        841.88116  3942.603
+     0.          0.          0.        184.24777     0.          0.
+  2299.9062      0.       2964.4612      0.       3715.9265   1779.9331
+     0.          0.        946.4395      0.          0.       2418.5127
+     0.       1414.3256   1055.5382   1185.4856      0.          0.
+   871.7171   3553.4429  ]]
+El número de elementos diferentes es: 2010
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 74ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 46ms/step
+GRAFO Nº 133:
+Cuello de Botella 133: [[   0.      1584.8209  1263.9824   798.60956 2281.435     77.98753
+  2872.1729     0.      4592.505      0.         0.         0.
+     0.       489.08127 4015.9226  4010.1096     0.      3557.002
+     0.         0.         0.         0.       974.95886 4566.8613
+     0.         0.         0.       213.4833     0.         0.
+  2664.4438     0.      3433.5864     0.      4303.9688  2061.551
+     0.         0.      1095.9147     0.         0.      2800.8833
+     0.      1638.3424  1222.68    1372.9786     0.         0.
+  1010.07166 4116.0464 ]]
+El número de elementos diferentes es: 1860
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 63ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 52ms/step
+GRAFO Nº 134:
+Cuello de Botella 134: [[   0.       1381.5835   1101.9192    696.4042   1988.6188     68.411766
+  2503.773       0.       4003.6985      0.          0.          0.
+     0.        426.70374  3501.287    3495.554       0.       3100.8938
+     0.          0.          0.          0.        850.21686  3981.625
+     0.          0.          0.        186.0957      0.          0.
+  2322.5508      0.       2993.5776      0.       3752.233    1797.1351
+     0.          0.        955.7646      0.          0.       2442.0278
+     0.       1428.5049   1065.9598   1196.617       0.          0.
+   880.2489   3588.404   ]]
+El número de elementos diferentes es: 1994
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 65ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 47ms/step
+GRAFO Nº 135:
+Cuello de Botella 135: [[   0.      1489.6981  1188.3162   751.1024  2144.3308    73.55095
+  2700.1628     0.      4317.4434     0.         0.         0.
+     0.       460.27158 3775.6975  3769.7603     0.      3343.8132
+     0.         0.         0.         0.       916.5976  4293.7056
+     0.         0.         0.       200.52667    0.         0.
+  2504.7483     0.      3228.2307     0.      4046.7563  1938.3385
+     0.         0.      1030.339      0.         0.      2632.954
+     0.      1540.3782  1149.6104  1290.1901     0.         0.
+   949.3037  3869.7793 ]]
+El número de elementos diferentes es: 1956
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 70ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 47ms/step
+GRAFO Nº 136:
+Cuello de Botella 136: [[   0.      1523.8801  1215.178    768.21326 2193.615     75.67459
+  2761.8027     0.      4416.401      0.         0.         0.
+     0.       470.62286 3861.614   3855.6216     0.      3420.2646
+     0.         0.         0.         0.       937.44946 4391.226
+     0.         0.         0.       205.3479     0.         0.
+  2561.47       0.      3301.7136     0.      4138.045   1982.0148
+     0.         0.      1054.4648     0.         0.      2693.6887
+     0.      1575.0522  1175.068   1320.0482     0.         0.
+   971.0519  3957.497  ]]
+El número de elementos diferentes es: 1896
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 62ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 53ms/step
+GRAFO Nº 137:
+Cuello de Botella 137: [[   0.      1341.1783  1069.8937   676.0694  1930.5015    66.15787
+  2430.9849     0.      3887.2913     0.         0.         0.
+     0.       414.42123 3399.429   3393.9075     0.      3010.414
+     0.         0.         0.         0.       825.6763  3865.7993
+     0.         0.         0.       180.73341    0.         0.
+  2255.0198     0.      2906.263      0.      3642.8992  1744.6176
+     0.         0.       927.7952     0.         0.      2370.9668
+     0.      1386.9895  1034.8297  1161.7527     0.         0.
+   854.49286 3484.0225 ]]
+El número de elementos diferentes es: 1974
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 65ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 48ms/step
+GRAFO Nº 138:
+Cuello de Botella 138: [[   0.      1315.6112  1049.0687   663.2453  1893.7717    65.16338
+  2384.4146     0.      3812.828      0.         0.         0.
+     0.       406.3853  3334.1438  3329.0564     0.      2953.2095
+     0.         0.         0.         0.       809.4738  3791.7056
+     0.         0.         0.       177.05017    0.         0.
+  2211.7166     0.      2850.7913     0.      3573.2422  1711.272
+     0.         0.       910.10297    0.         0.      2325.3752
+     0.      1360.0758  1014.94916 1139.5782     0.         0.
+   838.3892  3417.0137 ]]
+El número de elementos diferentes es: 2034
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 74ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 56ms/step
+GRAFO Nº 139:
+Cuello de Botella 139: [[   0.       1205.2837    961.1846    607.3445   1734.9897     59.927853
+  2184.239       0.       3492.6477      0.          0.          0.
+     0.        372.27036  3054.2913   3049.668       0.       2705.496
+     0.          0.          0.          0.        741.5021   3473.5647
+     0.          0.          0.        162.17188     0.          0.
+  2025.9374      0.       2611.4255      0.       3273.3848   1567.7107
+     0.          0.        833.49133     0.          0.       2130.2378
+     0.       1246.2195    929.7929   1043.8085      0.          0.
+   768.03424  3130.2126  ]]
+El número de elementos diferentes es: 2034
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 62ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 49ms/step
+GRAFO Nº 140:
+Cuello de Botella 140: [[   0.       1592.0431   1269.7965    802.45074  2291.7827     78.843445
+  2885.2974      0.       4613.8135      0.          0.          0.
+     0.        491.79276  4034.796    4028.6025      0.       3573.6863
+     0.          0.          0.          0.        979.64075  4588.51
+     0.          0.          0.        214.20908     0.          0.
+  2676.4355      0.       3449.708       0.       4324.298    2071.2231
+     0.          0.       1101.1163      0.          0.       2814.0127
+     0.       1646.0082   1228.2789   1378.788       0.          0.
+  1014.43756  4135.148   ]]
+El número de elementos diferentes es: 1890
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 63ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 47ms/step
+GRAFO Nº 141:
+Cuello de Botella 141: [[   0.      1568.9728  1251.5162   791.16986 2258.4922    77.42852
+  2843.5466     0.      4547.0327     0.         0.         0.
+     0.       484.4455  3976.2695  3970.2427     0.      3521.7913
+     0.         0.         0.         0.       965.6461  4521.747
+     0.         0.         0.       211.26482    0.         0.
+  2637.6604     0.      3399.7441     0.      4261.29    2040.9564
+     0.         0.      1085.3922     0.         0.      2773.2942
+     0.      1622.0519  1210.5947  1359.001      0.         0.
+   999.8657  4075.1855 ]]
+El número de elementos diferentes es: 1884
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 70ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 46ms/step
+GRAFO Nº 142:
+Cuello de Botella 142: [[   0.      1374.2394  1096.3339   692.8454  1978.1483    68.08225
+  2490.7266     0.      3982.6255     0.         0.         0.
+     0.       424.51425 3483.0437  3477.645      0.      3084.771
+     0.         0.         0.         0.       845.7472  3960.7495
+     0.         0.         0.       184.93321    0.         0.
+  2310.4932     0.      2977.8098     0.      3732.7666  1787.7695
+     0.         0.       950.717      0.         0.      2428.899
+     0.      1420.581   1060.3799  1190.2521     0.         0.
+   875.79877 3569.497  ]]
+El número de elementos diferentes es: 2032
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 63ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 50ms/step
+GRAFO Nº 143:
+Cuello de Botella 143: [[   0.      1334.6227  1064.661    672.6744  1921.2495    66.07839
+  2418.9197     0.      3868.067      0.         0.         0.
+     0.       412.37006 3382.853   3377.0996     0.      2995.835
+     0.         0.         0.         0.       821.3951  3846.9385
+     0.         0.         0.       179.67902    0.         0.
+  2243.67       0.      2892.251      0.      3625.536   1736.6196
+     0.         0.       923.06445    0.         0.      2359.1497
+     0.      1380.206   1029.8048  1156.1677     0.         0.
+   850.22174 3467.004  ]]
+El número de elementos diferentes es: 2092
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 67ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 46ms/step
+GRAFO Nº 144:
+Cuello de Botella 144: [[   0.       1383.5309   1103.3528    697.21497  1991.6841     68.645546
+  2507.317       0.       4008.7163      0.          0.          0.
+     0.        427.10742  3505.8916   3500.5964      0.       3105.393
+     0.          0.          0.          0.        851.22284  3987.136
+     0.          0.          0.        186.03395     0.          0.
+  2325.4473      0.       2997.318       0.       3757.3276   1799.2466
+     0.          0.        956.74414     0.          0.       2445.3308
+     0.       1430.2781   1067.1942   1198.5319      0.          0.
+   881.4358   3593.0889  ]]
+El número de elementos diferentes es: 2030
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 71ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 47ms/step
+GRAFO Nº 145:
+Cuello de Botella 145: [[   0.      1533.1074  1223.1112   772.75256 2207.0002    75.65708
+  2778.528      0.      4443.0537     0.         0.         0.
+     0.       473.561   3885.6013  3879.7346     0.      3441.459
+     0.         0.         0.         0.       943.3979  4418.7734
+     0.         0.         0.       206.12282    0.         0.
+  2577.53       0.      3322.0593     0.      4164.374   1994.4304
+     0.         0.      1060.1334     0.         0.      2709.9255
+     0.      1585.099   1182.8479  1328.1676     0.         0.
+   976.813   3982.3032 ]]
+El número de elementos diferentes es: 1952
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 62ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 53ms/step
+GRAFO Nº 146:
+Cuello de Botella 146: [[   0.      1430.9642  1141.3713   720.6656  2059.2952    70.67342
+  2592.4517     0.      4146.083      0.         0.         0.
+     0.       441.57233 3625.74    3619.768      0.      3211.389
+     0.         0.         0.         0.       881.3958  4123.29
+     0.         0.         0.       192.90729    0.         0.
+  2404.7014     0.      3099.7832     0.      3885.882   1861.0277
+     0.         0.       989.7433     0.         0.      2528.7249
+     0.      1479.7408  1103.5127  1239.4186     0.         0.
+   911.8235  3715.995  ]]
+El número de elementos diferentes es: 2020
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 66ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 47ms/step
+GRAFO Nº 147:
+Cuello de Botella 147: [[   0.      1454.6571  1160.5416   733.63525 2094.1785    71.70869
+  2636.7651     0.      4216.2275     0.         0.         0.
+     0.       449.1725  3686.865   3681.5608     0.      3265.8145
+     0.         0.         0.         0.       895.2995  4193.0244
+     0.         0.         0.       195.66107    0.         0.
+  2445.803      0.      3152.404      0.      3951.525   1892.3922
+     0.         0.      1006.18475    0.         0.      2571.456
+     0.      1504.3066  1122.5704  1260.2253     0.         0.
+   927.049   3778.78   ]]
+El número de elementos diferentes es: 1960
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 72ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 47ms/step
+GRAFO Nº 148:
+Cuello de Botella 148: [[   0.       1433.0538   1143.1565    722.5376   2063.2703     70.710175
+  2597.6575      0.       4153.0215      0.          0.          0.
+     0.        442.49936  3631.9534   3626.5952      0.       3216.985
+     0.          0.          0.          0.        881.67737  4130.527
+     0.          0.          0.        192.82681     0.          0.
+  2409.4204      0.       3105.31        0.       3892.936    1864.4369
+     0.          0.        991.2081      0.          0.       2533.1099
+     0.       1481.5831   1105.5652   1241.3845      0.          0.
+   913.30743  3722.6174  ]]
+El número de elementos diferentes es: 1980
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 62ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 54ms/step
+GRAFO Nº 149:
+Cuello de Botella 149: [[   0.      1471.2078  1173.5529   741.49097 2117.9756    72.70167
+  2666.3958     0.      4263.747      0.         0.         0.
+     0.       454.5298  3728.7637  3723.1643     0.      3302.5828
+     0.         0.         0.         0.       905.68835 4240.671
+     0.         0.         0.       197.76366    0.         0.
+  2473.5085     0.      3188.2622     0.      3996.4807  1913.8234
+     0.         0.      1017.41473    0.         0.      2600.8113
+     0.      1521.2761  1135.2065  1274.0864     0.         0.
+   937.4838  3821.49   ]]
+El número de elementos diferentes es: 1968
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 64ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 46ms/step
+GRAFO Nº 150:
+Cuello de Botella 150: [[   0.       1381.8948   1102.3562    696.5523   1989.2002     68.321915
+  2504.5535      0.       4004.7668      0.          0.          0.
+     0.        426.82794  3502.358    3496.901       0.       3101.79
+     0.          0.          0.          0.        850.5777   3982.8147
+     0.          0.          0.        185.96753     0.          0.
+  2323.3586      0.       2994.4824      0.       3753.5618   1797.597
+     0.          0.        955.7317      0.          0.       2442.7314
+     0.       1428.5917   1066.017    1196.7318      0.          0.
+   880.5783   3589.5073  ]]
+El número de elementos diferentes es: 2044
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 72ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 45ms/step
+GRAFO Nº 151:
+Cuello de Botella 151: [[   0.       1744.4667   1393.4902    880.8599   2510.77       86.511566
+  3163.1074      0.       5056.759       0.          0.          0.
+     0.        539.45386  4423.007    4415.0034      0.       3916.3904
+     0.          0.          0.          0.       1072.2069   5028.868
+     0.          0.          0.        235.0505      0.          0.
+  2933.4084      0.       3780.888       0.       4740.0166   2271.0864
+     0.          0.       1205.8092      0.          0.       3082.8704
+     0.       1803.7538   1345.49     1511.1001      0.          0.
+  1111.3478   4532.8687  ]]
+El número de elementos diferentes es: 1960
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 63ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 54ms/step
+GRAFO Nº 152:
+Cuello de Botella 152: [[   0.      1457.769   1162.837    734.77057 2098.3613    72.36479
+  2642.2383     0.      4224.573      0.         0.         0.
+     0.       450.22308 3694.3838  3688.709      0.      3272.4111
+     0.         0.         0.         0.       897.0173  4201.3887
+     0.         0.         0.       196.26106    0.         0.
+  2450.7302     0.      3158.7537     0.      3959.4692  1896.1566
+     0.         0.      1008.1163     0.         0.      2576.4585
+     0.      1507.2062  1124.669   1262.8678     0.         0.
+   928.95337 3786.2263 ]]
+El número de elementos diferentes es: 1924
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 64ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 47ms/step
+GRAFO Nº 153:
+Cuello de Botella 153: [[   0.      1580.8132  1260.9364   796.85895 2275.511     78.04515
+  2865.5703     0.      4581.547      0.         0.         0.
+     0.       488.31116 4006.4143  4000.4543     0.      3548.6987
+     0.         0.         0.         0.       972.7068  4556.2363
+     0.         0.         0.       212.73537    0.         0.
+  2657.779      0.      3425.5093     0.      4294.0063  2056.3638
+     0.         0.      1093.3555     0.         0.      2794.2295
+     0.      1634.8112  1219.6385  1369.2677     0.         0.
+  1007.3147  4106.23   ]]
+El número de elementos diferentes es: 1854
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 71ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 47ms/step
+GRAFO Nº 154:
+Cuello de Botella 154: [[   0.       1416.7227   1129.9377    714.288    2039.7233     70.022224
+  2567.9407      0.       4105.763       0.          0.          0.
+     0.        437.1449   3590.5344   3585.331       0.       3180.2385
+     0.          0.          0.          0.        871.8618   4083.479
+     0.          0.          0.        190.55037     0.          0.
+  2381.7417      0.       3069.818       0.       3848.4426   1842.9136
+     0.          0.        979.9232      0.          0.       2504.2905
+     0.       1464.8058   1093.2323   1227.5156      0.          0.
+   902.6855   3680.0706  ]]
+El número de elementos diferentes es: 1978
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 63ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 54ms/step
+GRAFO Nº 155:
+Cuello de Botella 155: [[   0.      1847.6444  1474.3673   931.7408  2659.5417    91.373
+  3347.8647     0.      5354.4478     0.         0.         0.
+     0.       570.60895 4683.119   4675.5063     0.      4146.927
+     0.         0.         0.         0.      1137.4446  5326.055
+     0.         0.         0.       248.35408    0.         0.
+  3105.9722     0.      4004.0671     0.      5019.121   2403.6677
+     0.         0.      1277.6908     0.         0.      3265.968
+     0.      1909.9517  1426.0253  1600.2837     0.         0.
+  1176.5834  4799.755  ]]
+El número de elementos diferentes es: 1782
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 65ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 48ms/step
+GRAFO Nº 156:
+Cuello de Botella 156: [[   0.      1392.1107  1110.9167   701.06976 2003.7449    68.60043
+  2522.7285     0.      4034.1802     0.         0.         0.
+     0.       429.8809  3528.183   3522.1646     0.      3124.2122
+     0.         0.         0.         0.       857.2588  4011.986
+     0.         0.         0.       187.67953    0.         0.
+  2340.423      0.      3016.5417     0.      3780.926   1810.7305
+     0.         0.       962.4721     0.         0.      2460.9087
+     0.      1439.8502  1074.2334  1206.1106     0.         0.
+   886.78265 3615.7607 ]]
+El número de elementos diferentes es: 2018
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 72ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 47ms/step
+GRAFO Nº 157:
+Cuello de Botella 157: [[   0.      1857.5924  1481.1672   936.29987 2673.1172    91.60662
+  3367.4397     0.      5381.936      0.         0.         0.
+     0.       573.4598  4706.4043  4700.152      0.      4169.084
+     0.         0.         0.         0.      1142.7511  5352.5083
+     0.         0.         0.       249.96371    0.         0.
+  3123.1606     0.      4024.3782     0.      5045.953   2416.3635
+     0.         0.      1283.396      0.         0.      3281.9045
+     0.      1920.9408  1432.5696  1607.4741     0.         0.
+  1183.3453  4824.0947 ]]
+El número de elementos diferentes es: 1836
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 62ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 52ms/step
+GRAFO Nº 158:
+Cuello de Botella 158: [[   0.      1368.6187  1091.581    689.75684 1970.0845    67.61031
+  2480.561      0.      3966.2898     0.         0.         0.
+     0.       422.576   3468.576   3463.3303     0.      3071.928
+     0.         0.         0.         0.       842.2567  3944.2744
+     0.         0.         0.       184.49487    0.         0.
+  2301.181      0.      2965.435      0.      3717.4944  1780.4792
+     0.         0.       946.44965    0.         0.      2419.0352
+     0.      1414.9668  1055.928   1185.5596     0.         0.
+   872.26764 3555.0522 ]]
+El número de elementos diferentes es: 1958
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 66ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 46ms/step
+GRAFO Nº 159:
+Cuello de Botella 159: [[   0.      1579.1997  1259.977    796.4675  2273.7107    77.89323
+  2862.9126     0.      4577.8203     0.         0.         0.
+     0.       487.91232 4003.4053  3997.4534     0.      3545.8171
+     0.         0.         0.         0.       972.0751  4552.5967
+     0.         0.         0.       212.43504    0.         0.
+  2655.62       0.      3422.7278     0.      4290.667   2055.0999
+     0.         0.      1092.7515     0.         0.      2791.9006
+     0.      1633.0687  1218.7557  1367.9373     0.         0.
+  1006.6404  4102.977  ]]
+El número de elementos diferentes es: 1894
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 72ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 46ms/step
+GRAFO Nº 160:
+Cuello de Botella 160: [[   0.      1353.8909  1079.8981   682.48785 1948.7809    67.0143
+  2453.97       0.      3923.913      0.         0.         0.
+     0.       418.2776  3431.5461  3426.012      0.      3039.0007
+     0.         0.         0.         0.       833.1929  3902.378
+     0.         0.         0.       182.22504    0.         0.
+  2276.2114     0.      2933.9675     0.      3677.6013  1761.2012
+     0.         0.       936.1474     0.         0.      2393.2395
+     0.      1400.1063  1044.4834  1172.9177     0.         0.
+   862.471   3516.9802 ]]
+El número de elementos diferentes es: 2008
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 62ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 53ms/step
+GRAFO Nº 161:
+Cuello de Botella 161: [[   0.      1499.1298  1195.687    755.6342  2157.937     74.07917
+  2716.7014     0.      4343.948      0.         0.         0.
+     0.       462.74658 3798.8672  3793.243      0.      3364.7327
+     0.         0.         0.         0.       922.50574 4320.4185
+     0.         0.         0.       201.49792    0.         0.
+  2520.1777     0.      3248.2566     0.      4071.693   1949.8689
+     0.         0.      1036.6754     0.         0.      2649.9265
+     0.      1549.777   1156.4698  1298.3505     0.         0.
+   955.1949  3893.5283 ]]
+El número de elementos diferentes es: 1944
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 64ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 53ms/step
+GRAFO Nº 162:
+Cuello de Botella 162: [[   0.      1296.3057  1034.1387   653.2564  1866.076     63.63436
+  2349.5542     0.      3756.6697     0.         0.         0.
+     0.       400.14798 3285.2542  3280.1877     0.      2909.5112
+     0.         0.         0.         0.       797.7983  3735.6218
+     0.         0.         0.       174.61938    0.         0.
+  2179.2974     0.      2808.685      0.      3520.5872  1686.22
+     0.         0.       896.6366     0.         0.      2291.5762
+     0.      1340.3308  1000.1561  1123.0743     0.         0.
+   826.23224 3366.856  ]]
+El número de elementos diferentes es: 2046
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 71ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 47ms/step
+GRAFO Nº 163:
+Cuello de Botella 163: [[   0.      1447.6943  1154.8219   729.4473  2083.8687    71.75771
+  2623.4524     0.      4195.3574     0.         0.         0.
+     0.       447.35135 3668.9402  3663.0623     0.      3249.3713
+     0.         0.         0.         0.       890.8359  4172.341
+     0.         0.         0.       194.90181    0.         0.
+  2433.7559     0.      3136.9097     0.      3931.9011  1883.129
+     0.         0.      1001.1138     0.         0.      2558.7043
+     0.      1496.7844  1116.8533  1253.7592     0.         0.
+   922.4843  3760.0366 ]]
+El número de elementos diferentes es: 1964
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 71ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 48ms/step
+GRAFO Nº 164:
+Cuello de Botella 164: [[   0.       1434.8083   1144.501     723.138    2065.8223     71.117485
+  2600.3076      0.       4158.2705      0.          0.          0.
+     0.        443.1012   3636.4768   3630.8828      0.       3220.8623
+     0.          0.          0.          0.        882.94476  4135.6147
+     0.          0.          0.        193.06401     0.          0.
+  2412.3508      0.       3109.2834      0.       3897.5283   1866.7136
+     0.          0.        992.3557      0.          0.       2536.4355
+     0.       1483.3215   1107.2554   1243.2074      0.          0.
+   914.3193   3727.06    ]]
+El número de elementos diferentes es: 1984
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 62ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 52ms/step
+GRAFO Nº 165:
+Cuello de Botella 165: [[   0.      1454.684   1160.2131   733.12933 2093.9038    71.65301
+  2636.4517     0.      4215.6846     0.         0.         0.
+     0.       449.13452 3686.3416  3680.6108     0.      3264.7407
+     0.         0.         0.         0.       895.1349  4192.0303
+     0.         0.         0.       196.12643    0.         0.
+  2445.474      0.      3151.6646     0.      3950.5632  1892.2123
+     0.         0.      1006.1254     0.         0.      2571.1846
+     0.      1504.1548  1122.4269  1260.2788     0.         0.
+   926.71625 3778.327  ]]
+El número de elementos diferentes es: 1896
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 64ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 46ms/step
+GRAFO Nº 166:
+Cuello de Botella 166: [[   0.       1655.1481   1320.3076    834.4315   2382.4817     81.829506
+  3000.1567      0.       4797.245       0.          0.          0.
+     0.        511.10675  4195.11     4188.575       0.       3715.294
+     0.          0.          0.          0.       1018.47314  4770.504
+     0.          0.          0.        222.98848     0.          0.
+  2782.968       0.       3586.526       0.       4495.961    2153.264
+     0.          0.       1144.8123      0.          0.       2925.5725
+     0.       1711.3623   1276.9615   1433.7795      0.          0.
+  1054.7555   4299.428   ]]
+El número de elementos diferentes es: 1794
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 77ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 47ms/step
+GRAFO Nº 167:
+Cuello de Botella 167: [[   0.      1553.2539  1238.7134   782.5897  2236.1797    77.64423
+  2814.6182     0.      4502.5317     0.         0.         0.
+     0.       480.3786  3937.078   3930.416      0.      3486.9607
+     0.         0.         0.         0.       955.61957 4477.007
+     0.         0.         0.       209.0856     0.         0.
+  2610.646      0.      3366.0676     0.      4218.3403  2020.8145
+     0.         0.      1074.035      0.         0.      2746.056
+     0.      1606.0598  1198.8479  1345.8256     0.         0.
+   988.98535 4034.3845 ]]
+El número de elementos diferentes es: 1898
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 63ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 52ms/step
+GRAFO Nº 168:
+Cuello de Botella 168: [[   0.       1407.9816   1123.3882    709.7114   2026.5209     69.761215
+  2551.7297      0.       4079.4114      0.          0.          0.
+     0.        433.9945   3568.3958   3563.0435      0.       3160.7769
+     0.          0.          0.          0.        866.3063   4056.7354
+     0.          0.          0.        188.98146     0.          0.
+  2366.2466      0.       3050.1973      0.       3823.363    1831.1101
+     0.          0.        974.8542      0.          0.       2487.7537
+     0.       1455.2076   1085.0265   1219.2405      0.          0.
+   897.5748   3656.2947  ]]
+El número de elementos diferentes es: 2000
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 65ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 46ms/step
+GRAFO Nº 169:
+Cuello de Botella 169: [[   0.      1438.4841  1147.5144   725.1834  2070.446     72.08108
+  2605.8386     0.      4167.0986     0.         0.         0.
+     0.       443.8955  3644.9663  3639.3228     0.      3228.6536
+     0.         0.         0.         0.       884.4873  4145.0444
+     0.         0.         0.       192.92532    0.         0.
+  2417.0745     0.      3116.0928     0.      3905.9084  1869.6503
+     0.         0.       994.52594    0.         0.      2542.5947
+     0.      1486.4839  1108.919   1246.3965     0.         0.
+   916.0049  3734.7502 ]]
+El número de elementos diferentes es: 1940
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 68ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 47ms/step
+GRAFO Nº 170:
+Cuello de Botella 170: [[   0.      1275.8706  1017.4417   643.042   1836.514     63.25888
+  2312.0034     0.      3697.2422     0.         0.         0.
+     0.       393.75223 3233.0933  3228.0146     0.      2863.5593
+     0.         0.         0.         0.       785.0215  3676.6155
+     0.         0.         0.       171.78558    0.         0.
+  2144.6274     0.      2764.3613     0.      3465.0525  1659.5797
+     0.         0.       882.22723    0.         0.      2255.104
+     0.      1318.9      984.2064  1105.3717     0.         0.
+   812.8013  3313.6895 ]]
+El número de elementos diferentes es: 2060
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 63ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 52ms/step
+GRAFO Nº 171:
+Cuello de Botella 171: [[   0.       1579.2317   1259.4054    796.01184  2273.3088     78.191154
+  2862.388       0.       4576.936       0.          0.          0.
+     0.        487.7686   4002.3708   3996.1152      0.       3544.9019
+     0.          0.          0.          0.        971.7172   4551.539
+     0.          0.          0.        212.78874     0.          0.
+  2655.161       0.       3421.8708      0.       4289.8003   2054.6523
+     0.          0.       1092.2383      0.          0.       2791.384
+     0.       1632.8038   1218.4103   1368.1091      0.          0.
+  1006.33875  4102.184   ]]
+El número de elementos diferentes es: 1882
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 64ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 48ms/step
+GRAFO Nº 172:
+Cuello de Botella 172: [[   0.      1413.6489  1127.6323   712.6187  2034.9186    69.78072
+  2562.281      0.      4097.146      0.         0.         0.
+     0.       436.72403 3582.7732  3577.4294     0.      3173.4238
+     0.         0.         0.         0.       870.05316 4074.4172
+     0.         0.         0.       190.31133    0.         0.
+  2376.582      0.      3063.3137     0.      3839.6353  1838.8394
+     0.         0.       977.64154    0.         0.      2498.8933
+     0.      1461.7815  1090.8013  1224.7411     0.         0.
+   900.7873  3671.8408 ]]
+El número de elementos diferentes es: 1912
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 71ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 47ms/step
+GRAFO Nº 173:
+Cuello de Botella 173: [[   0.      1535.2659  1224.6123   773.7018  2209.7854    75.89498
+  2782.2695     0.      4448.9634     0.         0.         0.
+     0.       474.13644 3890.6936  3884.5188     0.      3445.743
+     0.         0.         0.         0.       944.82104 4424.459
+     0.         0.         0.       206.83315    0.         0.
+  2581.1167     0.      3326.4172     0.      4169.5073  1996.9365
+     0.         0.      1061.4553     0.         0.      2713.3955
+     0.      1587.0685  1184.4508  1330.0623     0.         0.
+   978.0866  3987.4246 ]]
+El número de elementos diferentes es: 1908
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 64ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 53ms/step
+GRAFO Nº 174:
+Cuello de Botella 174: [[   0.      1507.168   1202.0493   760.04224 2169.513     74.14367
+  2732.2505     0.      4368.8257     0.         0.         0.
+     0.       465.95035 3820.045   3814.1836     0.      3383.333
+     0.         0.         0.         0.       927.66644 4344.3945
+     0.         0.         0.       203.16301    0.         0.
+  2534.1218     0.      3266.2773     0.      4094.0325  1960.8104
+     0.         0.      1042.5233     0.         0.      2664.3892
+     0.      1559.1064  1163.0066  1305.3336     0.         0.
+   960.4337  3915.533  ]]
+El número de elementos diferentes es: 1918
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 64ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 47ms/step
+GRAFO Nº 175:
+Cuello de Botella 175: [[   0.      1620.519   1292.8354   816.9252  2332.8408    79.80571
+  2937.253      0.      4696.8267     0.         0.         0.
+     0.       500.42276 4107.493   4101.0854     0.      3637.794
+     0.         0.         0.         0.       997.5382  4671.016
+     0.         0.         0.       218.15721    0.         0.
+  2724.752      0.      3511.9104     0.      4401.905   2108.2415
+     0.         0.      1120.9791     0.         0.      2864.769
+     0.      1675.9174  1250.4614  1403.7394     0.         0.
+  1032.7856  4209.613  ]]
+El número de elementos diferentes es: 1790
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 72ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 47ms/step
+GRAFO Nº 176:
+Cuello de Botella 176: [[   0.      1051.5171   838.4518   530.0862  1513.701     51.9923
+  1905.5726     0.      3047.3386     0.         0.         0.
+     0.       324.73428 2664.6758  2660.492      0.      2360.0994
+     0.         0.         0.         0.       647.18286 3030.2595
+     0.         0.         0.       141.60573    0.         0.
+  1767.2559     0.      2278.2148     0.      2855.6702  1367.7198
+     0.         0.       727.5694     0.         0.      1858.7075
+     0.      1087.3572   811.18475  910.6874     0.         0.
+   669.9033  2731.0874 ]]
+El número de elementos diferentes es: 2200
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 63ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 51ms/step
+GRAFO Nº 177:
+Cuello de Botella 177: [[   0.       1451.8506   1157.5052    732.64624  2089.6443     71.375984
+  2631.9526      0.       4208.441       0.          0.          0.
+     0.        448.9141   3678.8972   3674.4353      0.       3259.243
+     0.          0.          0.          0.        894.06305  4184.9463
+     0.          0.          0.        195.57875     0.          0.
+  2440.2832      0.       3146.0784      0.       3942.669    1887.9208
+     0.          0.       1004.6866      0.          0.       2566.6404
+     0.       1503.048    1120.8217   1256.7561      0.          0.
+   924.8296   3771.5737  ]]
+El número de elementos diferentes es: 2006
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 64ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 46ms/step
+GRAFO Nº 178:
+Cuello de Botella 178: [[   0.      1489.826   1188.193    750.7844  2144.543     73.71457
+  2700.166      0.      4317.815      0.         0.         0.
+     0.       460.23013 3775.929   3769.5269     0.      3343.9666
+     0.         0.         0.         0.       916.6263  4293.906
+     0.         0.         0.       200.69952    0.         0.
+  2504.912      0.      3228.3767     0.      4046.9133  1938.3052
+     0.         0.      1030.2194     0.         0.      2633.5142
+     0.      1540.4591  1149.5011  1290.8041     0.         0.
+   949.1591  3869.9648 ]]
+El número de elementos diferentes es: 1916
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 72ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 47ms/step
+GRAFO Nº 179:
+Cuello de Botella 179: [[   0.      1348.5239  1075.778    680.0843  1941.2583    66.23417
+  2444.7969     0.      3908.8137     0.         0.         0.
+     0.       416.56818 3418.4177  3412.8777     0.      3027.3494
+     0.         0.         0.         0.       830.30304 3887.447
+     0.         0.         0.       181.78745    0.         0.
+  2267.8425     0.      2922.5256     0.      3664.024   1754.7528
+     0.         0.       933.041      0.         0.      2384.085
+     0.      1394.6478  1040.9294  1168.1696     0.         0.
+   859.5672  3503.719  ]]
+El número de elementos diferentes es: 2084
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 63ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 51ms/step
+GRAFO Nº 180:
+Cuello de Botella 180: [[   0.      1563.6609  1247.2856   788.22473 2251.236     76.95094
+  2834.4849     0.      4532.3174     0.         0.         0.
+     0.       482.72382 3963.2976  3957.4722     0.      3510.5706
+     0.         0.         0.         0.       962.658   4507.07
+     0.         0.         0.       210.6994     0.         0.
+  2629.1917     0.      3388.5413     0.      4247.8574  2034.5348
+     0.         0.      1081.8561     0.         0.      2764.3684
+     0.      1616.9233  1206.6014  1354.7185     0.         0.
+   996.8376  4062.1296 ]]
+El número de elementos diferentes es: 1920
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 64ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 46ms/step
+GRAFO Nº 181:
+Cuello de Botella 181: [[   0.       1439.0029   1147.6184    725.13855  2071.5813     71.043274
+  2607.8875      0.       4169.8433      0.          0.          0.
+     0.        444.37082  3646.5874   3641.236       0.       3229.835
+     0.          0.          0.          0.        885.42804  4146.9395
+     0.          0.          0.        193.52095     0.          0.
+  2419.3733      0.       3117.8765      0.       3908.414    1871.8694
+     0.          0.        994.9868      0.          0.       2543.4192
+     0.       1487.5585   1109.8914   1246.2766      0.          0.
+   917.08545  3737.3127  ]]
+El número de elementos diferentes es: 1970
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 73ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 48ms/step
+GRAFO Nº 182:
+Cuello de Botella 182: [[   0.       1829.8939   1459.7437    922.5578   2634.817      90.969406
+  3317.2056      0.       5305.805       0.          0.          0.
+     0.        566.07214  4640.295    4632.1226      0.       4109.328
+     0.          0.          0.          0.       1126.6589   5276.8296
+     0.          0.          0.        246.0777      0.          0.
+  3077.9465      0.       3967.4019      0.       4973.161    2381.8794
+     0.          0.       1266.1748      0.          0.       3235.7283
+     0.       1892.6548   1412.032    1585.3605      0.          0.
+  1166.7312   4754.9785  ]]
+El número de elementos diferentes es: 1768
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 64ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 53ms/step
+GRAFO Nº 183:
+Cuello de Botella 183: [[   0.      1525.9529  1217.1208   769.28674 2196.5105    75.32793
+  2765.6885     0.      4422.4673     0.         0.         0.
+     0.       471.15613 3867.5571  3861.422      0.      3425.151
+     0.         0.         0.         0.       939.4077  4398.084
+     0.         0.         0.       205.68138    0.         0.
+  2565.5896     0.      3306.6575     0.      4144.8154  1984.9912
+     0.         0.      1055.6229     0.         0.      2697.418
+     0.      1578.1146  1177.474   1321.6606     0.         0.
+   972.18604 3963.855  ]]
+El número de elementos diferentes es: 1910
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 64ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 48ms/step
+GRAFO Nº 184:
+Cuello de Botella 184: [[   0.       1528.1764   1218.8088    770.31366  2199.971      75.680786
+  2769.959       0.       4429.1226      0.          0.          0.
+     0.        471.73196  3872.9714   3867.0854      0.       3430.3984
+     0.          0.          0.          0.        940.348    4404.4854
+     0.          0.          0.        205.82753     0.          0.
+  2569.2505      0.       3311.5288      0.       4151.076    1988.0865
+     0.          0.       1057.1182      0.          0.       2701.3186
+     0.       1580.2595   1179.0621   1323.9625      0.          0.
+   973.9135   3969.5486  ]]
+El número de elementos diferentes es: 1878
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 72ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 48ms/step
+GRAFO Nº 185:
+Cuello de Botella 185: [[   0.      1468.8214  1171.4102   740.48346 2114.5947    72.38746
+  2662.365      0.      4256.9497     0.         0.         0.
+     0.       453.39777 3722.494   3717.1343     0.      3297.3235
+     0.         0.         0.         0.       904.00256 4233.302
+     0.         0.         0.       197.8154     0.         0.
+  2469.5928     0.      3182.6208     0.      3989.658   1910.8408
+     0.         0.      1016.10095    0.         0.      2596.437
+     0.      1518.8873  1133.1844  1272.2633     0.         0.
+   936.37103 3815.3445 ]]
+El número de elementos diferentes es: 1920
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 64ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 54ms/step
+GRAFO Nº 186:
+Cuello de Botella 186: [[   0.      1544.9313  1232.4069   778.9666  2224.0774    76.13373
+  2800.3154     0.      4478.173      0.         0.         0.
+     0.       477.36124 3916.1333  3909.7693     0.      3468.3354
+     0.         0.         0.         0.       951.19806 4453.2876
+     0.         0.         0.       208.25467    0.         0.
+  2597.6033     0.      3348.2712     0.      4196.91    2010.3068
+     0.         0.      1068.966      0.         0.      2731.2002
+     0.      1597.9595  1192.2977  1338.2089     0.         0.
+   984.525   4013.7668 ]]
+El número de elementos diferentes es: 1880
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 66ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 51ms/step
+GRAFO Nº 187:
+Cuello de Botella 187: [[   0.      1621.6063  1293.5258   817.2237  2334.2678    80.11694
+  2939.288      0.      4699.384      0.         0.         0.
+     0.       500.98596 4109.8745  4103.5825     0.      3640.117
+     0.         0.         0.         0.       997.9269  4673.9414
+     0.         0.         0.       218.08867    0.         0.
+  2726.2456     0.      3513.723      0.      4405.121   2109.4985
+     0.         0.      1121.0731     0.         0.      2866.1953
+     0.      1676.8228  1250.8723  1404.6417     0.         0.
+  1033.2128  4212.066  ]]
+El número de elementos diferentes es: 1842
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 72ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 52ms/step
+GRAFO Nº 188:
+Cuello de Botella 188: [[   0.      1472.4834  1174.5908   742.31256 2119.518     72.55582
+  2669.0933     0.      4267.601      0.         0.         0.
+     0.       454.67813 3731.979   3726.0925     0.      3305.234
+     0.         0.         0.         0.       906.1659  4244.056
+     0.         0.         0.       198.29248    0.         0.
+  2475.7852     0.      3190.69       0.      3999.7434  1915.5876
+     0.         0.      1018.25525    0.         0.      2602.7852
+     0.      1522.593   1136.1481  1275.6405     0.         0.
+   938.19183 3825.0227 ]]
+El número de elementos diferentes es: 1916
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 76ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 52ms/step
+GRAFO Nº 189:
+Cuello de Botella 189: [[   0.       1493.7245   1191.5304    752.7488   2150.2285     73.581024
+  2707.3726      0.       4328.698       0.          0.          0.
+     0.        461.18243  3785.622    3779.5776      0.       3352.569
+     0.          0.          0.          0.        919.02466  4304.745
+     0.          0.          0.        201.19522     0.          0.
+  2511.3262      0.       3236.6433      0.       4057.1282   1943.3032
+     0.          0.       1033.1542      0.          0.       2640.1843
+     0.       1544.3956   1152.3203   1293.8766      0.          0.
+   951.9451   3879.9426  ]]
+El número de elementos diferentes es: 1920
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 65ms/step
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 53ms/step
+GRAFO Nº 190:
+Cuello de Botella 190: [[   0.       1677.9893   1338.7839    845.87524  2415.9023     82.464676
+  3042.0222      0.       4864.4004      0.          0.          0.
+     0.        518.3986   4253.6445   4247.431       0.       3767.3948
+     0.          0.          0.          0.       1033.2695   4836.894
+     0.          0.          0.        225.94846     0.          0.
+  2821.808       0.       3636.9155      0.       4558.6035   2183.4014
+     0.          0.       1161.5261      0.          0.       2966.9058
+     0.       1735.9858   1294.9703   1453.7421      0.          0.
+  1069.2402   4359.6226  ]]
+El número de elementos diferentes es: 1794
+
+Process finished with exit code 0
