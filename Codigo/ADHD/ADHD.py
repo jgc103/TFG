@@ -72,7 +72,7 @@ def aplicar_pca_y_graficar(matriz_vectores, titulo, n_componentes):
 
 
 # Definir el autoencoder como función
-def crear_autoencoder(input_dim):
+def crear_autoencoder(input_dim, entrada):
     # Encoder
     inputs = layers.Input(shape=(input_dim,))
     x = layers.Dense(5000, activation='relu')(inputs)
@@ -80,11 +80,11 @@ def crear_autoencoder(input_dim):
     x = layers.Dense(500, activation='relu')(x)
     x = layers.Dense(250, activation='relu')(x)
     x = layers.Dense(100, activation='relu')(x)
-    x = layers.Dense(15, activation='relu')(x)
-    encoded = layers.Dense(1, activation='relu')(x)
+    x = layers.Dense(50, activation='relu')(x)
+    encoded = layers.Dense(entrada, activation='relu')(x)
 
     # Decoder
-    x = layers.Dense(15, activation='relu')(encoded)
+    x = layers.Dense(50, activation='relu')(encoded)
     x = layers.Dense(100, activation='relu')(x)
     x = layers.Dense(250, activation='relu')(x)
     x = layers.Dense(500, activation='relu')(x)
@@ -193,18 +193,19 @@ class Main:
         cuello_botella = encoder.predict(grafo)
         return reconstruccion, cuello_botella
 
-    def calcular_matriz_confusion(self, grafos):
+    def calcular_matriz_confusion(self, grafos, cuello_botellaE):
         # Usamos el train split de sklearn para dividir de manera aleatoria
         contador = 0
         lista_porcentajes = []
         grafos_entrenamiento, grafos_test = train_test_split(grafos, test_size=0.2, random_state=42)
         # Creamos el autoencoder y lo entrenamos con el entrenamiento
-        autoencoder, encoder = crear_autoencoder(input_dim=17955)
+        autoencoder, encoder = crear_autoencoder(input_dim=17955, entrada=cuello_botellaE)
         # Compilamos y aprendemos
         learning_rate = 0.0005  # Puedes probar con diferentes valores como 0.001, 0.0001, etc.
+        
         optimizer = keras.optimizers.Adam(learning_rate=learning_rate)
         autoencoder.compile(optimizer=optimizer, loss='mse')
-        autoencoder.fit(grafos_entrenamiento, grafos_entrenamiento, epochs=40, batch_size=64)
+        autoencoder.fit(grafos_entrenamiento, grafos_entrenamiento, epochs=20, batch_size=64, verbose = 0)
 
         # Inicializar métricas
         zeros_reconstruidos_donde_zeros = 0
@@ -212,36 +213,39 @@ class Main:
         zeros_reconstruidos_donde_unos = 0
         unos_reconstruidos_donde_unos = 0
 
-
         for grafo in grafos_test:
             reconstruccion, cuello_botella = self.obtener_resultados(grafo, autoencoder, encoder)
-            total_zeros_original = np.sum(grafo == 0)  # Total de 0s en el grafo original
-            total_ones_original = np.sum(grafo == 1)  # Total de 1s en el grafo original
+            reconstruccion_mod = reconstruccion[0]
+            contador += 1
+
+            # Inicializar matriz de confusión
+            tn = 0  # 0s reconstruidos donde había 0s
+            fn = 0  # 0s reconstruidos donde había 1s
+            fp = 0  # 1s reconstruidos donde había 0s
+            tp = 0  # 1s reconstruidos donde había 1s
+            error = 0
+
             for i in range(len(grafo)):
                 if grafo[i] == 0:
-                    if reconstruccion[0,i] == 0:
-                        zeros_reconstruidos_donde_zeros += 1
-                    elif reconstruccion[0,i] == 1:
-                        unos_reconstruidos_donde_zeros += 1
+                    if reconstruccion_mod[i] == 0:
+                        tn += 1
+                    elif reconstruccion_mod[i] == 1:
+                        fp += 1
                 elif grafo[i] == 1:
-                    if reconstruccion[0,i] == 0:
-                        zeros_reconstruidos_donde_unos += 1
-                    elif reconstruccion[0,i] == 1:
-                        unos_reconstruidos_donde_unos += 1
-            # Cálculo de los porcentajes
-            if total_zeros_original > 0:
-                zeros_reconstruidos_donde_zeros = (zeros_reconstruidos_donde_zeros / total_zeros_original) * 100
-                unos_reconstruidos_donde_zeros = (unos_reconstruidos_donde_zeros / total_zeros_original) * 100
+                    if reconstruccion_mod[i] == 0:
+                        fn += 1
+                    elif reconstruccion_mod[i] == 1:
+                        tp += 1
+                else:
+                    error += 1
 
-            if total_ones_original > 0:
-                zeros_reconstruidos_donde_unos = (zeros_reconstruidos_donde_unos / total_ones_original) * 100
-                unos_reconstruidos_donde_unos = (unos_reconstruidos_donde_unos / total_ones_original) * 100
+            # Matriz de confusión en valores absolutos
+            matriz_confusion = np.array([[tn, fp], [fn, tp]])
 
-            # Mostramos las probabilidades halladas
-            print(f"0s reconstruidos donde había 0s {zeros_reconstruidos_donde_zeros}")
-            print(f"0s reconstruidos donde había 1s {zeros_reconstruidos_donde_unos}")
-            print(f"1s reconstruidos donde había 0s {unos_reconstruidos_donde_zeros}")
-            print(f"1s reconstruidos donde había 1s {unos_reconstruidos_donde_unos}")
+            # Mostrar resultados
+            #print(f"\nGRAFO número {contador}, cuello de botella: {cuello_botellaE}")
+            #print("Matriz de Confusión (Valores absolutos):")
+            print(matriz_confusion)
 
 
 
@@ -275,9 +279,10 @@ class Run:
 
         if ejecutar_matriz_confusion:
             print("🟠 Ejecutando matriz confusion...")
-            main.calcular_matriz_confusion(main.grafos_reducidos_ADHD)
-            main.calcular_matriz_confusion(main.grafos_reducidos_TD)
-            main.calcular_matriz_confusion(main.grafos_reducidos_Combinados)
+            for i in range(20,40):
+                main.calcular_matriz_confusion(main.grafos_reducidos_ADHD, i)
+            main.calcular_matriz_confusion(main.grafos_reducidos_TD, 1)
+            main.calcular_matriz_confusion(main.grafos_reducidos_Combinados, 1)
 
 
 
