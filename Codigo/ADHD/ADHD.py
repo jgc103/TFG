@@ -189,8 +189,8 @@ class Main:
     # Encoder: El cuello de botella
     def obtener_resultados(self,grafo, autoencoder, encoder):
         grafo = np.expand_dims(grafo, axis=0)  # Convertimos de 1D a 2D
-        reconstruccion = autoencoder.predict(grafo)
-        cuello_botella = encoder.predict(grafo)
+        reconstruccion = autoencoder.predict(grafo, verbose=0)
+        cuello_botella = encoder.predict(grafo, verbose=0)
         return reconstruccion, cuello_botella
 
     def calcular_matriz_confusion(self, grafos, cuello_botellaE):
@@ -206,12 +206,6 @@ class Main:
         optimizer = keras.optimizers.Adam(learning_rate=learning_rate)
         autoencoder.compile(optimizer=optimizer, loss='mse')
         autoencoder.fit(grafos_entrenamiento, grafos_entrenamiento, epochs=20, batch_size=64, verbose = 0)
-
-        # Inicializar métricas
-        zeros_reconstruidos_donde_zeros = 0
-        unos_reconstruidos_donde_zeros = 0
-        zeros_reconstruidos_donde_unos = 0
-        unos_reconstruidos_donde_unos = 0
 
         for grafo in grafos_test:
             reconstruccion, cuello_botella = self.obtener_resultados(grafo, autoencoder, encoder)
@@ -242,10 +236,14 @@ class Main:
             # Matriz de confusión en valores absolutos
             matriz_confusion = np.array([[tn, fp], [fn, tp]])
 
+            # Cálculo de tasas (evitar divisiones por cero)
+            tpr = (tp / (tp + fn)) * 100
+            tnr = (tn / (tn + fp)) * 100
+            fpr = (fp / (fp + tn)) * 100
+            fnr = (fn / (fn + tp)) * 100
+
             # Mostrar resultados
-            #print(f"\nGRAFO número {contador}, cuello de botella: {cuello_botellaE}")
-            #print("Matriz de Confusión (Valores absolutos):")
-            print(matriz_confusion)
+            print(f"\n(TPR): {tpr:.4f}%, (TNR): {tnr:.4f}%, (FPR): {fpr:.4f}%, (FNR): {fnr:.4f}%")
 
 
 
