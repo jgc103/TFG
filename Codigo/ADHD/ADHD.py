@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 import tensorflow as tf
 import keras
 from keras import layers, Model
-
+np.set_printoptions(threshold=np.inf)
 
 # Función que aplica la reduccion de dimensionalidad
 def reduccion_dimensionalidad(directorio):
@@ -15,7 +15,6 @@ def reduccion_dimensionalidad(directorio):
     for archivo in os.listdir(directorio):
         if archivo.endswith(".txt"):
             ruta_archivo = os.path.join(directorio, archivo)
-            print(f"Leyendo el archivo: {archivo}")
             try:
                 matriz_adyacencia = np.loadtxt(ruta_archivo)
                 # Nos quedamos con el triangulo superior derecho
@@ -25,7 +24,6 @@ def reduccion_dimensionalidad(directorio):
                 vector_grafos = np.ravel(triangulo_superior)
                 # Guardamos el vector en el diccionario
                 grafos_reducidos[archivo] = vector_grafos
-                print(f"Grafo {archivo} procesado correctamente.")
             except Exception as e:
                 print(f"Error al leer el archivo {archivo}: {e}")
     # Aplicamos transformacion para que sea aceptado directamente por el PCA
@@ -98,6 +96,38 @@ def crear_autoencoder(input_dim, entrada):
 
     return autoencoder_model, cuello_botella
 
+
+def crear_stacked_autoencoder(input_dim, latent_dim_final):
+    # Definir dimensiones para cada nivel de apilamiento
+    dims = [5000, 1000, 500, 250, 100, 50, latent_dim_final]
+    input_layer = layers.Input(shape=(input_dim,))
+    encoders = []
+    decoders = []
+    autoencoders = []
+
+    # Construir los autoencoders apilados
+    current_input = input_layer
+    current_dim = input_dim
+    # Construir y entrenar cada nivel de autoencoder
+    for i, dim in enumerate(dims):
+        #Creamos el encoded para la capa en cuestion
+        encoded = layers.Dense(dim, activation='relu')(current_input)
+        decoded = layers.Dense(current_dim, activation='sigmoid')(encoded)
+
+        # Crear modelo de autoencoder para esta capa
+        autoencoder = Model(current_input, decoded)
+        # Crear modelo de encoder para esta capa
+        encoder = Model(current_input, encoded)
+
+        # Guardar modelos
+        autoencoders.append(autoencoder)
+        encoders.append(encoder)
+
+        # Modificamos la siguiente entrada para que sea el cuello de botella del anterior
+        current_input = layers.Input(shape=(dim,))
+        current_dim = dim
+    return autoencoders, encoders
+
 class Main:
     def __init__(self):
         # Ruta para leer los ficheros
@@ -124,7 +154,7 @@ class Main:
         lista_porcentajes = []
         grafos_entrenamiento, grafos_test = train_test_split(grafos, test_size=0.2, random_state=42)
         # Creamos el autoencoder y lo entrenamos con el entrenamiento
-        autoencoder, encoder = crear_autoencoder(input_dim=17955)
+        autoencoder, encoder = crear_autoencoder(input_dim=17955, entrada=10)
         # Compilamos y aprendemos
         learning_rate = 0.0005  # Puedes probar con diferentes valores como 0.001, 0.0001, etc.
         optimizer = keras.optimizers.Adam(learning_rate=learning_rate)
@@ -151,11 +181,84 @@ class Main:
         porcentaje_acierto_medio = sum(lista_porcentajes) / len(lista_porcentajes)
         return porcentaje_acierto_medio
 
+    # Funcion tests pero para los autoencoders apilados
+    def test_stacked_autoencoders(self, grafos):
+        plt.close('all')
+
+        grafos_entrenamiento, grafos_test = train_test_split(grafos, test_size=0.2, random_state=42)
+
+        autoencoders, encoders = crear_stacked_autoencoder(input_dim=17955, latent_dim_final=1)
+
+        # Entrenamiento del autoencoder
+        current_data = grafos_entrenamiento
+        for i, autoencoder in enumerate(autoencoders):
+            print(f"Entrenando nivel {i + 1} del stacked autoencoder")
+            optimizer = keras.optimizers.Adam(learning_rate=0.0005)
+            autoencoder.compile(optimizer=optimizer, loss='mse')
+            autoencoder.fit(current_data, current_data, epochs=20, batch_size=64, verbose=0)
+
+            if i < len(encoders) - 1:
+                current_data = encoders[i].predict(current_data)
+
+        # Lista de umbrales
+        threshold_list = np.concatenate([
+            np.geomspace(0.0001, 0.1, num=20, endpoint=False),
+            np.linspace(0.1, 0.5, num=10)
+        ])
+
+        # Diccionarios para almacenar los valores de cada métrica para cada umbral
+        all_tpr = {thr: [] for thr in threshold_list}
+        all_tnr = {thr: [] for thr in threshold_list}
+        all_fpr = {thr: [] for thr in threshold_list}
+        all_fnr = {thr: [] for thr in threshold_list}
+
+        # Proceso de test
+        for grafo in grafos_test:
+            input_data = np.expand_dims(grafo, axis=0)
+
+            # Paso por los encoders
+            current_representation = input_data
+            for encoder in encoders:
+                current_representation = encoder.predict(current_representation, verbose=0)
+
+            cuello_botella = current_representation
+
+            # Paso por los decoders
+            current_reconstruction = cuello_botella
+            for i in range(len(autoencoders) - 1, -1, -1):
+                decoder_layer = autoencoders[i].layers[-1]
+                current_reconstruction = decoder_layer(current_reconstruction)
+
+            reconstruccion_mod_base = current_reconstruction.numpy()[0]
+
+            # Evaluamos la reconstrucción en cada umbral
+            for threshold in threshold_list:
+                reconstruccion_mod = (reconstruccion_mod_base > float(threshold)).astype(int)
+                tpr, tnr, fpr, fnr = self.matriz_confusion(grafo, reconstruccion_mod)
+
+                # Guardamos los valores en cada umbral
+                all_tpr[threshold].append(tpr)
+                all_tnr[threshold].append(tnr)
+                all_fpr[threshold].append(fpr)
+                all_fnr[threshold].append(fnr)
+
+        # Calculamos las medias finales para cada umbral
+        mean_tpr_list = [np.mean(all_tpr[thr]) for thr in threshold_list]
+        mean_tnr_list = [np.mean(all_tnr[thr]) for thr in threshold_list]
+        mean_fpr_list = [np.mean(all_fpr[thr]) for thr in threshold_list]
+        mean_fnr_list = [np.mean(all_fnr[thr]) for thr in threshold_list]
+
+        # Graficamos los resultados
+        self.graficar_resultados(threshold_list, mean_tpr_list, "TPR")
+        self.graficar_resultados(threshold_list, mean_tnr_list, "TNR")
+        self.graficar_resultados(threshold_list, mean_fpr_list, "FPR")
+        self.graficar_resultados(threshold_list, mean_fnr_list, "FNR")
+
 
     # Itera para llamar a entrenar_autoencoder en todos el grafo y obtiene los resultados despues
     def bucle_entrenar_y_resultados(self, grafos):
         # Creamos el Autocodificador general
-        autoencoder, encoder = crear_autoencoder(input_dim=17955)
+        autoencoder, encoder = crear_autoencoder(input_dim=17955, entrada = 1)
         contador = 0
         lista_porcentajes = []
         # Compilamos el modelo
@@ -193,7 +296,7 @@ class Main:
         cuello_botella = encoder.predict(grafo, verbose=0)
         return reconstruccion, cuello_botella
 
-    def calcular_matriz_confusion(self, grafos, cuello_botellaE):
+    def tests_matriz(self, grafos, cuello_botellaE):
         # Usamos el train split de sklearn para dividir de manera aleatoria
         contador = 0
         lista_porcentajes = []
@@ -202,7 +305,7 @@ class Main:
         autoencoder, encoder = crear_autoencoder(input_dim=17955, entrada=cuello_botellaE)
         # Compilamos y aprendemos
         learning_rate = 0.0005  # Puedes probar con diferentes valores como 0.001, 0.0001, etc.
-        
+
         optimizer = keras.optimizers.Adam(learning_rate=learning_rate)
         autoencoder.compile(optimizer=optimizer, loss='mse')
         autoencoder.fit(grafos_entrenamiento, grafos_entrenamiento, epochs=20, batch_size=64, verbose = 0)
@@ -212,44 +315,71 @@ class Main:
             reconstruccion_mod = reconstruccion[0]
             contador += 1
 
-            # Inicializar matriz de confusión
-            tn = 0  # 0s reconstruidos donde había 0s
-            fn = 0  # 0s reconstruidos donde había 1s
-            fp = 0  # 1s reconstruidos donde había 0s
-            tp = 0  # 1s reconstruidos donde había 1s
-            error = 0
+            self.matriz_confusion(grafo, reconstruccion_mod)
 
-            for i in range(len(grafo)):
-                if grafo[i] == 0:
-                    if reconstruccion_mod[i] == 0:
-                        tn += 1
-                    elif reconstruccion_mod[i] == 1:
-                        fp += 1
-                elif grafo[i] == 1:
-                    if reconstruccion_mod[i] == 0:
-                        fn += 1
-                    elif reconstruccion_mod[i] == 1:
-                        tp += 1
-                else:
-                    error += 1
 
-            # Matriz de confusión en valores absolutos
-            matriz_confusion = np.array([[tn, fp], [fn, tp]])
+    def matriz_confusion(self, grafo, grafo_reconstruido):
+        # Inicializar matriz de confusión
+        tn = 0  # 0s reconstruidos donde había 0s
+        fn = 0  # 0s reconstruidos donde había 1s
+        fp = 0  # 1s reconstruidos donde había 0s
+        tp = 0  # 1s reconstruidos donde había 1s
+        error = 0
 
-            # Cálculo de tasas (evitar divisiones por cero)
-            tpr = (tp / (tp + fn)) * 100
-            tnr = (tn / (tn + fp)) * 100
-            fpr = (fp / (fp + tn)) * 100
-            fnr = (fn / (fn + tp)) * 100
+        for i in range(len(grafo)):
+            if grafo[i] == 0:
+                if grafo_reconstruido[i] == 0:
+                    tn += 1
+                elif grafo_reconstruido[i] == 1:
+                    fp += 1
+            elif grafo[i] == 1:
+                if grafo_reconstruido[i] == 0:
+                    fn += 1
+                elif grafo_reconstruido[i] == 1:
+                    tp += 1
+            else:
+                error += 1
 
-            # Mostrar resultados
-            print(f"\n(TPR): {tpr:.4f}%, (TNR): {tnr:.4f}%, (FPR): {fpr:.4f}%, (FNR): {fnr:.4f}%")
+        # Matriz de confusión en valores absolutos
+        matriz_confusion = np.array([[tn, fp], [fn, tp]])
+        # Cálculo de tasas (evitar divisiones por cero)
+        tpr = (tp / (tp + fn)) * 100
+        tnr = (tn / (tn + fp)) * 100
+        fpr = (fp / (fp + tn)) * 100
+        fnr = (fn / (fn + tp)) * 100
 
+        # Mostrar resultados (COMENTADO PARA EL UMBRAL !DESCOMENTAR!
+        ##print(f"\n(TPR): {tpr:.4f}%, (TNR): {tnr:.4f}%, (FPR): {fpr:.4f}%, (FNR): {fnr:.4f}%")
+        return tpr, tnr, fpr, fnr
+
+    def graficar_resultados(self, threshold_list, tasa_list, nombre_tasa):
+        """
+        Grafica la evolución de una única métrica (TPR, TNR, FPR o FNR) en función del umbral.
+
+        Parámetros:
+            - threshold_list: Lista de umbrales utilizados.
+            - tasa_list: Lista con los valores de la métrica.
+            - nombre_tasa: Nombre de la métrica a graficar (ej: "TPR", "TNR").
+        """
+        plt.figure(figsize=(8, 5))
+        plt.plot(threshold_list, tasa_list, marker="o", linestyle="-", label=nombre_tasa)
+        print(nombre_tasa)
+        for i, n in zip(tasa_list, threshold_list):
+            print(f"Umbral {n}: {i}")
+
+        # Configuración del gráfico
+        plt.xlabel("Threshold")
+        plt.ylabel("Rate")
+        plt.title(f"Evolución de {nombre_tasa} según el umbral")
+        plt.legend()
+        plt.grid(True)
+        plt.xscale("log")  # Escala logarítmica en el eje X para mejor visualización
+        plt.show()
 
 
 class Run:
     @staticmethod
-    def ejecutar(ejecutar_pca, ejecutar_entrenamiento, ejecutar_tests, ejecutar_matriz_confusion):
+    def ejecutar(ejecutar_pca, ejecutar_entrenamiento, ejecutar_tests, ejecutar_tests_autoencoder, ejecutar_tests_stacked_autoencoder):
         main = Main()
 
         if ejecutar_pca:
@@ -275,12 +405,16 @@ class Run:
             print(
                 f"Resultados Tests -> ADHD: {acierto_test_adhd}, TD: {acierto_test_td}, Combinados: {acierto_test_Combinados}")
 
-        if ejecutar_matriz_confusion:
+        if ejecutar_tests_autoencoder:
             print("🟠 Ejecutando matriz confusion...")
             for i in range(20,40):
-                main.calcular_matriz_confusion(main.grafos_reducidos_ADHD, i)
-            main.calcular_matriz_confusion(main.grafos_reducidos_TD, 1)
-            main.calcular_matriz_confusion(main.grafos_reducidos_Combinados, 1)
+                main.tests_matriz(main.grafos_reducidos_ADHD, i)
+            main.tests_matriz(main.grafos_reducidos_TD, 1)
+            main.tests_matriz(main.grafos_reducidos_Combinados, 1)
+
+        if ejecutar_tests_stacked_autoencoder:
+            print("🟠 Ejecutando matriz confusion...")
+            main.test_stacked_autoencoders(main.grafos_reducidos_ADHD)
 
 
 
