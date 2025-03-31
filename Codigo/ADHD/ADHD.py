@@ -1,5 +1,6 @@
 import os
 import numpy as np
+from keras.src.layers import GaussianNoise
 from networkx.algorithms.bipartite.basic import color
 from sklearn.decomposition import PCA
 from sklearn.model_selection import train_test_split
@@ -7,7 +8,7 @@ import matplotlib.pyplot as plt
 import tensorflow as tf
 import keras
 from keras import layers, Model
-np.set_printoptions(threshold=np.inf)
+
 
 # Función que aplica la reduccion de dimensionalidad
 def reduccion_dimensionalidad(directorio):
@@ -110,6 +111,8 @@ def crear_stacked_autoencoder(input_dim, latent_dim_final):
     current_dim = input_dim
     # Construir y entrenar cada nivel de autoencoder
     for i, dim in enumerate(dims):
+
+        # Añadir GaussianNoise al inicio para crear ruido en la entrada
         #Creamos el encoded para la capa en cuestion
         encoded = layers.Dense(dim, activation='relu')(current_input)
         decoded = layers.Dense(current_dim, activation='sigmoid')(encoded)
@@ -249,10 +252,7 @@ class Main:
         mean_fnr_list = [np.mean(all_fnr[thr]) for thr in threshold_list]
 
         # Graficamos los resultados
-        self.graficar_resultados(threshold_list, mean_tpr_list, "TPR")
-        self.graficar_resultados(threshold_list, mean_tnr_list, "TNR")
-        self.graficar_resultados(threshold_list, mean_fpr_list, "FPR")
-        self.graficar_resultados(threshold_list, mean_fnr_list, "FNR")
+        self.graficar_resultados(threshold_list, mean_tpr_list, mean_tnr_list, mean_fpr_list, mean_fnr_list)
 
 
     # Itera para llamar a entrenar_autoencoder en todos el grafo y obtiene los resultados despues
@@ -317,6 +317,12 @@ class Main:
 
             self.matriz_confusion(grafo, reconstruccion_mod)
 
+    def aplicar_ruido(self,matriz, p):
+        for i in matriz:
+            if np.random.rand() < p:
+                matriz[i] = 1 - matriz[i]
+        return matriz
+
 
     def matriz_confusion(self, grafo, grafo_reconstruido):
         # Inicializar matriz de confusión
@@ -352,7 +358,7 @@ class Main:
         ##print(f"\n(TPR): {tpr:.4f}%, (TNR): {tnr:.4f}%, (FPR): {fpr:.4f}%, (FNR): {fnr:.4f}%")
         return tpr, tnr, fpr, fnr
 
-    def graficar_resultados(self, threshold_list, tasa_list, nombre_tasa):
+    def graficar_resultados(self, threshold_list, tpr, tnr, fpr, fnr):
         """
         Grafica la evolución de una única métrica (TPR, TNR, FPR o FNR) en función del umbral.
 
@@ -362,15 +368,14 @@ class Main:
             - nombre_tasa: Nombre de la métrica a graficar (ej: "TPR", "TNR").
         """
         plt.figure(figsize=(8, 5))
-        plt.plot(threshold_list, tasa_list, marker="o", linestyle="-", label=nombre_tasa)
-        print(nombre_tasa)
-        for i, n in zip(tasa_list, threshold_list):
-            print(f"Umbral {n}: {i}")
+        plt.plot(threshold_list, tpr,marker="o", linestyle="-", label="TPR", color="blue")
+        plt.plot(threshold_list, tnr, marker="o", linestyle="-", label="TNR", color="green")
+        plt.plot(threshold_list, fpr, marker="o", linestyle="-", label="FPR", color="red")
+        plt.plot(threshold_list, fnr, marker="o", linestyle="-", label="FNR", color="brown")
 
         # Configuración del gráfico
         plt.xlabel("Threshold")
         plt.ylabel("Rate")
-        plt.title(f"Evolución de {nombre_tasa} según el umbral")
         plt.legend()
         plt.grid(True)
         plt.xscale("log")  # Escala logarítmica en el eje X para mejor visualización
