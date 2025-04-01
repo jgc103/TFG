@@ -186,26 +186,26 @@ class Main:
 
     # Funcion tests pero para los autoencoders apilados
     def test_stacked_autoencoders(self, grafos):
-        plt.close('all')
 
         grafos_entrenamiento, grafos_test = train_test_split(grafos, test_size=0.2, random_state=42)
 
-        autoencoders, encoders = crear_stacked_autoencoder(input_dim=17955, latent_dim_final=1)
+        autoencoders, encoders = crear_stacked_autoencoder(input_dim=17955, latent_dim_final=10)
 
         # Entrenamiento del autoencoder
-        current_data = grafos_entrenamiento
+        noisy_data = np.array([self.aplicar_ruido(g, 0.1) for g in grafos_entrenamiento])
+
         for i, autoencoder in enumerate(autoencoders):
             print(f"Entrenando nivel {i + 1} del stacked autoencoder")
             optimizer = keras.optimizers.Adam(learning_rate=0.0005)
             autoencoder.compile(optimizer=optimizer, loss='mse')
-            autoencoder.fit(current_data, current_data, epochs=20, batch_size=64, verbose=0)
+            autoencoder.fit(noisy_data, noisy_data, epochs=30, batch_size=64)
 
             if i < len(encoders) - 1:
-                current_data = encoders[i].predict(current_data)
+                noisy_data = encoders[i].predict(noisy_data)
 
         # Lista de umbrales
         threshold_list = np.concatenate([
-            np.geomspace(0.0001, 0.1, num=20, endpoint=False),
+            np.geomspace(0.0001, 0.1, num=50, endpoint=False),
             np.linspace(0.1, 0.5, num=10)
         ])
 
@@ -244,7 +244,8 @@ class Main:
                 all_tnr[threshold].append(tnr)
                 all_fpr[threshold].append(fpr)
                 all_fnr[threshold].append(fnr)
-
+                print(f"UMBRAL: {threshold}")
+                print(f"TPR:{tpr} TNR:{tnr} FPR:{fpr} FNR:{fnr}")
         # Calculamos las medias finales para cada umbral
         mean_tpr_list = [np.mean(all_tpr[thr]) for thr in threshold_list]
         mean_tnr_list = [np.mean(all_tnr[thr]) for thr in threshold_list]
@@ -308,7 +309,7 @@ class Main:
 
         optimizer = keras.optimizers.Adam(learning_rate=learning_rate)
         autoencoder.compile(optimizer=optimizer, loss='mse')
-        autoencoder.fit(grafos_entrenamiento, grafos_entrenamiento, epochs=20, batch_size=64, verbose = 0)
+        autoencoder.fit(grafos_entrenamiento, grafos_entrenamiento, epochs=20, batch_size=64)
 
         for grafo in grafos_test:
             reconstruccion, cuello_botella = self.obtener_resultados(grafo, autoencoder, encoder)
@@ -318,7 +319,7 @@ class Main:
             self.matriz_confusion(grafo, reconstruccion_mod)
 
     def aplicar_ruido(self,matriz, p):
-        for i in matriz:
+        for i in range(len(matriz)):
             if np.random.rand() < p:
                 matriz[i] = 1 - matriz[i]
         return matriz
@@ -373,6 +374,7 @@ class Main:
         plt.plot(threshold_list, fpr, marker="o", linestyle="-", label="FPR", color="red")
         plt.plot(threshold_list, fnr, marker="o", linestyle="-", label="FNR", color="brown")
 
+
         # Configuración del gráfico
         plt.xlabel("Threshold")
         plt.ylabel("Rate")
@@ -419,7 +421,7 @@ class Run:
 
         if ejecutar_tests_stacked_autoencoder:
             print("🟠 Ejecutando matriz confusion...")
-            main.test_stacked_autoencoders(main.grafos_reducidos_ADHD)
+            main.test_stacked_autoencoders(main.grafos_reducidos_Combinados)
 
 
 
