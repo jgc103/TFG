@@ -52,14 +52,14 @@ def aplicar_pca_y_graficar(matriz_vectores, titulo, n_componentes):
           f"{fin_color} componentes:{color_titulo} {pca.explained_variance_ratio_.cumsum()}{fin_color}")
     print(f"Resultado total:{color_titulo}{100 * pca.explained_variance_ratio_.cumsum()[-1]}{fin_color}")
     # Resultados PCA
-    #plt.figure(figsize=(10, 7))
-    #plt.scatter(matriz_reducida[:, 0], matriz_reducida[:, 1], c='b', marker='o')
+    plt.figure(figsize=(10, 7))
+    plt.scatter(matriz_reducida[:, 0], matriz_reducida[:, 1], c='b', marker='o')
 
     # Títulos y etiquetas de los ejes
-    #plt.title(f'PCA de {titulo}')
-    #plt.xlabel(f'Numero de Componentes: {n_componentes}')
-    #plt.grid()
-    #plt.show()
+    plt.title(f'PCA de {titulo}')
+    plt.xlabel(f'Numero de Componentes: {n_componentes}')
+    plt.grid()
+    plt.show()
 
     # Plot explained variance ratio
     cumulative_variance_ratio = np.cumsum(pca.explained_variance_ratio_)
@@ -139,6 +139,8 @@ class Main:
         self.grafos_reducidos_ADHD = None
         self.grafos_reducidos_TD = None
         self.grafos_reducidos_Combinados = None
+        self.threshold_list = None
+        self.threshold_list_no_denoising = None
 
 
         # Modelamos los datos para que tengan la estructura necesaria de la PCA
@@ -148,6 +150,14 @@ class Main:
         self.grafos_reducidos_TD = reduccion_dimensionalidad(self.directorio_TD)
         # ADHD & TD
         self.grafos_reducidos_Combinados = np.vstack((self.grafos_reducidos_ADHD, self.grafos_reducidos_TD))
+        #Threshold list
+        # Lista de umbrales
+        self.threshold_list = np.linspace(0.1, 0.5, num=30)
+
+        self.threshold_list_no_denoising = np.concatenate([
+            np.geomspace(0.0001, 0.1, num=25, endpoint=False),
+            np.linspace(0.1, 0.5, num=5)
+        ])
 
 
     """Divide los datos de entrenamiento y test"""
@@ -159,7 +169,7 @@ class Main:
         # Creamos el autoencoder y lo entrenamos con el entrenamiento
         autoencoder, encoder = crear_autoencoder(input_dim=17955, entrada=10)
         # Compilamos y aprendemos
-        learning_rate = 0.0005  # Puedes probar con diferentes valores como 0.001, 0.0001, etc.
+        learning_rate = 0.0005
         optimizer = keras.optimizers.Adam(learning_rate=learning_rate)
         autoencoder.compile(optimizer=optimizer, loss='mse')
         autoencoder.fit(grafos_entrenamiento, grafos_entrenamiento, epochs=20, batch_size=64)
@@ -185,29 +195,33 @@ class Main:
         return porcentaje_acierto_medio
 
     # Funcion tests pero para los autoencoders apilados
-    def test_stacked_autoencoders(self, grafos):
+    def test_stacked_autoencoders(self, grafos, booleano_denoising, noise):
 
         grafos_entrenamiento, grafos_test = train_test_split(grafos, test_size=0.2, random_state=42)
 
         autoencoders, encoders = crear_stacked_autoencoder(input_dim=17955, latent_dim_final=10)
+        if booleano_denoising:
+            threshold_list = self.threshold_list
+        else:
+            threshold_list = self.threshold_list_no_denoising
 
         # Entrenamiento del autoencoder
-        noisy_data = np.array([self.aplicar_ruido(g, 0.1) for g in grafos_entrenamiento])
+        if booleano_denoising:
+            noisy_data = np.array([self.aplicar_ruido(g, noise) for g in grafos_entrenamiento])
+        else:
+            noisy_data = np.array(grafos_entrenamiento)
+
+        original_data = np.array(grafos_entrenamiento)
 
         for i, autoencoder in enumerate(autoencoders):
             print(f"Entrenando nivel {i + 1} del stacked autoencoder")
             optimizer = keras.optimizers.Adam(learning_rate=0.0005)
             autoencoder.compile(optimizer=optimizer, loss='mse')
-            autoencoder.fit(noisy_data, noisy_data, epochs=30, batch_size=64)
+            autoencoder.fit(noisy_data, original_data, epochs=30, batch_size=128)
 
             if i < len(encoders) - 1:
                 noisy_data = encoders[i].predict(noisy_data)
-
-        # Lista de umbrales
-        threshold_list = np.concatenate([
-            np.geomspace(0.0001, 0.1, num=50, endpoint=False),
-            np.linspace(0.1, 0.5, num=10)
-        ])
+                original_data = encoders[i].predict(original_data)
 
         # Diccionarios para almacenar los valores de cada métrica para cada umbral
         all_tpr = {thr: [] for thr in threshold_list}
@@ -252,8 +266,12 @@ class Main:
         mean_fpr_list = [np.mean(all_fpr[thr]) for thr in threshold_list]
         mean_fnr_list = [np.mean(all_fnr[thr]) for thr in threshold_list]
 
-        # Graficamos los resultados
-        self.graficar_resultados(threshold_list, mean_tpr_list, mean_tnr_list, mean_fpr_list, mean_fnr_list)
+        return {
+            "TPR": mean_tpr_list,
+            "TNR": mean_tnr_list,
+            "FPR": mean_fpr_list,
+            "FNR": mean_fnr_list,
+        }
 
 
     # Itera para llamar a entrenar_autoencoder en todos el grafo y obtiene los resultados despues
@@ -359,28 +377,83 @@ class Main:
         ##print(f"\n(TPR): {tpr:.4f}%, (TNR): {tnr:.4f}%, (FPR): {fpr:.4f}%, (FNR): {fnr:.4f}%")
         return tpr, tnr, fpr, fnr
 
-    def graficar_resultados(self, threshold_list, tpr, tnr, fpr, fnr):
+    def graficar_resultados(self, threshold_list, resultados_con_ruido):
         """
         Grafica la evolución de una única métrica (TPR, TNR, FPR o FNR) en función del umbral.
-
-        Parámetros:
-            - threshold_list: Lista de umbrales utilizados.
-            - tasa_list: Lista con los valores de la métrica.
-            - nombre_tasa: Nombre de la métrica a graficar (ej: "TPR", "TNR").
         """
-        plt.figure(figsize=(8, 5))
-        plt.plot(threshold_list, tpr,marker="o", linestyle="-", label="TPR", color="blue")
-        plt.plot(threshold_list, tnr, marker="o", linestyle="-", label="TNR", color="green")
-        plt.plot(threshold_list, fpr, marker="o", linestyle="-", label="FPR", color="red")
-        plt.plot(threshold_list, fnr, marker="o", linestyle="-", label="FNR", color="brown")
+        plt.figure(figsize=(10, 6))
+        plt.plot(threshold_list, resultados_con_ruido["TPR"],marker="o", linestyle="-", label="TPR", color="blue")
+        plt.plot(threshold_list, resultados_con_ruido["FPR"], marker="o", linestyle="-", label="FPR", color="red")
 
 
         # Configuración del gráfico
         plt.xlabel("Threshold")
         plt.ylabel("Rate")
+        plt.title("Comparativa métricas con y sin denoising")
         plt.legend()
         plt.grid(True)
-        plt.xscale("log")  # Escala logarítmica en el eje X para mejor visualización
+        plt.xscale("linear")  # Cambia a log si quieres
+        plt.tight_layout()
+        plt.show()
+
+    def graficar_resultados_comparativa(self, threshold_list, resultados_con_ruido, resultados_sin_ruido):
+        """
+        Compara las métricas de rendimiento entre dos configuraciones (con y sin ruido).
+        """
+        plt.figure(figsize=(10, 6))
+        # Con ruido (azul)
+        plt.plot(threshold_list, resultados_con_ruido["TPR"], marker="o", linestyle="-", label="TPR con ruido",
+                 color="blue")
+        plt.plot(threshold_list, resultados_con_ruido["FPR"], marker="o", linestyle="-", label="FPR con ruido",
+                 color="navy")
+
+        # Sin ruido (verde)
+        plt.plot(threshold_list, resultados_sin_ruido["TPR"], marker="s", linestyle="--", label="TPR sin ruido",
+                 color="green")
+        plt.plot(threshold_list, resultados_sin_ruido["FPR"], marker="s", linestyle="--", label="FPR sin ruido",
+                 color="darkgreen")
+
+        plt.xlabel("Threshold")
+        plt.ylabel("Rate")
+        plt.title("Comparativa métricas con y sin denoising")
+        plt.legend()
+        plt.grid(True)
+        plt.xscale("linear")  # Cambia a log si quieres
+        plt.tight_layout()
+        plt.show()
+
+    def graficar_curvas_roc_comparativa(self, threshold_list, resultados_con_ruido, resultados_sin_ruido):
+        """
+        Grafica la comparación entre dos curvas ROC: una con ruido y otra sin ruido.
+        """
+        fpr_ruido = resultados_con_ruido["FPR"]
+        tpr_ruido = resultados_con_ruido["TPR"]
+
+        fpr_sin = resultados_sin_ruido["FPR"]
+        tpr_sin = resultados_sin_ruido["TPR"]
+
+        plt.figure(figsize=(7, 7))
+
+        # Curva ROC con ruido
+        plt.plot(fpr_ruido, tpr_ruido, marker="o", linestyle="-", color="blue", label="ROC con ruido")
+        for i in range(len(threshold_list)):
+            plt.text(fpr_ruido[i], tpr_ruido[i], f'{threshold_list[i]:.2f}', fontsize=8, color='blue', ha='right')
+
+        # Curva ROC sin ruido
+        plt.plot(fpr_sin, tpr_sin, marker="s", linestyle="--", color="green", label="ROC sin ruido")
+        for i in range(len(threshold_list)):
+            plt.text(fpr_sin[i], tpr_sin[i], f'{threshold_list[i]:.2f}', fontsize=8, color='green', ha='right')
+
+        # Línea aleatoria
+        plt.plot([0, 1], [0, 1], linestyle="--", color="gray", label="Aleatorio")
+
+        # Configuración del gráfico
+        plt.xlabel("False Positive Rate (FPR)")
+        plt.ylabel("True Positive Rate (TPR)")
+        plt.title("Comparativa de Curvas ROC (con vs sin ruido)")
+        plt.legend()
+        plt.grid(True)
+        plt.tight_layout()
         plt.show()
 
 
@@ -421,7 +494,26 @@ class Run:
 
         if ejecutar_tests_stacked_autoencoder:
             print("🟠 Ejecutando matriz confusion...")
-            main.test_stacked_autoencoders(main.grafos_reducidos_Combinados)
+            res_denoising = main.test_stacked_autoencoders(main.grafos_reducidos_Combinados, True, 0.01)
+            res_no_denoising = main.test_stacked_autoencoders(main.grafos_reducidos_Combinados, False, 0.01)
+            main.graficar_resultados_comparativa(main.threshold_list, res_denoising, res_no_denoising)
+
+            res_denoising = main.test_stacked_autoencoders(main.grafos_reducidos_Combinados, True, 0.05)
+            res_no_denoising = main.test_stacked_autoencoders(main.grafos_reducidos_Combinados, False, 0.05)
+            main.graficar_resultados_comparativa(main.threshold_list, res_denoising, res_no_denoising)
+
+            res_no_denoising = main.test_stacked_autoencoders(main.grafos_reducidos_Combinados, False, 0.1)
+            res_denoising = main.test_stacked_autoencoders(main.grafos_reducidos_Combinados, True,0.1)
+            main.graficar_resultados_comparativa(main.threshold_list, res_denoising, res_no_denoising)
+
+            res_no_denoising = main.test_stacked_autoencoders(main.grafos_reducidos_Combinados, False, 0.15)
+            res_denoising = main.test_stacked_autoencoders(main.grafos_reducidos_Combinados, True, 0.15)
+            main.graficar_resultados_comparativa(main.threshold_list, res_denoising, res_no_denoising)
+
+            res_no_denoising = main.test_stacked_autoencoders(main.grafos_reducidos_Combinados, False, 0.2)
+            res_denoising = main.test_stacked_autoencoders(main.grafos_reducidos_Combinados, True, 0.2)
+            main.graficar_resultados_comparativa(main.threshold_list, res_denoising, res_no_denoising)
+
 
 
 
