@@ -24,7 +24,8 @@ if __name__ == "__main__":
     ejecutar_entrenamiento = False
     ejecutar_tests = False
     ejecutar_tests_autoencoder = False
-    ejecutar_tests_stacked_autoencoder = True
+    ejecutar_tests_stacked_autoencoder = False
+    ejecutar_tests_stacked_autoencoder_heatmap = True
 
 
     # Procesar los argumentos de la terminal
@@ -41,6 +42,9 @@ if __name__ == "__main__":
         ejecutar_tests_autoencoder = True
     if args.testStackedAutoencoder:
         ejecutar_tests_stacked_autoencoder = True
+    if args.testStackedAutoencoder:
+        ejecutar_tests_stacked_autoencoder_heatmap = True
 
     # Ejecutar según los valores de las variables
-    Run.ejecutar(ejecutar_pca, ejecutar_entrenamiento, ejecutar_tests, ejecutar_tests_autoencoder, ejecutar_tests_stacked_autoencoder)
+    Run.ejecutar(ejecutar_pca, ejecutar_entrenamiento, ejecutar_tests, ejecutar_tests_autoencoder, ejecutar_tests_stacked_autoencoder,
+                 ejecutar_tests_stacked_autoencoder_heatmap)

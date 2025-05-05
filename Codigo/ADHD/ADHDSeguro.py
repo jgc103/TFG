@@ -132,7 +132,6 @@ def crear_stacked_autoencoder(input_dim, latent_dim_final):
         current_dim = dim
     return autoencoders, encoders
 
-
 class Main:
     def __init__(self):
         # Ruta para leer los ficheros
@@ -202,12 +201,15 @@ class Main:
         grafos_entrenamiento, grafos_test = train_test_split(grafos, test_size=0.2, random_state=42)
 
         autoencoders, encoders = crear_stacked_autoencoder(input_dim=17955, latent_dim_final=10)
-
         if booleano_denoising:
             threshold_list = self.threshold_list
-            noisy_data = np.array([self.aplicar_ruido(g, noise) for g in grafos_entrenamiento])
         else:
             threshold_list = self.threshold_list_no_denoising
+
+        # Entrenamiento del autoencoder
+        if booleano_denoising:
+            noisy_data = np.array([self.aplicar_ruido(g, noise) for g in grafos_entrenamiento])
+        else:
             noisy_data = np.array(grafos_entrenamiento)
 
         original_data = np.array(grafos_entrenamiento)
@@ -224,20 +226,22 @@ class Main:
 
         if mapa_calor:
             threshold_list = [0.145]
-
+        # Diccionarios para almacenar los valores de cada métrica para cada umbral
         all_tpr = {thr: [] for thr in threshold_list}
         all_tnr = {thr: [] for thr in threshold_list}
         all_fpr = {thr: [] for thr in threshold_list}
         all_fnr = {thr: [] for thr in threshold_list}
 
+        # Creamos las listas para evaluar su mapa de calor
         binarios_originales = []
         binarios_reconstruidos = []
-        comprobar_numero_reconstrucciones = set()
-        comprobar_numero_reconstrucciones2 = set()
 
+
+        # Proceso de test
         for grafo in grafos_test:
             input_data = np.expand_dims(grafo, axis=0)
 
+            # Paso por los encoders
             current_representation = input_data
             for encoder in encoders:
                 current_representation = encoder.predict(current_representation, verbose=0)
@@ -252,28 +256,30 @@ class Main:
 
             reconstruccion_mod_base = current_reconstruction.numpy()[0]
 
-
+            # Evaluamos la reconstrucción en cada umbral
             for threshold in threshold_list:
                 reconstruccion_mod = (reconstruccion_mod_base > float(threshold)).astype(int)
                 tpr, tnr, fpr, fnr = self.matriz_confusion(grafo, reconstruccion_mod)
 
+
+                # Llamamos a la funcion de analizar los porcentajes por arista
                 if mapa_calor:
                     binarios_originales.append(grafo)
                     binarios_reconstruidos.append(reconstruccion_mod)
-                    comprobar_numero_reconstrucciones.add(tuple(reconstruccion_mod))
-                    comprobar_numero_reconstrucciones2.add(tuple(grafo))
 
+                # Guardamos los valores en cada umbral
                 all_tpr[threshold].append(tpr)
                 all_tnr[threshold].append(tnr)
                 all_fpr[threshold].append(fpr)
                 all_fnr[threshold].append(fnr)
-        print(f"Número de reconstrucciones distintas hasta ahora: {len(comprobar_numero_reconstrucciones)}")
-        print(f"Número de grafos distintos hasta ahora: {len(comprobar_numero_reconstrucciones2)}")
+                #print(f"UMBRAL: {threshold}")
+                #print(f"TPR:{tpr} TNR:{tnr} FPR:{fpr} FNR:{fnr}")
+
         if mapa_calor:
             self.contar_aciertos_y_porcentaje_por_arista(
-                binarios_originales, binarios_reconstruidos, num_nodos=190
-            )
+                binarios_originales, binarios_reconstruidos,num_nodos=190)
 
+        # Calculamos las medias finales para cada umbral
         mean_tpr_list = [np.mean(all_tpr[thr]) for thr in threshold_list]
         mean_tnr_list = [np.mean(all_tnr[thr]) for thr in threshold_list]
         mean_fpr_list = [np.mean(all_fpr[thr]) for thr in threshold_list]
@@ -285,6 +291,7 @@ class Main:
             "FPR": mean_fpr_list,
             "FNR": mean_fnr_list,
         }
+
 
     # Itera para llamar a entrenar_autoencoder en todos el grafo y obtiene los resultados despues
     def bucle_entrenar_y_resultados(self, grafos):
@@ -361,6 +368,16 @@ class Main:
 
         grafos_originales = np.array(grafos_originales)
         grafos_reconstruidos = np.array(grafos_reconstruidos)
+
+        grafos_comprobar_originales = grafos_reconstruidos
+        # Convertimos cada vector a una tupla para poder usar sets
+        grafos_como_tuplas = [tuple(grafo) for grafo in grafos_comprobar_originales]
+
+        # Creamos un conjunto con las tuplas (los sets eliminan duplicados)
+        conjunto_unicos = set(grafos_como_tuplas)
+
+        # Mostramos cuántos son únicos
+        print(f"Total de grafos únicos reconstruidos: {len(conjunto_unicos)} de {len(grafos_comprobar_originales)}")
 
         assert grafos_originales.shape == grafos_reconstruidos.shape, "Dimensiones incompatibles"
 
@@ -636,12 +653,12 @@ class Run:
         if ejecutar_tests_stacked_autoencoder:
             print("🟠 Ejecutando matriz confusion...")
 
-            res_denoising = main.test_stacked_autoencoders(main.grafos_reducidos_Combinados, True, 0.1, False)
-            res_no_denoising = main.test_stacked_autoencoders(main.grafos_reducidos_Combinados, False, 0.1, False)
+            res_denoising = main.test_stacked_autoencoders(main.grafos_reducidos_Combinados, True, 0.01, False)
+            res_no_denoising = main.test_stacked_autoencoders(main.grafos_reducidos_Combinados, False, 0.01, False)
             main.graficar_curvas_roc_comparativa(main.threshold_list, res_denoising, res_no_denoising)
 
-            res_denoising = main.test_stacked_autoencoders(main.grafos_reducidos_Combinados, True, 0.15, False)
-            res_no_denoising = main.test_stacked_autoencoders(main.grafos_reducidos_Combinados, False, 0.15, False)
+            res_denoising = main.test_stacked_autoencoders(main.grafos_reducidos_Combinados, True, 0.05, False)
+            res_no_denoising = main.test_stacked_autoencoders(main.grafos_reducidos_Combinados, False, 0.05, False)
             main.graficar_curvas_roc_comparativa(main.threshold_list, res_denoising, res_no_denoising)
             """
             res_no_denoising = main.test_stacked_autoencoders(main.grafos_reducidos_Combinados, False, 0.1)
