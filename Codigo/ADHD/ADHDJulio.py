@@ -10,6 +10,7 @@ from keras import backend as K, layers, Model
 import seaborn as sns  # Aquí importamos seaborn para el heatmap
 
 
+
 # Función que aplica la reduccion de dimensionalidad
 def reduccion_dimensionalidad(directorio):
     grafos_reducidos = {}
@@ -146,39 +147,41 @@ def crear_deep_autoencoder(input_dim, latent_dim_final, noise_factor=0.1):
     return autoencoder, encoder
 
 
+def crear_stacked_autoencoder(input_dim, latent_dim_final):
+    # Definir las dimensiones de cada nivel
+    dims = [5000, 1000, 500, 250, 100, 50]
+    dims = [dim for dim in dims if dim < input_dim]
+    if latent_dim_final not in dims:
+        dims.append(latent_dim_final)
 
-def crear_stacked_autoencoder(dims):
-    """
-    Crea la estructura del stacked autoencoder sin compilar ni entrenar.
+    autoencoders = []
+    encoders = []
 
-    dims: lista con las dimensiones de cada capa (ej: [17900, 5000, 1000, 250, 50])
-    Devuelve: encoder_model, decoder_model, full_autoencoder
-    """
-    # Encoder
-    input_layer = layers.Input(shape=(dims[0],), name='input')
-    x = input_layer
+    current_input_dim = input_dim
 
-    for i, (in_dim, out_dim) in enumerate(zip(dims[:-1], dims[1:])):
-        x = layers.Dense(out_dim, activation='relu', name=f'encoder_dense_{i}')(x)
+    for i, dim in enumerate(dims):
+        # Encoder
+        encoder_input = layers.Input(shape=(current_input_dim,))
+        encoded = layers.Dense(dim, activation='relu',
+                               kernel_initializer='glorot_uniform',
+                               name=f'encoder_{i}')(encoder_input)
 
-    encoder_model = Model(input_layer, x, name='encoder')
+        # Decoder
+        decoded = layers.Dense(current_input_dim, activation='sigmoid',
+                               kernel_initializer='glorot_uniform',
+                               name=f'decoder_{i}')(encoded)
 
-    # Decoder
-    decoder_input = layers.Input(shape=(dims[-1],), name='decoder_input')
-    x_dec = decoder_input
+        # Modelos
+        autoencoder = Model(encoder_input, decoded, name=f'autoencoder_{i}')
+        encoder = Model(encoder_input, encoded, name=f'encoder_{i}')
 
-    # Para el decoder usamos ReLU en las capas ocultas y sigmoid en la última capa para salida entre 0 y 1
-    for i, (out_dim, in_dim) in enumerate(zip(reversed(dims[1:]), reversed(dims[:-1]))):
-        activation = 'sigmoid' if i == len(dims) - 2 else 'relu'
-        x_dec = layers.Dense(in_dim, activation=activation, name=f'decoder_dense_{i}')(x_dec)
+        autoencoders.append(autoencoder)
+        encoders.append(encoder)
 
-    decoder_model = Model(decoder_input, x_dec, name='decoder')
+        # Para el siguiente nivel
+        current_input_dim = dim
 
-    # Autoencoder completo
-    autoencoder_output = decoder_model(encoder_model(input_layer))
-    full_autoencoder = Model(input_layer, autoencoder_output, name='stacked_autoencoder')
-
-    return encoder_model, decoder_model, full_autoencoder
+    return autoencoders, encoders
 
 # Funciones de perdida
 
@@ -284,7 +287,7 @@ class Main:
         print("Entrenando stacked autoencoder completo...")
         optimizer = keras.optimizers.Adam(learning_rate=0.0001)
         loss_fn = weighted_binary_crossentropy(pos_weight=1.5)
-        autoencoder.compile(optimizer=optimizer, loss='binary_crossentropy')
+        autoencoder.compile(optimizer=optimizer, loss=loss_fn)
         # Callbacks para mejorar entrenamiento
         early_stopping = keras.callbacks.EarlyStopping(
             monitor='val_loss',
@@ -368,115 +371,88 @@ class Main:
             "FNR": mean_fnr_list,
         }
 
-    def test_stacked_autoencoder(self, grafos, booleano_denoising, noise, mapa_calor):
+    def test_stacked_autoencoders(self, grafos, booleano_denoising, noise, mapa_calor):
+
         grafos_entrenamiento, grafos_test = train_test_split(grafos, test_size=0.2, random_state=42)
 
-        # Añadir ruido si es necesario
+        # Crear los stacked autoencoders (lista de autoencoders y encoders)
         if booleano_denoising:
-            noisy_data = np.array([self.aplicar_ruido(g, noise) for g in grafos_entrenamiento])
+            autoencoders, encoders = crear_stacked_autoencoder(input_dim=17955, latent_dim_final=10)
             threshold_list = self.threshold_list
+            noisy_data = np.array([self.aplicar_ruido(g, noise) for g in grafos_entrenamiento])
         else:
-            noisy_data = np.array(grafos_entrenamiento)
+            autoencoders, encoders = crear_stacked_autoencoder(input_dim=17955, latent_dim_final=10)
             threshold_list = self.threshold_list_no_denoising
+            noisy_data = np.array(grafos_entrenamiento)
 
-        dims = [17955, 5000, 1000, 250, 50]  # Arquitectura por defecto
-        current_input = noisy_data
+        original_data = np.array(grafos_entrenamiento)
 
-        early_stopping = keras.callbacks.EarlyStopping(
-            monitor='val_loss', patience=5, restore_best_weights=True, min_delta=1e-4
-        )
-        reduce_lr = keras.callbacks.ReduceLROnPlateau(
-            monitor='val_loss', factor=0.5, patience=5, min_lr=1e-6
-        )
-        pre_trained_weights = []
-        print("\n🔁 Entrenamiento greedy capa por capa:")
-        for i in range(len(dims) - 1):
-            input_dim = dims[i]
-            hidden_dim = dims[i + 1]
-            activation_decoder = 'sigmoid' if i == 0 else 'relu'
-            input_layer = layers.Input(shape=(input_dim,))
-            encoded = layers.Dense(hidden_dim, activation=activation_decoder)(input_layer)
-            decoded = layers.Dense(input_dim, activation=activation_decoder)(encoded)
+        # Entrenar cada autoencoder por nivel
+        current_train = noisy_data
+        for i, ae in enumerate(autoencoders):
+            print(f"Entrenando autoencoder nivel {i}...")
+            ae.compile(optimizer=keras.optimizers.Adam(learning_rate=0.0005), loss='binary_crossentropy')
 
-            ae = Model(input_layer, decoded)
-            loss_fn = weighted_binary_crossentropy(pos_weight=1.5)
-            ae.compile(optimizer=keras.optimizers.Adam(), loss='binary_crossentropy')
+            early_stopping = keras.callbacks.EarlyStopping(monitor='val_loss', patience=10, restore_best_weights=True)
+            reduce_lr = keras.callbacks.ReduceLROnPlateau(monitor='val_loss', factor=0.5, patience=5, min_lr=1e-6)
 
-            print(f"  🧱 Capa {i + 1}: {input_dim} → {hidden_dim}")
             ae.fit(
-                current_input, current_input,
-                epochs=100,
-                batch_size=32,
+                current_train, current_train,
+                epochs=20,
+                batch_size=128,
                 validation_split=0.2,
                 callbacks=[early_stopping, reduce_lr],
                 verbose=1
             )
+            # Codificar para el siguiente nivel
+            current_train = encoders[i].predict(current_train)
 
-            encoder_weights = ae.layers[1].get_weights()
-            decoder_weights = ae.layers[2].get_weights()
-            pre_trained_weights.append((encoder_weights, decoder_weights))
+        # Crear el modelo final encoders + decoders
+        from keras import Input, Model
+        input_layer = Input(shape=(17955,))
+        x = input_layer
+        for encoder in encoders:
+            x = encoder.layers[1](x)  # Dense layer
 
-            encoder = Model(input_layer, encoded)
-            current_input = encoder.predict(current_input)
+        for decoder in reversed(autoencoders):
+            x = decoder.layers[-1](x)  # Dense layer
 
-        # Crear modelo final desde función externa
-        encoder_model, decoder_model, autoencoder_model = crear_stacked_autoencoder(dims)
+        final_model = Model(inputs=input_layer, outputs=x)
 
-        num_layers = len(pre_trained_weights)
-        for i, (enc_weights, dec_weights) in enumerate(pre_trained_weights):
-            encoder_model.get_layer(f'encoder_dense_{i}').set_weights(enc_weights)
-
-            # Invertimos el orden de las capas del decoder
-            decoder_layer_index = num_layers - 1 - i
-            decoder_model.get_layer(f'decoder_dense_{decoder_layer_index}').set_weights(dec_weights)
-
-        # Fine-tuning completo
-        print("\n🔧 Fine-tuning del autoencoder completo...")
-        optimizer = keras.optimizers.Adam(learning_rate=0.0001)
-        loss_fn = weighted_binary_crossentropy(pos_weight=2)  # Ajusta tu función si es externa
-        autoencoder_model.compile(optimizer=optimizer, loss='mse')
-
-        autoencoder_model.fit(
-            noisy_data, np.array(grafos_entrenamiento),
-            epochs=100,
-            batch_size=32,
-            validation_split=0.2,
-            callbacks=[early_stopping, reduce_lr],
-            verbose=1
-        )
-
-        # Evaluación
+        # Ahora evaluar el modelo final
         if mapa_calor:
-            threshold_list = [0.3]
+            threshold_list = [0.44]
 
-        all_tpr, all_tnr, all_fpr, all_fnr = ({thr: [] for thr in threshold_list} for _ in range(4))
-        binarios_originales, binarios_reconstruidos = [], []
+        all_tpr = {thr: [] for thr in threshold_list}
+        all_tnr = {thr: [] for thr in threshold_list}
+        all_fpr = {thr: [] for thr in threshold_list}
+        all_fnr = {thr: [] for thr in threshold_list}
+
+        binarios_originales = []
+        binarios_reconstruidos = []
         comprobar_numero_reconstrucciones = set()
         comprobar_numero_reconstrucciones2 = set()
-        num_grafos_total = 0
 
         for grafo in grafos_test:
             input_data = np.expand_dims(grafo, axis=0)
-            reconstruccion = autoencoder_model.predict(input_data, verbose=0)[0]
+
+            reconstruccion_mod_base = final_model.predict(input_data, verbose=0)[0]
 
             for threshold in threshold_list:
-                reconstruccion_binaria = (reconstruccion > threshold).astype(int)
+                reconstruccion_mod = (reconstruccion_mod_base > float(threshold)).astype(int)
+                tpr, tnr, fpr, fnr = self.matriz_confusion(grafo, reconstruccion_mod)
 
-                tpr, tnr, fpr, fnr = self.matriz_confusion(grafo, reconstruccion_binaria)
+                if mapa_calor:
+                    binarios_originales.append(grafo)
+                    binarios_reconstruidos.append(reconstruccion_mod)
+
+                comprobar_numero_reconstrucciones.add(tuple(reconstruccion_mod))
+                comprobar_numero_reconstrucciones2.add(tuple(grafo))
                 all_tpr[threshold].append(tpr)
                 all_tnr[threshold].append(tnr)
                 all_fpr[threshold].append(fpr)
                 all_fnr[threshold].append(fnr)
 
-                if mapa_calor:
-                    binarios_originales.append(grafo)
-                    binarios_reconstruidos.append(reconstruccion_binaria)
-
-                comprobar_numero_reconstrucciones.add(tuple(reconstruccion_binaria))
-                comprobar_numero_reconstrucciones2.add(tuple(grafo))
-                num_grafos_total += 1
-
-        print(f"\nNumero de grafos totales: {num_grafos_total}")
         print(f"Número de reconstrucciones distintas: {len(comprobar_numero_reconstrucciones)}")
         print(f"Número de grafos distintos: {len(comprobar_numero_reconstrucciones2)}")
 
@@ -485,11 +461,16 @@ class Main:
                 binarios_originales, binarios_reconstruidos, num_nodos=190
             )
 
+        mean_tpr_list = [np.mean(all_tpr[thr]) for thr in threshold_list]
+        mean_tnr_list = [np.mean(all_tnr[thr]) for thr in threshold_list]
+        mean_fpr_list = [np.mean(all_fpr[thr]) for thr in threshold_list]
+        mean_fnr_list = [np.mean(all_fnr[thr]) for thr in threshold_list]
+
         return {
-            "TPR": [np.mean(all_tpr[thr]) for thr in threshold_list],
-            "TNR": [np.mean(all_tnr[thr]) for thr in threshold_list],
-            "FPR": [np.mean(all_fpr[thr]) for thr in threshold_list],
-            "FNR": [np.mean(all_fnr[thr]) for thr in threshold_list],
+            "TPR": mean_tpr_list,
+            "TNR": mean_tnr_list,
+            "FPR": mean_fpr_list,
+            "FNR": mean_fnr_list,
         }
 
     # Itera para llamar a entrenar_autoencoder en todos el grafo y obtiene los resultados despues
@@ -842,12 +823,13 @@ class Run:
         if ejecutar_tests_stacked_autoencoder:
             print("🟠 Ejecutando matriz confusion...")
 
-            res_denoising = main.test_stacked_autoencoder(main.grafos_reducidos_Combinados, True, 0.10, False)
-            res_no_denoising = main.test_stacked_autoencoder(main.grafos_reducidos_Combinados, False, 0.10, False)
+            res_denoising = main.test_deep_autoencoders(main.grafos_reducidos_Combinados, True, 0.1, False)
+            res_no_denoising = main.test_deep_autoencoders(main.grafos_reducidos_Combinados, False, 0.1, False)
+            main.graficar_resultados(main.threshold_list, res_denoising)
             main.graficar_curvas_roc_comparativa(main.threshold_list, res_denoising, res_no_denoising)
 
-            res_denoising = main.test_deep_autoencoders(main.grafos_reducidos_Combinados, True, 0.10, False)
-            res_no_denoising = main.test_deep_autoencoders(main.grafos_reducidos_Combinados, False, 0.10, False)
+            res_denoising = main.test_deep_autoencoders(main.grafos_reducidos_Combinados, True, 0.15, False)
+            res_no_denoising = main.test_deep_autoencoders(main.grafos_reducidos_Combinados, False, 0.15, False)
             main.graficar_curvas_roc_comparativa(main.threshold_list, res_denoising, res_no_denoising)
             """
             res_no_denoising = main.test_stacked_autoencoders(main.grafos_reducidos_Combinados, False, 0.1)

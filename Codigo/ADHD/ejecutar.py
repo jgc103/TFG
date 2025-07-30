@@ -1,6 +1,7 @@
 import ADHD
 import argparse
 from ADHD import Run
+import tensorflow as tf
 
 
 
@@ -19,13 +20,15 @@ def parse_args():
     return parser.parse_args()
 
 if __name__ == "__main__":
+    # Forzar uso de GPU si está disponible
+
     # Valores por defecto para cuando se ejecuta desde el compilador
     ejecutar_pca = False
     ejecutar_entrenamiento = False
     ejecutar_tests = False
     ejecutar_tests_autoencoder = False
-    ejecutar_tests_stacked_autoencoder = False
-    ejecutar_tests_stacked_autoencoder_heatmap = True
+    ejecutar_tests_stacked_autoencoder = True
+    ejecutar_tests_stacked_autoencoder_heatmap = False
 
 
     # Procesar los argumentos de la terminal
